@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/mindrisers_logo.png" alt="Mindrisers" width="140">
-</p>
-
 <h1 align="center">Marketing Campaign Effectiveness Analysis</h1>
 
 <p align="center">
