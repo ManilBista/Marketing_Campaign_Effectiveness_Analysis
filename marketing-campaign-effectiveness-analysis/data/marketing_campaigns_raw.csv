@@ -1,0 +1,1219 @@
+campaign_id,campaign_name,campaign_type,channel,region,target_audience,start_date,end_date,budget,spend,impressions,clicks,conversions,revenue,engagement_score
+CMP-0542,Webinar - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2023-07-26,2023-08-24,15300.0,15082.4,472928,10893.0,620.0,46771.25,6.0
+CMP-0260,Free Trial - Display - EU,Lead Generation,Display,Europe,Gen Z (18-24),2023-07-20,2023-08-18,7850.0,7031.26,1909955,4291.0,71.0,4303.14,1.0
+CMP-0044,First Look - Social Media - NA,Product Launch,Social Media ,,Gen Z (18-24),2023-07-12,2023-08-10,36650.0,30012.11,2529122,63621.0,1243.0,,6.2
+CMP-1009,Just Dropped - Video - NA,Product Launch,Video,North America,Gen Z (18-24),2023-04-25,2023-05-24,25500.0,23014.66,1245599,21484.0,267.0,22887.3,5.1
+CMP-0585,Meet Us - Affiliate - NA,Awareness,Affiliate,North America,Boomers (45-64),2024-08-07,2024-09-05,14700.0,12167.01,1626772,,259.0,25462.68,4.8
+CMP-0311,We Miss You - Search - NA,Retargeting,Search,North America,Millennials (25-34),2024-10-18,2024-12-01,37500.0,29562.37,1088235,36033.0,3597.0,342237.25,7.5
+CMP-0658,Discover - Social Media - NA,Awareness,social media,North America,Millennials (25-34),2024-10-03,2024-11-01,25250.0,19768.29,1999307,25304.0,274.0,22305.11,2.9
+CMP-0890,New Arrivals - Display - EU,Product Launch,Display,Europe,Millennials (25-34),2023-11-19,2024-01-17,20400.0,15671.52,4702394,19368.0,220.0,20021.29,2.7
+CMP-0211,We Miss You - Display - LATAM,Retargeting,Display,Latin America,Gen X (35-44),2024-11-23,2024-11-29,4350.0,4133.43,1077288,6908.0,198.0,9418.26,3.4
+CMP-0156,Back to School - Display - NA,Seasonal Promo,Display,north america,Millennials (25-34),2024-04-21,2024-06-19,10750.0,7762.27,2046840,8440.0,147.0,11444.15,3.2
+CMP-0559,Webinar - Display - LATAM,Lead Generation,Display,Latin America,Millennials (25-34),2024-10-01,,"$11,450",9778.8,2862166,12433.0,290.0,12673.0,2.0
+CMP-0412,We Miss You - Display - APAC,Retargeting,Display,Asia Pacific,Gen Z (18-24),2023-11-04,2023-11-10,4950.0,5237.1,1478645,6417.0,214.0,12075.58,2.7
+CMP-1008,Newsletter Signup - Social Media - EU,Lead Generation,Social Media,Europe,Gen Z (18-24),2023-08-23,2023-09-05,12050.0,9850.16,1300407,20251.0,241.0,17522.63,4.5
+CMP-0494,Spring Sale - Social Media - APAC,Seasonal Promo,Social Media,Asia Pacific,Gen Z (18-24),2023-06-10,2023-07-24,43400.0,39700.45,6370849,145620.0,1590.0,71506.58,
+CMP-1068,Free Guide - Display - EU,Lead Generation,Display,Europe,Millennials (25-34),2023-04-23,2023-05-22,,4218.69,800469,4076.0,58.0,5787.33,2.7
+CMP-0523,Brand Story - Email - APAC,Awareness,Email,APAC,Boomers (45-64),2024-05-22,2024-06-20,"$6,450",6171.16,653261,13969.0,416.0,28633.52,7.5
+CMP-0544,Meet Us - Affiliate - MEA,Awareness,Affiliate,Middle East & Africa,Millennials (25-34),2023-08-29,2023-10-12,5950.0,4745.35,572538,5193.0,140.0,8913.53,4.6
+CMP-0552,Black Friday - Email - NA,Seasonal Promo,Email,North America,Millennials (25-34),2023-06-06,2023-06-26,11900.0,9425.34,1307826,28821.0,1916.0,215166.17,6.3
+CMP-0429,We Miss You - Email - NA,Retargeting,Email,North America,Millennials (25-34),2024-06-12,2024-07-02,8100.0,6428.71,818981,19229.0,1615.0,140200.5,5.6
+CMP-0423,Discover - Email - APAC,Awareness,Email,Asia Pacific,Millennials (25-34),2024-03-04,2024-04-02,,8575.05,690233,21195.0,384.0,22595.46,8.7
+CMP-0740,Webinar - Search - NA,Lead Generation,Search,North America,Gen X (35-44),2023-08-21,2023-09-10,13100.0,9968.02,419529,20907.0,1473.0,147117.09,10.0
+CMP-0459,Black Friday - Video - EU,Seasonal Promo,Video,Europe,Millennials (25-34),2023-12-28,2024-01-26,19600.0,19844.77,1091772,9590.0,405.0,34842.12,3.8
+CMP-1149,Brand Story - Search - NA,Awareness,Search,North America,Boomers (45-64),2023-02-17,2023-03-18,14800.0,12444.58,536227,14763.0,215.0,34787.46,6.9
+CMP-0424,We Miss You - Email - NA,Retargeting,Email,North America,Boomers (45-64),2024-01-08,2024-01-17,2600.0,2411.95,236542,7812.0,777.0,94039.14,8.5
+CMP-0299,Newsletter Signup - Video - EU,Lead Generation,YouTube/Video,Europe,Gen Z (18-24),2024-04-05,2024-05-19,29050.0,24973.01,1786892,17429.0,255.0,17576.64,4.3
+CMP-1030,Come Back - Search - APAC,Retargeting,Search,Asia Pacific,Millennials (25-34),2023-08-30,2023-09-08,6200.0,5688.14,147742,8373.0,632.0,49711.1,10.0
+CMP-0351,Free Trial - Display - NA,Lead Generation,display,North America,Millennials (25-34),2023-10-15,2023-10-21,2450.0,1968.36,416711,1641.0,53.0,5872.52,1.0
+CMP-0653,Summer Sale - Display - EU,Seasonal Promo,Display,Europe,Gen Z (18-24),2024-03-27,2024-05-10,15800.0,15250.76,3708401,14864.0,187.0,9003.12,1.1
+CMP-0217,Discover - Email - EU,Awareness,Email,Europe,Millennials (25-34),2023-06-24,2023-07-14,11200.0,11219.37,852996,14758.0,392.0,33413.27,4.9
+CMP-0560,We Miss You - Search - MEA,Retargeting,Search,Middle East & Africa,Gen Z (18-24),2024-05-17,2024-05-30,8550.0,6918.58,214557,9025.0,428.0,18592.53,9.1
+CMP-0534,Last Chance - Display - NA,Retargeting,Display,North America,Millennials (25-34),2024-03-12,2024-03-25,5200.0,5246.69,1210062,6908.0,335.0,27069.92,2.2
+CMP-0108,We Miss You - Social Media - APAC,Retargeting,social media,Asia Pacific,Gen X (35-44),2023-03-29,2023-04-18,7700.0,8053.16,1072308,14244.0,433.0,31366.18,3.1
+CMP-0440,Brand Story - Display - APAC,Awareness,Display,Asia Pacific,Boomers (45-64),2023-11-03,2023-11-16,6950.0,5561.47,1480923,5807.0,52.0,5787.18,3.4
+CMP-0885,Discover - Social Media - APAC,Awareness,Social Media,Asia Pacific,Boomers (45-64),2023-03-18,2023-05-01,18550.0,17861.73,2197731,16409.0,111.0,7669.98,2.8
+CMP-0901,We Miss You - Search - APAC,Retargeting,Search,Asia Pacific,Gen Z (18-24),2023-03-06,2023-03-19,14850.0,11513.59,340339,7503.0,647.0,36013.28,6.5
+CMP-0079,Free Guide - Search - LATAM,Lead Generation,Search,Latin America,Millennials (25-34),2024-07-29,2024-08-27,11450.0,10388.22,387600,12697.0,544.0,29376.45,8.5
+CMP-1091,Launch - Social Media - MEA,Product Launch,Social Media,Middle East & Africa,Millennials (25-34),2023-09-21,2023-10-04,8900.0,6535.24,652089,17421.0,233.0,15129.32,7.0
+CMP-0716,Black Friday - Social Media - NA,Seasonal Promo,Social Media,North America,Gen X (35-44),2024-02-17,2024-04-01,20500.0,21407.38,1842417,31714.0,1456.0,186965.31,5.2
+CMP-0077,Hello World - Social Media - NA,Awareness,Social Media,north america,Millennials (25-34),2024-07-26,2024-08-08,17800.0,14945.08,2037549,27374.0,355.0,37045.49,2.7
+CMP-0771,We Miss You - Social Media - NA,Retargeting,Social Media,North America,Millennials (25-34),2023-03-29,2023-06-26,1430000.0,14815.55,1735384,27351.0,993.0,93883.09,4.4
+CMP-0045,Just Dropped - Influencer - EU,Product Launch,Influencer,Europe,Gen Z (18-24),2023-11-28,2024-02-25,46500.0,44179.8,2868818,3832626.0,1021.0,79883.46,3.5
+CMP-1109,Spring Sale - Affiliate - APAC,Seasonal Promo,Affiliate,Asia Pacific,Gen Z (18-24),2024-06-29,2024-07-28,8400.0,6278.39,663576,8903.0,294.0,16702.91,4.1
+CMP-0865,Newsletter Signup - Email - EU,Lead Generation,Email,Europe,Gen Z (18-24),2023-05-24,2023-06-13,"$3,850",4048.93,407035,6051.0,249.0,15790.51,12.5
+CMP-0114,Brand Story - Display - NA,Awareness,Display,North America,Gen X (35-44),2023-11-21,2023-12-04,7650.0,5544.7,1438354,5572.0,45.0,4151.68,2.2
+CMP-0742,Meet Us - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2024-05-16,2024-05-25,2800.0,2961.81,289423,4758.0,85.0,5799.74,6.2
+CMP-0266,Cart Reminder - Social Media - APAC,Retargeting,Social Media,APAC,Millennials (25-34),2024-07-05,2024-08-03,23350.0,19673.15,2104401,54899.0,3539.0,,6.7
+CMP-0416,Just Dropped - Social Media - NA,Product Launch,Social Media,North America,Millennials (25-34),2024-03-31,2024-05-14,"$27,750",24344.75,2461349,24794.0,378.0,33319.75,
+CMP-0495,Cart Reminder - Video - APAC,retargeting,Video,APAC,Gen Z (18-24),2024-07-20,2024-07-26,11350.0,9334.25,582312,5639.0,167.0,9573.8,3.1
+CMP-0645,Spring Sale - Display - NA,Seasonal Promo,Display,North America,Gen X (35-44),2023-03-16,2023-04-05,8800.0,6448.87,1431571,7928.0,128.0,11559.18,2.8
+CMP-0372,Summer Sale - Social Media - EU,Seasonal Promo,Social Media,Europe,Gen Z (18-24),2023-08-21,2023-10-19,21250.0,16662.33,2172761,40203.0,655.0,44934.15,6.3
+CMP-0746,Summer Sale - Search - MEA,Seasonal Promo,Search,Middle East & Africa,Boomers (45-64),2024-08-09,2024-09-07,14700.0,13858.78,338861,9860.0,527.0,35570.18,8.0
+CMP-0241,Summer Sale - Influencer - NA,Seasonal Promo,Influencer,North America,,2024-11-23,2024-12-13,6800.0,5531.89,385885,6705.0,372.0,35995.15,4.7
+CMP-0193,Black Friday - Email - NA,Seasonal Promo,Email,North America,,2023-02-10,2023-03-11,,6726.81,671592,8245.0,143.0,7831.66,4.3
+CMP-0708,Back to School - Video - NA,Seasonal Promo,Video,North America,Millennials (25-34),2023-06-02,2023-06-11,8200.0,5914.91,474069,3380.0,56.0,4319.16,2.6
+CMP-0595,New Arrivals - Email - LATAM,Product Launch,Email,Latin America,Millennials (25-34),2024-09-22,2024-10-21,10500.0,8742.77,1029282,31049.0,2249.0,103755.69,7.8
+CMP-0586,Free Guide - Display - LATAM,Lead Generation,Display,Latin America,Gen X (35-44),2023-08-29,2023-09-11,4700.0,4490.96,1051675,4386.0,63.0,2619.77,3.3
+CMP-0298,Brand Story - Influencer - APAC,Awareness,Influencer,Asia Pacific,Millennials (25-34),2024-04-03,2024-06-01,13900.0,11490.19,615677,14326.0,243.0,13056.63,6.0
+CMP-0320,First Look - Affiliate - NA,Product Launch,Affiliate,North America,Millennials (25-34),2024-05-15,2024-05-24,6000.0,5151.14,702123,9043.0,539.0,33386.75,5.3
+CMP-0591,Summer Sale - Affiliate - APAC,Seasonal Promo,Affiliate,Asia Pacific,Gen Z (18-24),2023-01-16,2023-01-25,5300.0,4462.7,489247,7013.0,190.0,,6.5
+CMP-0082,Webinar - Search - EU,Lead Generation,Search,Europe,Gen Z (18-24),2024-09-07,2024-09-13,8900.0,6893.63,191643,6042.0,380.0,36460.16,7.4
+CMP-0528,Launch - Affiliate - LATAM,Product Launch,Affiliate,Latin America,Millennials (25-34),2023-04-12,2023-05-26,12900.0,10023.25,1364300,11998.0,595.0,29196.62,2.9
+CMP-0769,Meet Us - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2023-08-28,2023-09-10,5500.0,5735.36,501329,7876.0,73.0,6051.74,6.9
+CMP-0050,Launch - Email - MEA,Product Launch,Email,Middle East and Africa,Boomers (45-64),2023-10-15,2023-11-04,4100.0,3638.83,330033,10133.0,494.0,27450.26,7.6
+CMP-0498,Webinar - Display - APAC,Lead Generation,Display,Asia-Pacific,Gen X (35-44),2023-04-22,2023-06-05,14700.0,15257.05,4272294,25977.0,429.0,27955.79,2.9
+CMP-0678,Summer Sale - Search - EU,Seasonal Promo,Search,Europe,Boomers (45-64),2023-06-09,2023-06-22,9050.0,9214.03,268828,13392.0,530.0,56152.71,10.0
+CMP-0410,Brand Story - Affiliate - EU,Awareness,Affiliate,europe,Gen X (35-44),2023-01-31,2023-03-16,9700.0,8590.18,1090650,9593.0,113.0,9941.51,4.4
+CMP-0902,Free Trial - Social Media - NA,Lead Generation,Social,North America,Millennials (25-34),2023-12-02,2023-12-22,15400.0,14412.17,1477683,27269.0,1254.0,120864.58,4.7
+CMP-0343,Brand Story - Influencer - EU,Awareness,Influencer,Europe,Gen Z (18-24),2024-07-20,2024-09-02,,12486.93,871781,23003.0,246.0,10925.05,6.2
+CMP-1120,Spring Sale - Influencer - LATAM,Seasonal Promo,Influencer,Latin America,Gen Z (18-24),2024-07-27,2024-08-09,11350.0,9321.01,581957,17681.0,183.0,6371.39,8.3
+CMP-0912,We Miss You - Influencer - EU,Retargeting,Influencer,Europe,Millennials (25-34),2024-09-05,2024-10-19,30450.0,23938.12,1244541,30897.0,2271.0,184320.29,6.1
+CMP-0362,Last Chance - Email - APAC,Retargeting,Email,Asia Pacific,Gen Z (18-24),2024-09-29,2024-11-27,14900.0,14469.9,1567595,49955.0,3124.0,124580.75,7.4
+CMP-0760,Newsletter Signup - Search - APAC,Lead Generation,Search,Asia Pacific,Gen X (35-44),2024-01-05,2024-03-04,38600.0,31232.76,1113377,52541.0,3379.0,229148.56,9.1
+CMP-0071,Just Dropped - Social Media - MEA,Product Launch,Social Media,Middle East & Africa,Millennials (25-34),2024-04-18,2024-05-17,12250.0,10358.65,1298495,28175.0,601.0,37349.38,5.0
+CMP-0908,Hello World - Email - MEA,Awareness,Email,Middle East & Africa,Gen Z (18-24),2024-07-16,2024-08-29,16300.0,14112.48,2043415,39892.0,558.0,30838.68,5.3
+CMP-0024,Discover - Influencer - APAC,Awareness,Influencer,Asia Pacific,Boomers (45-64),2024-04-21,2024-04-27,4650.0,3901.57,298822,3102.0,45.0,3252.37,4.1
+CMP-0102,Black Friday - Display - EU,Seasonal Promo,Display,Europe,Millennials (25-34),2023-05-22,2023-06-11,7200.0,5542.85,1487396,8748.0,167.0,17239.89,3.0
+CMP-0963,First Look - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2023-08-17,2023-09-06,3850.0,3642.03,366649,11681.0,547.0,35879.8,7.7
+CMP-0059,Free Trial - Email - EU,Lead Generation,Email,Europe,Boomers (45-64),2024-07-02,2024-07-15,2500.0,2571.67,248771,6009.0,290.0,26040.09,5.9
+CMP-0830,New Arrivals - Social Media - APAC,Product Launch,Social,asia pacific,Gen Z (18-24),2023-10-11,2023-10-31,9050.0,7767.97,787202,19617.0,361.0,16775.75,6.2
+CMP-0928,We Miss You - Influencer - EU,Retargeting,Influencer,Europe,Gen X (35-44),2024-09-11,2024-10-10,22150.0,18663.91,1142342,15736.0,448.0,44812.03,6.5
+CMP-0329,Newsletter Signup - Display - NA,Lead Generation,Display,North America,Gen Z (18-24),2023-05-28,2023-07-26,12850.0,10554.17,3663061,15078.0,262.0,16982.09,3.2
+CMP-1112,Summer Sale - Search - NA,Seasonal Promo,Search,North America,Millennials (25-34),2024-10-11,2024-10-20,11000.0,9817.95,301062,10716.0,592.0,66452.98,8.7
+CMP-1024,Newsletter Signup - Search - NA,Lead Generation,Search,North America,Boomers (45-64),2023-06-25,2023-08-08,69100.0,69491.45,2609940,96308.0,4431.0,417681.79,8.1
+CMP-0219,We Miss You - Affiliate - LATAM,Retargeting,Affiliate,LATAM,Gen X (35-44),2023-11-15,2023-12-14,12450.0,11507.51,1320299,23653.0,2578.0,97601.36,5.7
+CMP-0297,Come Back - Affiliate - LATAM,Retargeting,Affiliate,Latin America,Millennials (25-34),2024-07-14,2024-07-23,4800.0,4002.24,518914,8337.0,,37011.48,5.0
+CMP-0990,Newsletter Signup - Video - MEA,Lead Generation,VIDEO,Middle East & Africa,Boomers (45-64),2024-06-17,2024-06-30,13450.0,13696.37,1109273,8493.0,90.0,5398.82,3.2
+CMP-0938,Cart Reminder - Email - APAC,retargeting,Email,Asia Pacific,Boomers (45-64),2024-10-03,2024-10-16,3600.0,2672.8,210740,6772.0,485.0,31577.58,6.8
+CMP-0232,First Look - Search - APAC,Product Launch,search,Asia Pacific,Gen X (35-44),2024-07-24,2024-08-02,8750.0,7131.28,239308,12526.0,412.0,25518.84,10.0
+CMP-0763,Hello World - Email - EU,Awareness,Email,Europe,Gen X (35-44),2024-02-04,2024-01-22,6150.0,6510.06,825993,33211.0,516.0,44975.59,8.1
+CMP-0946,Black Friday - Social Media - MEA,Seasonal Promo,Social Media,Middle East & Africa,Millennials (25-34),2024-07-31,2024-08-29,35600.0,36965.66,4249894,61106.0,1954.0,113471.43,5.8
+CMP-1115,Last Chance - Affiliate - EU,Retargeting,Affiliate,Europe,Gen X (35-44),2023-08-18,2023-08-27,5450.0,5143.04,646409,7631.0,572.0,67945.38,5.0
+CMP-0052,Back to School - Email - NA,Seasonal Promo,Email,North America,Gen Z (18-24),2023-10-09,2023-11-07,4650.0,4440.29,575061,10980.0,903.0,70834.83,6.1
+CMP-0786,Hello World - Social Media - MEA,Awareness,Social Media,Middle East & Africa,Boomers (45-64),2023-03-27,2023-04-25,"$15,050",13496.2,2313040,23648.0,149.0,10163.5,3.1
+CMP-0939,Free Trial - Influencer - APAC,Lead Generation,Influencer,Asia Pacific,Gen Z (18-24),2023-04-09,2023-04-18,13000.0,9632.21,573568,14288.0,140.0,6788.5,8.1
+CMP-0915,Free Guide - Affiliate - NA,Lead Generation,Affiliate,North America,Gen Z (18-24),2023-09-04,2023-10-03,9550.0,6894.42,850174,10267.0,409.0,28323.46,2.3
+CMP-0894,First Look - Email - NA,Product Launch,email,North America,Gen Z (18-24),2023-12-23,2024-03-21,14550.0,14042.01,1760978,39047.0,2428.0,207362.29,7.5
+CMP-1165,Last Chance - Email - APAC,Retargeting,Email,Asia Pacific,Millennials (25-34),2024-09-23,2024-10-13,8750.0,6943.65,705589,21159.0,1934.0,91736.49,8.9
+CMP-0110,Holiday Deals - Affiliate - MEA,Seasonal Promo,Affiliates,Middle East & Africa,Gen X (35-44),2023-03-02,2023-03-31,16250.0,12770.59,1286616,14440.0,500.0,35623.8,1.8
+CMP-0618,Hello World - Social Media - EU,Awareness,Social Media,Europe,Gen Z (18-24),2023-12-23,2024-02-05,11900.0,8766.16,1350538,22879.0,230.0,14613.97,4.5
+CMP-0124,Holiday Deals - Search - APAC,Seasonal Promo,Search,Asia Pacific,Millennials (25-34),2024-09-12,2024-10-11,28400.0,22370.03,988710,29862.0,1738.0,94339.76,7.0
+CMP-0055,Spring Sale - Video - NA,seasonal promo,Video,North America,Millennials (25-34),2024-11-12,2025-01-10,58900.0,53118.13,3757311,4792367.0,1831.0,211310.4,5.2
+CMP-0970,New Arrivals - Social Media - EU,Product Launch,Social Media,Europe,Gen X (35-44),2023-05-20,2023-06-18,18350.0,13805.58,1514522,18480.0,184.0,18725.93,3.2
+CMP-1169,Cart Reminder - Influencer - EU,Retargeting,Influencer,Europe,Gen Z (18-24),2023-07-10,2023-08-08,22700.0,23105.01,1261903,41775.0,862.0,49186.58,7.3
+CMP-0129,We Miss You - Email - NA,Retargeting,Email,North America,Gen X (35-44),2024-08-24,2024-11-21,29700.0,23552.45,1770451,42290.0,2753.0,325684.46,6.1
+CMP-0057,Summer Sale - Search - APAC,Seasonal Promo,Search,Asia Pacific,Gen Z (18-24),2024-08-12,2024-08-21,12500.0,10017.57,433843,17798.0,1136.0,53415.3,9.8
+CMP-0087,Back to School - Video - EU,Seasonal Promo,Video,Europe,Millennials (25-34),2024-04-28,2024-06-26,"$44,850",38162.87,2209910,17028.0,555.0,47673.39,4.1
+CMP-0629,Holiday Deals - Search - MEA,Seasonal Promo,Search,Middle East & Africa,Millennials (25-34),2023-02-28,2023-04-28,34300.0,28683.05,977870,34173.0,1475.0,95951.97,8.7
+CMP-0925,Spring Sale - Social Media - EU,Seasonal Promo,Social Media,Europe,Gen X (35-44),2023-10-08,2023-11-06,17150.0,18021.57,1217927,15781.0,497.0,46589.98,5.2
+CMP-0276,Just Dropped - Search - EU,Product Launch,Search,Europe,Millennials (25-34),2024-05-22,2024-07-20,13500.0,12976.54,599885,18846.0,871.0,80593.03,6.6
+CMP-1181,Black Friday - Video - LATAM,Seasonal Promo,Video,Latin America,Millennials (25-34),2023-05-29,2023-07-12,17750.0,15581.91,1133655,9095.0,172.0,11161.71,1.9
+CMP-0468,First Look - Affiliate - NA,Product Launch,Affiliate,North America,Gen X (35-44),2024-01-03,2024-02-01,3550.0,2618.65,298826,5177.0,163.0,17027.34,4.5
+CMP-0171,Brand Story - Social Media - NA,Awareness,Social Media,North America ,Boomers (45-64),2023-03-31,2023-04-09,10500.0,10335.44,1272249,12211.0,76.0,8462.95,3.8
+CMP-0880,Brand Story - Display - NA,Awareness,Display ,North America,Boomers (45-64),2024-01-31,2024-02-06,4700.0,4255.43,1093380,7563.0,47.0,3802.04,2.3
+CMP-0779,Discover - Video - APAC,Awareness,Video,Asia Pacific,Boomers (45-64),2023-08-08,2023-08-21,12950.0,12138.83,774684,7079.0,34.0,2962.74,3.7
+CMP-0592,We Miss You - Search - NA,Retargeting,Search,North America,Gen X (35-44),2024-01-24,2024-02-22,13450.0,11872.2,431526,21696.0,1683.0,196408.27,10.0
+CMP-0863,Meet Us - Video - EU,Awareness,Video,Europe,Millennials (25-34),2023-01-14,2023-01-20,21850.0,20756.1,1782647,9448.0,152.0,13643.31,3.4
+CMP-0794,Back to School - Email - NA,Seasonal Promo,Email,North America,Gen X (35-44),2023-11-07,2023-11-27,4250.0,3768.76,410505,14907.0,1450.0,148964.59,
+CMP-0399,Holiday Deals - Search - LATAM,Seasonal Promo,Search,Latin America,Millennials (25-34),2024-01-31,2024-02-29,21450.0,22649.65,802077,29291.0,999.0,46796.16,7.3
+CMP-0979,Just Dropped - Search - NA,Product Launch,Search,North America,Millennials (25-34),2023-12-19,2024-01-01,14050.0,13328.88,667826,23984.0,1794.0,158150.77,7.9
+CMP-0895,Launch - Video - LATAM,Product Launch,Video,Latin America,Millennials (25-34),2023-10-19,2023-10-28,20800.0,15937.17,1498890,9338.0,146.0,6554.07,4.1
+CMP-0733,Brand Story - Email - APAC,Awareness,Email,Asia Pacific,Gen Z (18-24),2023-12-17,2024-01-15,6500.0,6414.14,483693,6596.0,241.0,13762.25,2.3
+CMP-0891,Free Guide - Social Media - EU,Lead Generation,Social Media,Europe,Millennials (25-34),2024-08-26,2024-09-24,"$12,500",10753.64,1273104,16690.0,467.0,44811.92,4.7
+CMP-1075,Launch - Influencer - LATAM,Product Launch,Influencer,Latin America,Gen X (35-44),2024-05-19,2024-05-28,11350.0,10053.27,519869,8523.0,140.0,7944.88,5.4
+CMP-0718,Back to School - Email - APAC,Seasonal Promo,Email,Asia Pacific,Gen X (35-44),2023-11-15,2023-11-24,5200.0,3970.01,456836,10678.0,773.0,,
+CMP-1162,Launch - Display - NA,Product Launch,Display,,Millennials (25-34),2023-06-03,2023-06-16,7850.0,5890.82,1176217,8591.0,122.0,15332.72,4.3
+CMP-1076,Launch - Social Media - NA,Product Launch,Social Media,North America,Gen Z (18-24),2024-04-11,2024-04-17,15850.0,15902.8,1574126,40300.0,953.0,58224.38,6.7
+CMP-0426,Black Friday - Influencer - APAC,Seasonal Promo,Influencer,Asia Pacific,Boomers (45-64),2023-05-24,2023-06-02,17050.0,14833.7,972836,8560.0,215.0,18502.52,3.6
+CMP-0536,First Look - Social Media - APAC,Product Launch,Social Media,Asia Pacific,Gen Z (18-24),2023-09-08,2023-10-07,16300.0,14004.09,1754340,36708.0,650.0,30344.03,5.5
+CMP-0568,Free Guide - Email - NA,Lead Generation,email,North America,Millennials (25-34),2023-02-06,2023-02-19,3350.0,3143.92,189225,6299.0,100.0,8847.98,6.7
+CMP-0537,Webinar - Search - LATAM,Lead Generation,Search,Latin America,Millennials (25-34),2023-09-28,2023-10-11,10900.0,10541.31,500699,25869.0,1417.0,77110.77,10.0
+CMP-0695,First Look - Affiliate - NA,Product Launch,Affiliate,North America,Gen X (35-44),2024-06-26,2024-09-23,16450.0,12937.15,2005175,26716.0,1304.0,120423.35,5.1
+CMP-0377,Back to School - Affiliate - APAC,Seasonal Promo,Affiliate,Asia Pacific,Gen Z (18-24),2023-05-22,2023-06-20,"$12,250",10041.76,1535589,16765.0,273.0,16807.07,4.9
+CMP-0287,Webinar - Email - MEA,Lead Generation,Email,Middle East & Africa,Boomers (45-64),2024-03-16,2024-03-22,2150.0,1786.4,118369,4524.0,193.0,16658.71,8.0
+CMP-0790,Free Trial - Display - NA,Lead Generation,Display,North America,Gen X (35-44),2024-09-08,2024-10-07,4250.0,3644.25,893228,3139.0,92.0,8623.82,2.1
+CMP-0757,Brand Story - Social Media - EU,Awareness,Social Media,,Boomers (45-64),2023-01-12,2023-02-01,7100.0,5140.06,545193,3231.0,17.0,1670.96,3.8
+CMP-0234,Summer Sale - Display - NA,Seasonal Promo,Display,North America,Millennials (25-34),2024-06-08,2024-06-14,2300.0,2417.19,607103,2897.0,90.0,7937.54,3.4
+CMP-0356,Holiday Deals - Search - APAC,Seasonal Promo,Search,Asia Pacific,Gen X (35-44),2023-05-26,2023-06-24,19900.0,17800.58,658825,36077.0,2267.0,187884.73,10.0
+CMP-0603,Free Trial - Affiliate - NA,Lead Generation,Affiliate,North America,Gen Z (18-24),2024-07-27,2024-08-25,10350.0,8915.08,1106144,14559.0,360.0,25693.12,4.0
+CMP-1040,Just Dropped - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2023-08-18,2023-09-16,6400.0,5821.28,565002,15353.0,468.0,38721.04,6.8
+CMP-0428,Free Guide - Influencer - NA,Lead Generation,Influencer,North America,Gen X (35-44),2024-05-23,2024-06-05,25550.0,20333.33,1118342,14021.0,1359.0,162325.8,3.5
+CMP-0584,Black Friday - Search - NA,Seasonal Promo,SEARCH,,Millennials (25-34),2024-06-15,2024-06-28,14600.0,13631.38,394737,14133.0,614.0,56837.99,8.8
+CMP-0844,Webinar - Search - MEA,Lead Generation,Search,Middle East & Africa,Boomers (45-64),2024-01-28,2024-03-12,30600.0,25758.77,1261436,41919.0,2284.0,195711.05,9.4
+CMP-1168,Just Dropped - Search - EU,Product Launch,Search,Europe,Gen X (35-44),2023-05-13,2023-06-02,"$10,850",10803.28,418282,17992.0,471.0,39609.5,9.5
+CMP-1010,Discover - Search - NA,Awareness,Search Ads,North America,Boomers (45-64),2023-01-09,2023-01-22,18200.0,17821.04,571613,18371.0,257.0,35769.59,9.0
+CMP-0715,Launch - Video - NA,Product Launch,Video,,Gen Z (18-24),2024-01-04,2024-01-24,22500.0,20092.7,1473408,20142.0,356.0,21921.66,4.5
+CMP-0267,We Miss You - Social Media - EU,Retargeting,Social Media,Europe,Gen X (35-44),2023-07-08,2023-07-21,7200.0,7450.5,1034054,18181.0,529.0,42125.75,6.1
+CMP-0200,Last Chance - Social Media - EU,Retargeting,Social Media,Europe,Millennials (25-34),2024-07-08,2024-07-28,11200.0,11443.65,1091897,16451.0,352.0,29051.02,3.6
+CMP-0175,First Look - Social Media - MEA,Product Launch,Social Media,Middle East & Africa,Gen X (35-44),2023-03-17,2023-03-30,10000.0,8923.0,914447,12029.0,168.0,11116.56,6.6
+CMP-0843,Last Chance - Search - APAC,Retargeting,Search,Asia Pacific,Boomers (45-64),2023-08-30,2023-09-05,11350.0,9987.94,347251,12535.0,1196.0,96605.96,8.3
+CMP-0148,Discover - Search - EU,Awareness,Search,Europe ,,2024-02-14,2024-03-14,15550.0,15196.95,656071,16685.0,195.0,16607.25,6.6
+CMP-0747,Back to School - Social Media - NA,Seasonal Promo,Social Media,North America,Gen X (35-44),2024-10-22,2024-12-05,10700.0,9943.49,1464448,20831.0,459.0,41780.23,4.8
+CMP-0945,New Arrivals - Search - NA,Product Launch,Search,North America,Millennials (25-34),2024-02-22,2024-03-06,8400.0,7133.59,263233,17021.0,838.0,62010.24,10.0
+CMP-0753,Free Guide - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Gen X (35-44),2023-06-22,2023-07-05,"$16,750",12357.93,1903279,23781.0,429.0,28768.36,3.8
+CMP-0949,Black Friday - Influencer - APAC,Seasonal Promo,Influencer,Asia Pacific,Gen X (35-44),2023-10-16,2023-11-05,17400.0,14495.93,1132284,19658.0,612.0,49731.55,5.8
+CMP-1093,Last Chance - Social Media - APAC,Retargeting,Social Media,Asia Pacific,Gen X (35-44),2024-05-03,2024-06-16,34050.0,35848.23,3385643,65093.0,3342.0,248576.57,5.1
+CMP-0717,Discover - Display - APAC,Awareness,Display,Asia-Pacific,Boomers (45-64),2023-08-04,2023-08-24,16400.0,15489.05,3887784,22689.0,186.0,13341.59,2.4
+CMP-0978,Last Chance - Search - LATAM,Retargeting,Search,LATAM,Gen Z (18-24),2023-08-03,2023-10-01,14550.0,10886.09,476855,17810.0,643.0,26475.35,9.2
+CMP-0619,Newsletter Signup - Email - EU,Lead Generation,Email,Europe,Boomers (45-64),2024-04-25,2024-05-24,11450.0,8296.83,731343,36299.0,1624.0,97645.44,10.0
+CMP-0627,Free Guide - Video - EU,Lead Generation,Video,europe,Gen X (35-44),2023-08-26,2023-09-04,11400.0,10880.69,1148680,11088.0,127.0,12753.49,2.5
+CMP-0395,We Miss You - Email - LATAM,Retargeting,Email,LATAM,Millennials (25-34),2024-11-02,2024-12-16,5650.0,4607.95,489006,13561.0,1127.0,46464.25,8.1
+CMP-1050,Last Chance - Social Media - EU,retargeting,Social Media,Europe,Millennials (25-34),2023-04-12,2023-05-26,29650.0,30091.09,5603394,115497.0,3934.0,367406.59,5.4
+CMP-0169,Black Friday - Social Media - NA,Seasonal Promo,Social Media,North America,Gen X (35-44),2024-05-05,2024-05-18,18300.0,13920.61,2017145,51369.0,1175.0,136302.62,7.3
+CMP-0210,Free Guide - Search - APAC,Lead Generation,Search,Asia Pacific,Gen X (35-44),2024-05-12,2024-06-10,"$17,100",14203.69,365183,19426.0,1261.0,84752.08,10.0
+CMP-0561,Holiday Deals - Email - EU,Seasonal Promo,Email,Europe,Millennials (25-34),2024-08-12,2024-08-18,3150.0,3105.5,332709,12409.0,686.0,47930.96,7.2
+CMP-0136,First Look - Email - LATAM,Product Launch,Email,Latin America,Boomers (45-64),2023-06-16,2023-07-30,5450.0,5672.99,464186,18166.0,681.0,,10.0
+CMP-0185,Brand Story - Video - MEA,Awareness,Video,Middle East & Africa,Millennials (25-34),2023-11-27,2023-12-26,28500.0,26303.9,1575540,18997.0,226.0,12589.9,4.1
+CMP-0900,Discover - Search - NA,Awareness,Search,North America,Gen X (35-44),2024-07-29,2024-10-26,,34588.87,1062920,35135.0,707.0,75046.65,7.0
+CMP-0334,Newsletter Signup - Influencer - APAC,Lead Generation,Influencer,Asia Pacific,Gen Z (18-24),2023-09-17,,27550.0,27770.92,1644349,38099.0,912.0,53492.14,6.6
+CMP-0840,Newsletter Signup - Search - APAC,Lead Generation,Search,Asia Pacific,Millennials (25-34),2023-03-27,2023-04-25,21350.0,22404.7,714392,21686.0,1162.0,83017.04,7.7
+CMP-0159,Just Dropped - Video - APAC,Product Launch,Video,Asia Pacific,Boomers (45-64),2024-09-14,2024-10-13,15150.0,12096.19,552249,8891.0,262.0,25210.84,5.9
+CMP-0141,First Look - Search - NA,Product Launch,Search,North America,Gen Z (18-24),2023-09-02,2023-11-30,13500.0,14173.84,483014,18843.0,811.0,49424.76,7.8
+CMP-0737,We Miss You - Social Media - EU,Retargeting,Social Media,Europe,Gen Z (18-24),2023-06-24,2023-09-21,25150.0,25185.74,2824780,72560.0,1207.0,79211.73,7.1
+CMP-0472,Just Dropped - Search - APAC,Product Launch,Search,Asia Pacific,Gen X (35-44),2023-05-19,2023-06-01,14450.0,14241.67,427018,18416.0,828.0,58981.07,9.4
+CMP-0436,Summer Sale - Social Media - EU,Seasonal Promo,Social Media,Europe,Millennials (25-34),2023-12-07,2023-12-13,6400.0,6253.76,688399,12205.0,415.0,35187.22,-1.0
+CMP-1134,Brand Story - Video - NA,Awareness,Video,NA,Millennials (25-34),2023-10-27,2023-11-02,12700.0,11293.03,1010780,9678.0,163.0,12774.05,2.2
+CMP-0248,Spring Sale - Search - EU,Seasonal Promo,Search,Europe,Gen X (35-44),2024-09-07,2024-09-13,4700.0,3753.84,152881,6866.0,606.0,51711.66,9.9
+CMP-0381,Meet Us - Search - LATAM,Awareness,Search,Latin America,Gen Z (18-24),2023-11-14,2024-02-11,47150.0,49312.22,1951306,43243.0,842.0,36889.77,
+CMP-1153,Webinar - Email - NA,Lead Generation,Email,North America,Millennials (25-34),2023-07-28,2023-09-10,9200.0,8517.59,767610,15327.0,803.0,77187.51,6.0
+CMP-0666,Launch - Video - LATAM,Product Launch,Video,Latin America,Millennials (25-34),2023-06-03,2023-08-01,86100.0,62346.49,5491790,35884.0,800.0,37260.41,4.7
+CMP-0345,Webinar - Video - EU,Lead Generation,Video,Europe,Gen Z (18-24),2023-04-29,2023-05-28,23800.0,17476.66,1111408,14652.0,330.0,17839.92,4.1
+CMP-1141,Last Chance - Social Media - NA,Retargeting,Social Media,North America,Gen Z (18-24),2024-02-22,2024-04-21,30950.0,31358.8,3169903,93947.0,3397.0,258890.75,7.1
+CMP-0363,Brand Story - Email - LATAM,Awareness,Email,Latin America,Gen X (35-44),2024-06-21,2024-07-20,4450.0,4322.31,344977,9481.0,162.0,8781.21,6.5
+CMP-0209,Black Friday - Email - LATAM,Seasonal Promo,Email,Latin America,Boomers (45-64),2023-04-10,2023-04-30,2800.0,2366.1,180644,4905.0,,21641.88,4.9
+CMP-0981,Free Guide - Affiliate - APAC,Lead Generation,Affiliate,Asia Pacific,Gen X (35-44),2024-06-01,2024-06-30,10750.0,11170.34,1275765,18194.0,496.0,35972.2,4.1
+CMP-0789,Brand Story - Video - MEA,Awareness,Video,Middle East & Africa,Gen X (35-44),2023-03-25,2023-04-23,37950.0,27443.34,1395479,9804.0,69.0,5043.26,2.9
+CMP-0164,New Arrivals - Email - NA,Product Launch,Email,North America,,2024-02-22,2024-03-02,,2975.03,311240,7234.0,228.0,24569.7,5.8
+CMP-0480,Discover - Search - EU,Awareness,Search,Europe,Millennials (25-34),2024-06-18,2024-07-01,10500.0,9996.29,327542,14460.0,293.0,23177.48,9.2
+CMP-0962,Newsletter Signup - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2024-11-01,2024-11-30,17650.0,14443.79,492396,17474.0,1223.0,88305.29,6.6
+CMP-0157,Discover - Social Media - EU,Awareness,Social Media,Europe,Millennials (25-34),2023-08-14,2023-08-27,5550.0,4539.54,558242,7628.0,80.0,4664.41,6.3
+CMP-0328,Hello World - Search - EU,Awareness,Search,europe,Boomers (45-64),2023-06-20,2023-07-03,10100.0,8941.48,262606,8913.0,116.0,15676.25,9.8
+CMP-0353,Cart Reminder - Display - NA,Retargeting,Display,North America,Boomers (45-64),2023-02-11,2023-03-27,13850.0,13686.43,2822102,13901.0,295.0,37857.31,2.4
+CMP-0221,We Miss You - Social Media - APAC,Retargeting,Social Media,Asia Pacific,Gen X (35-44),2024-07-13,2024-08-02,9800.0,8283.53,1260259,15308.0,381.0,26951.73,5.2
+CMP-0197,Hello World - Display - EU,Awareness,Display,Europe,Gen X (35-44),2024-03-11,2024-05-09,32850.0,34519.16,9255011,24164.0,175.0,20273.37,3.5
+CMP-0966,Newsletter Signup - Search - NA,Lead Generation,Search,North America,Gen X (35-44),2024-11-21,2024-12-04,25300.0,24402.36,600924,41443.0,2846.0,345522.41,10.0
+CMP-0667,Free Guide - Influencer - MEA,Lead Generation,Influencer,Middle East & Africa,Millennials (25-34),2023-08-20,2023-09-09,16200.0,16335.94,912680,27794.0,792.0,43731.07,7.3
+CMP-0295,Cart Reminder - Influencer - EU,Retargeting,Influencer,Europe,Boomers (45-64),2023-11-28,2023-12-27,32250.0,29452.8,1903789,13869.0,679.0,58563.57,2.2
+CMP-0199,We Miss You - Social Media - EU,Retargeting,Social Media,Europe,Millennials (25-34),2024-05-14,2024-06-12,"$12,350",13060.89,1333729,29723.0,1138.0,76458.64,6.7
+CMP-1004,We Miss You - Email - NA,Retargeting,Email,NA,Gen X (35-44),2024-03-05,2024-03-25,6700.0,5764.31,589218,31098.0,3219.0,435171.58,10.0
+CMP-0940,Just Dropped - Email - LATAM,Product Launch,Email,Latin America,Millennials (25-34),2023-12-10,2024-01-08,4950.0,3803.21,362223,6122.0,134.0,6134.36,3.9
+CMP-1085,Summer Sale - Affiliate - NA,Seasonal Promo,Affiliate,North America,Boomers (45-64),2024-03-06,2024-06-03,39250.0,33800.77,4120094,50093.0,1562.0,178160.5,
+CMP-1020,Cart Reminder - Search - NA,Retargeting,Search,NA,Millennials (25-34),2023-07-17,2023-08-15,37050.0,38520.26,1035522,42447.0,6394.0,695442.02,9.3
+CMP-0530,Black Friday - Social Media - EU,Seasonal Promo,Social Media,Europe ,Boomers (45-64),2024-10-07,2024-10-13,5150.0,5343.3,744790,5885.0,105.0,13548.49,3.9
+CMP-0291,Come Back - Influencer - NA,Retargeting,Influencer,North America,Gen Z (18-24),2024-01-24,2024-02-22,27150.0,26420.32,1772559,84689.0,1472.0,113636.52,10.0
+CMP-0486,Webinar - Search - NA,Lead Generation,Search,North America,Boomers (45-64),2023-08-10,2023-08-16,3400.0,2770.05,63803,1863.0,78.0,8070.37,8.2
+CMP-0988,Cart Reminder - Email - EU,Retargeting,Email,Europe,Boomers (45-64),2024-04-12,,3850.0,3482.07,322656,14575.0,987.0,88095.42,8.2
+CMP-0579,Summer Sale - Influencer - EU,Seasonal Promo,Influencer,Europe,Gen X (35-44),2024-08-04,2024-08-13,6450.0,6283.64,542218,7434.0,207.0,19840.58,5.2
+CMP-0874,Holiday Deals - Social Media - LATAM,Seasonal Promo,Social Media,Latin America,Gen Z (18-24),2023-05-09,2023-05-15,7500.0,5411.04,474254,7664.0,133.0,5040.83,3.8
+CMP-0527,Black Friday - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Millennials (25-34),2023-10-31,2023-12-14,31700.0,31748.69,5473126,46741.0,2496.0,186315.57,4.0
+CMP-0097,Launch - Social Media - NA,Product Launch,Social Media,North America,Millennials (25-34),2023-10-27,2024-01-24,28200.0,20341.05,1727258,,736.0,61065.26,3.5
+CMP-0465,Newsletter Signup - Display - LATAM,Lead Generation,Display,Latin America,Gen Z (18-24),2023-02-17,2023-03-18,4400.0,3860.53,1005301,5943.0,42.0,1630.62,2.1
+CMP-0846,New Arrivals - Influencer - NA,Product Launch,Influencer,North America,Millennials (25-34),2023-03-11,2023-03-17,6400.0,5446.39,362200,9186.0,187.0,19020.52,5.7
+CMP-0179,Meet Us - Influencer - APAC,Awareness,Influencer,,Gen X (35-44),2024-03-24,2024-05-07,25750.0,19440.92,1453373,24305.0,228.0,12492.01,4.1
+CMP-0032,Holiday Deals - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Boomers (45-64),2023-01-12,2023-02-01,6000.0,5898.17,1008340,18890.0,819.0,73671.75,6.1
+CMP-0443,New Arrivals - Video - EU,Product Launch,Video,Europe,Gen Z (18-24),2023-09-18,2023-10-01,25000.0,25844.11,2058827,20904.0,310.0,19266.36,3.6
+CMP-1186,Cart Reminder - Influencer - APAC,Retargeting,Influencer,Asia Pacific,Boomers (45-64),2024-11-15,2024-11-28,13450.0,10697.25,686632,7250.0,547.0,38188.07,3.4
+CMP-0514,Summer Sale - Social Media - LATAM,Seasonal Promo,SocialMedia,Latin America,,2024-01-20,2024-02-02,17800.0,16429.94,2112530,45436.0,1828.0,78339.3,5.7
+CMP-0761,Last Chance - Video - APAC,Retargeting,video,Asia Pacific,Millennials (25-34),2023-11-09,2023-12-08,20750.0,19018.39,1674415,24362.0,1172.0,73405.4,3.8
+CMP-0245,Newsletter Signup - Display - NA,Lead Generation,Display,North America,Boomers (45-64),2024-05-24,2024-06-22,24900.0,22031.72,6998742,40765.0,665.0,79701.27,2.4
+CMP-0333,New Arrivals - Display - EU,Product Launch,Display,Europe,Millennials (25-34),2023-01-09,2023-02-07,7450.0,7512.66,2275431,9998.0,86.0,6480.47,3.4
+CMP-0632,Meet Us - Influencer - MEA,Awareness,Influencer,Middle East & Africa,Gen Z (18-24),2024-10-10,2024-10-30,9600.0,8293.11,736209,13509.0,89.0,4163.31,4.6
+CMP-0324,Newsletter Signup - Search - APAC,Lead Generation,Search,Asia Pacific,Boomers (45-64),2023-04-22,2023-06-20,26400.0,20573.56,543536,22159.0,915.0,71761.82,8.8
+CMP-0089,Meet Us - Social Media - EU,Awareness,Social Media,Europe,Gen X (35-44),2023-07-10,2023-07-30,13250.0,14008.64,1683543,21080.0,169.0,15832.17,
+CMP-1027,Hello World - Affiliate - APAC,Awareness,Affiliate,Asia Pacific,Boomers (45-64),2023-07-19,2023-07-28,6600.0,6051.41,848265,14161.0,156.0,12240.35,5.2
+CMP-0382,Discover - Affiliate - NA,Awareness,Affiliate,North America,Millennials (25-34),2023-01-05,2023-04-04,10950.0,11096.0,1168687,9012.0,111.0,15773.94,2.7
+CMP-0366,Last Chance - Search - EU,Retargeting,Search,Europe,Gen Z (18-24),2023-08-06,2023-08-26,11150.0,10123.47,548772,21502.0,1463.0,86042.49,8.8
+CMP-0491,Meet Us - Video - APAC,Awareness,Video,Asia Pacific,Gen Z (18-24),2023-04-16,2023-07-14,43250.0,35901.14,2411626,17731.0,154.0,7598.83,3.5
+CMP-1119,New Arrivals - Social Media - EU,Product Launch,Social Media,Europe,Millennials (25-34),2023-07-21,2023-08-03,12950.0,10616.22,1317983,36014.0,980.0,73861.29,9.2
+CMP-0942,Cart Reminder - Influencer - EU,Retargeting,Influencer,Europe,Gen Z (18-24),2024-10-31,2024-12-29,20700.0,20423.63,1415248,38245.0,989.0,57018.65,5.0
+CMP-0414,Hello World - Influencer - EU,Awareness,Influencer,Europe,Gen Z (18-24),2024-06-25,2024-07-24,2875000.0,28927.19,2137634,57416.0,340.0,22289.72,7.3
+CMP-0635,Last Chance - Email - NA,Retargeting,Email,North America,Gen Z (18-24),2024-07-23,2024-10-20,10300.0,9515.18,1498362,46411.0,3074.0,192193.89,6.3
+CMP-0590,Black Friday - Email - NA,Seasonal Promo, Email,North America,Millennials (25-34),2024-11-27,2024-12-17,5150.0,5217.15,578596,21740.0,1545.0,172791.71,8.9
+CMP-0744,Meet Us - Email - NA,Awareness,Email,North America,,2024-03-13,2024-04-11,"$11,650",10330.66,998569,16285.0,261.0,28250.52,4.2
+CMP-0463,Free Guide - Affiliate - APAC,Lead Generation,Affiliate,Asia Pacific,Gen Z (18-24),2024-08-18,2024-09-16,8600.0,8108.45,1057349,6795.0,234.0,9491.79,3.4
+CMP-0549,We Miss You - Video - EU,Retargeting,Video,Europe,Millennials (25-34),2024-02-23,2024-03-07,"$31,500",24493.25,1788969,24910.0,662.0,50533.17,4.8
+CMP-0364,Webinar - Email - LATAM,Lead Generation,Email,Latin America,Millennials (25-34),2023-06-06,2023-08-04,10250.0,8884.08,993029,20740.0,540.0,31006.36,5.5
+CMP-0725,Meet Us - Email - NA,Awareness,Email,North America,Gen Z (18-24),2023-12-17,2023-12-23,4000.0,3393.81,287217,4457.0,50.0,4304.75,6.0
+CMP-0535,Holiday Deals - Email - LATAM,Seasonal Promo,Email,LATAM,Millennials (25-34),2023-01-30,2023-02-12,"$3,100",2425.37,175004,5077.0,154.0,7548.32,8.5
+CMP-0011,Summer Sale - Social Media - APAC,Seasonal Promo,Social Media,Asia Pacific,Gen X (35-44),2024-11-08,2024-11-21,6650.0,6201.61,856157,12415.0,508.0,34931.6,4.5
+CMP-0987,First Look - Social Media - LATAM,Product Launch,Social Media,Latin America,Millennials (25-34),2023-10-03,2023-10-16,10150.0,10737.48,1165842,13485.0,182.0,7868.48,
+CMP-0421,Free Guide - Display - NA,Lead Generation,Display,North America,Millennials (25-34),2023-05-22,2023-06-20,10400.0,9280.11,2105880,8933.0,151.0,13257.33,3.4
+CMP-0244,Come Back - Search - NA,Retargeting,Search,North America,Gen X (35-44),2023-04-23,2023-05-06,9900.0,9528.37,437386,25517.0,2437.0,243071.75,10.0
+CMP-0060,New Arrivals - Email - MEA,Product Launch,Email,Middle East & Africa,Gen Z (18-24),2024-09-28,2024-10-04,"$3,200",2724.86,296560,5986.0,145.0,5502.67,6.4
+CMP-1074,Webinar - Affiliate - LATAM,Lead Generation,Affiliates,Latin America,Millennials (25-34),2024-05-01,2024-05-30,4650.0,4587.52,728634,6402.0,248.0,10712.32,3.3
+CMP-0064,Launch - Video - MEA,Product Launch,Video,Middle East & Africa,Gen X (35-44),2023-07-29,2023-08-27,33550.0,25767.35,1911895,20631.0,361.0,26785.16,3.1
+CMP-0433,Launch - Display - APAC,Product Launch,Display,Asia Pacific,Gen X (35-44),2024-08-22,2024-09-04,3250.0,3242.11,787140,5067.0,39.0,2319.83,2.8
+CMP-0278,Come Back - Search - MEA,Retargeting,Search,Middle East & Africa,Boomers (45-64),2024-03-18,,6900.0,6096.21,296157,17172.0,1277.0,74827.78,10.0
+CMP-0722,Webinar - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2024-11-24,2024-12-07,9550.0,8723.42,362463,13616.0,863.0,75317.73,9.5
+CMP-1063,Brand Story - Social Media - EU,Awareness,Social Media,Europe,Millennials (25-34),2023-07-03,,16000.0,14759.4,1689752,18009.0,170.0,11746.44,2.5
+CMP-0679,Holiday Deals - Email - EU,Seasonal Promo,Email,Europe,Millennials (25-34),2023-08-27,2023-09-02,2700.0,2826.64,351647,,234.0,16667.2,5.7
+CMP-0600,Meet Us - Display - APAC,Awareness,Display,Asia Pacific,Gen Z (18-24),2024-08-26,2024-10-09,21550.0,22636.44,5280236,29914.0,250.0,10266.95,1.3
+CMP-0307,Come Back - Search - APAC,Retargeting,Search,Asia Pacific,Gen X (35-44),2024-09-06,2024-11-04,19750.0,18983.9,515142,21566.0,1176.0,95890.4,10.0
+CMP-0290,New Arrivals - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2024-01-08,2024-03-07,11600.0,9996.83,1215364,22265.0,1416.0,103299.87,5.8
+CMP-0813,Back to School - Affiliate - NA,Seasonal Promo,affiliate,North America,Gen X (35-44),2024-11-19,2024-12-09,6450.0,4990.92,659372,9487.0,976.0,114007.5,5.6
+CMP-0597,Summer Sale - Video - EU,Seasonal Promo,Video,Europe,Gen Z (18-24),2024-02-29,2024-03-29,,20368.45,2008086,23111.0,258.0,19473.42,3.5
+CMP-0368,Holiday Deals - Display - NA,Seasonal Promo,Display,North America,Gen Z (18-24),2023-04-23,2023-05-22,6050.0,5230.36,1276955,7148.0,86.0,7401.31,4.9
+CMP-0271,Spring Sale - Email - MEA,Seasonal Promo,Email,Middle East & Africa,Millennials (25-34),2024-03-28,2024-04-26,3300.0,2839.24,427279,11240.0,702.0,37277.32,7.1
+CMP-0662,New Arrivals - Influencer - MEA,Product Launch,Influencer,Middle East & Africa,Boomers (45-64),2023-07-29,2023-08-18,21650.0,16148.88,920360,8764.0,122.0,9950.57,4.3
+CMP-0714,Back to School - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Gen X (35-44),2023-08-16,2023-11-13,6900.0,5367.36,1000233,9202.0,510.0,58055.23,3.1
+CMP-0309,Discover - Social Media - NA,Awareness,Social Media,North America,Millennials (25-34),2024-03-14,2024-03-20,9600.0,6983.14,847620,13148.0,330.0,28498.84,5.7
+CMP-0293,We Miss You - Affiliate - APAC,Retargeting,Affiliate,Asia Pacific,Millennials (25-34),2023-02-04,2023-03-05,7250.0,5744.27,785857,10322.0,877.0,61750.05,6.6
+CMP-1135,Back to School - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Boomers (45-64),2023-09-30,2023-10-20,15900.0,16509.32,2055572,46082.0,1445.0,154999.6,7.2
+CMP-0999,Back to School - Affiliate - NA,Seasonal Promo,Affiliate,North America,Millennials (25-34),2024-08-06,2024-09-04,9450.0,8994.83,1571973,12227.0,682.0,59634.68,3.6
+CMP-0084,Free Trial - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Millennials (25-34),2023-10-25,2023-11-07,10950.0,8126.68,809037,13386.0,308.0,24140.85,6.3
+CMP-0130,Back to School - Display - NA,seasonal promo,Display,North America,Gen X (35-44),2024-04-08,2024-05-22,26450.0,22576.98,3993603,16971.0,271.0,30582.17,2.7
+CMP-1138,Launch - Search - EU,product launch,Search,Europe,Gen Z (18-24),2024-08-02,2024-08-31,14300.0,13400.33,458499,35576.0,940.0,75793.54,10.0
+CMP-0766,Spring Sale - Email - NA,Seasonal Promo,Email,,Gen Z (18-24),2023-01-03,2023-02-01,8700.0,7764.74,906545,12419.0,516.0,34391.55,3.7
+CMP-0927,Free Trial - Social Media - EU,Lead Generation,Social Media,Europe,Gen X (35-44),2024-09-04,2024-10-18,26200.0,19572.86,1801426,26067.0,549.0,45690.15,4.8
+CMP-0677,Free Trial - Affiliate - NA,Lead Generation,Affiliate,North America,Millennials (25-34),2024-08-22,2024-09-20,5900.0,5846.14,817836,9676.0,581.0,71230.56,2.7
+CMP-0261,Come Back - Email - APAC,Retargeting,Email,Asia Pacific,Millennials (25-34),2024-01-06,2024-01-26,3300.0,2415.44,253793,10342.0,617.0,43481.46,10.0
+CMP-0550,Come Back - Search - EU,Retargeting,SEARCH,Europe,Millennials (25-34),2024-11-20,2024-12-19,18600.0,13620.93,540172,28072.0,2549.0,245756.4,10.0
+CMP-0562,Come Back - Social Media - NA,Retargeting,Social Media,North America,Millennials (25-34),2023-05-03,2023-05-12,10600.0,9700.56,1469097,22067.0,820.0,106347.99,3.2
+CMP-0905,Summer Sale - Affiliate - APAC,Seasonal Promo,Affiliate,asia pacific,Gen Z (18-24),2023-09-30,2023-10-29,3600.0,2983.27,321128,4067.0,84.0,3780.41,3.7
+CMP-0719,Free Guide - Display - APAC,Lead Generation,Display,Asia Pacific,Boomers (45-64),2023-02-24,2023-04-09,31400.0,25822.58,4693686,16055.0,271.0,14226.21,3.7
+CMP-0139,Hello World - Video - LATAM,Awareness,Video,latin america,Gen X (35-44),2024-10-04,2024-10-17,,11981.66,756892,7347.0,108.0,5009.21,3.2
+CMP-1069,Webinar - Email - APAC,Lead Generation,Email,Asia-Pacific,Boomers (45-64),2023-10-11,2024-01-08,14750.0,11242.05,920419,26322.0,1425.0,104815.97,7.3
+CMP-0142,Launch - Search - LATAM,Product Launch,Search,Latin America,Gen Z (18-24),2023-10-31,2023-11-29,22900.0,20724.86,768476,24380.0,1045.0,34639.13,7.0
+CMP-0808,Hello World - Social Media - NA,Awareness,Social Media,North America,Millennials (25-34),2023-11-18,2023-12-01,14700.0,13772.19,1826071,27533.0,552.0,40911.79,4.6
+CMP-1038,Webinar - Search - EU,Lead Generation,Search,Europe,Gen X (35-44),2023-10-12,2023-10-25,9850.0,9992.9,282248,12782.0,567.0,54068.27,10.0
+CMP-0705,Summer Sale - Social Media - APAC,Seasonal Promo,SocialMedia,Asia Pacific,Gen Z (18-24),2024-11-18,,29700.0,23365.43,3673484,74670.0,1855.0,78782.92,5.5
+CMP-0140,Just Dropped - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2024-03-20,2024-03-26,"$2,450",1766.01,123752,5294.0,315.0,29444.25,10.0
+CMP-0969,Brand Story - Search - EU,Awareness,Search,Europe,Millennials (25-34),2024-10-25,2024-11-23,19100.0,17963.75,421740,15877.0,330.0,28293.51,9.6
+CMP-1100,Come Back - Social Media - APAC,Retargeting,Social Media,Asia Pacific,Gen X (35-44),2023-05-23,2023-06-21,20700.0,15677.73,1320602,17935.0,777.0,63121.49,2.7
+CMP-0225,First Look - Social Media - EU,Product Launch,Social Media,Europe,Gen X (35-44),2023-01-28,2023-02-03,5600.0,5618.97,765806,10891.0,200.0,20419.28,5.5
+CMP-1079,Cart Reminder - Display - LATAM,Retargeting,Display,Latin America,Gen Z (18-24),2023-06-15,2023-06-28,2650.0,2376.97,512820,2724.0,31.0,1148.52,3.5
+CMP-0275,Just Dropped - Display - EU,Product Launch,Display,Europe,Boomers (45-64),2024-09-06,2024-09-26,5150.0,3735.13,959097,3712.0,49.0,5848.4,1.6
+CMP-0378,Launch - Search - LATAM,Product Launch,Search,Latin America,Gen Z (18-24),2024-10-05,2024-11-03,21000.0,20402.58,676304,32815.0,981.0,47497.53,10.0
+CMP-0406,Free Trial - Influencer - NA,Lead Generation,Influencer,NA,Gen Z (18-24),2024-06-20,2024-07-19,"$52,900",40114.15,3215093,97786.0,2366.0,172465.04,6.9
+CMP-1132,Discover - Search - EU,Awareness,Search,Europe,Boomers (45-64),2024-10-28,2025-01-25,53650.0,45485.97,1564509,36685.0,1145.0,97839.51,6.9
+CMP-0383,Summer Sale - Video - EU,Seasonal Promo,Video,Europe,Gen X (35-44),2023-08-28,2023-09-17,38950.0,39646.72,3629967,34135.0,,96148.05,3.9
+CMP-0589,Hello World - Social Media - LATAM,Awareness,social media,Latin America,Gen Z (18-24),2023-03-23,2023-06-20,27450.0,21706.57,2423570,49753.0,317.0,10783.17,6.0
+CMP-1082,Spring Sale - Affiliate - NA,Seasonal Promo,Affiliate,,Gen Z (18-24),2023-08-26,2023-09-15,4150.0,4259.76,708448,9547.0,408.0,33024.74,5.3
+CMP-0702,Brand Story - Social Media - NA,Awareness,social media,North America,Gen X (35-44),2024-04-05,2024-04-18,6700.0,6968.08,464796,6097.0,48.0,4527.73,3.4
+CMP-0826,Cart Reminder - Email - EU,Retargeting,Email,Europe,Millennials (25-34),2024-11-04,2024-11-13,2100.0,2029.53,197903,7711.0,743.0,56293.59,10.0
+CMP-0674,Holiday Deals - Video - MEA,Seasonal Promo,Video,Middle East & Africa,Boomers (45-64),2023-02-21,2023-02-08,18950.0,15311.84,1051230,18281.0,564.0,35125.84,4.0
+CMP-1111,Cart Reminder - Email - MEA,Retargeting,Email,Middle East & Africa,Gen X (35-44),2023-07-26,2023-09-08,11250.0,11577.01,1227635,27146.0,,145603.65,6.0
+CMP-0310,Holiday Deals - Email - APAC,Seasonal Promo,email,Asia-Pacific,Gen X (35-44),2023-06-09,2023-07-08,8950.0,8411.85,684010,28404.0,1976.0,144275.49,7.9
+CMP-0483,Just Dropped - Display - APAC,Product Launch,Display,Asia Pacific,Gen X (35-44),2023-06-03,2023-07-17,18950.0,17159.86,5108966,23934.0,579.0,42770.92,2.9
+CMP-0611,Webinar - Search - NA,Lead Generation,Search,North America,Gen X (35-44),2023-06-03,2023-07-17,73300.0,58263.04,1709668,53353.0,2063.0,217544.8,7.3
+CMP-0322,Cart Reminder - Search - EU,Retargeting,Search,Europe,Boomers (45-64),2023-04-22,2023-04-28,13600.0,13378.1,430581,20756.0,1824.0,207136.46,10.0
+CMP-0782,Free Guide - Affiliate - EU,Lead Generation,Affiliate,Europe,Millennials (25-34),2024-03-01,2024-03-21,8450.0,6489.18,582149,4887.0,255.0,20755.14,3.0
+CMP-0866,Free Trial - Affiliate - MEA,Lead Generation,Affiliate,Middle East & Africa,Gen Z (18-24),2023-10-12,2023-11-25,7000.0,5064.61,512679,6572.0,148.0,6272.74,5.3
+CMP-0411,Discover - Display - NA,Awareness,Display,North America,Millennials (25-34),2024-04-02,2024-04-22,6250.0,5243.07,1555730,7589.0,39.0,3318.33,3.8
+CMP-0040,Black Friday - Display - NA,Seasonal Promo,Display,North America,Millennials (25-34),2024-01-22,2024-01-31,5900.0,5846.09,1797107,6487.0,99.0,9560.09,2.7
+CMP-0031,We Miss You - Video - NA,Retargeting,Video,North America,Gen Z (18-24),2023-01-21,2023-02-03,13900.0,12607.48,1281019,14792.0,498.0,32169.24,4.1
+CMP-0243,Launch - Social Media - NA,Product Launch,Social Media,North America,Gen X (35-44),2024-04-05,2024-05-19,2355000.0,17562.02,1895233,21980.0,338.0,35377.67,3.6
+CMP-0462,Just Dropped - Email - APAC,Product Launch,Email,Asia Pacific,Gen X (35-44),2023-01-06,2023-01-12,4150.0,4329.38,572534,17696.0,404.0,27045.9,8.5
+CMP-0137,Black Friday - Affiliate - NA,Seasonal Promo,Affiliate,N. America,Millennials (25-34),2023-05-24,2023-06-06,"$10,550",8315.17,1127792,11822.0,653.0,69717.31,
+CMP-1007,Just Dropped - Affiliate - APAC,Product Launch,Affiliate,Asia Pacific,Boomers (45-64),2024-01-05,2024-04-03,26650.0,25197.92,3197735,32905.0,1470.0,103446.52,3.4
+CMP-0434,We Miss You - Influencer - APAC,Retargeting,Influencer,Asia Pacific,Millennials (25-34),2023-12-21,2024-01-19,23250.0,23327.76,1652813,33847.0,1945.0,106609.8,5.0
+CMP-0004,Last Chance - Display - APAC,Retargeting,Display,Asia Pacific,Millennials (25-34),2023-05-27,2023-06-05,6000.0,4568.98,853457,5583.0,111.0,7053.33,1.3
+CMP-1182,Spring Sale - Email - NA,Seasonal Promo,Email,North America,Boomers (45-64),2024-01-29,2024-02-27,6700.0,5075.18,510706,19026.0,927.0,82298.7,8.4
+CMP-0623,New Arrivals - Affiliate - EU,Product Launch,Affiliate,Europe,Millennials (25-34),2023-10-23,2023-11-01,4550.0,4108.85,483673,5681.0,279.0,29579.13,4.9
+CMP-1051,Holiday Deals - Display - EU,Seasonal Promo,Display,Europe,Boomers (45-64),2024-01-09,2024-01-22,5900.0,5451.22,1338172,5413.0,73.0,5629.68,3.9
+CMP-1133,First Look - Email - LATAM,Product Launch,Email,Latin America,Millennials (25-34),2023-06-15,2023-07-14,4650.0,4030.12,222549,5303.0,358.0,17014.72,6.7
+CMP-0845,Hello World - Email - MEA,Awareness,Email,Middle East & Africa,Gen Z (18-24),2024-09-03,2024-09-12,4400.0,4007.18,447336,5307.0,42.0,1754.35,3.5
+CMP-1043,Meet Us - Display - EU,Awareness,Display,Europe ,Millennials (25-34),2024-07-10,2024-08-23,16750.0,12524.39,4252002,,90.0,7273.29,3.2
+CMP-0487,Hello World - Search - EU,Awareness,Search,Europe,Millennials (25-34),2024-01-24,2024-02-06,13500.0,13257.29,430296,25352.0,344.0,29506.9,10.0
+CMP-0315,We Miss You - Social Media - LATAM,Retargeting,Social Media,Latin America,Millennials (25-34),2023-12-31,2024-01-09,16750.0,17158.67,1969828,27024.0,1280.0,62910.88,2.8
+CMP-0877,First Look - Search - MEA,Product Launch,Search,Middle East & Africa,Millennials (25-34),2024-05-07,2024-05-20,15450.0,12082.6,362392,20320.0,523.0,32398.04,10.0
+CMP-0669,Spring Sale - Social Media - EU,Seasonal Promo,Social Media,EU,Gen X (35-44),2023-09-09,2023-09-22,20550.0,15757.85,2650656,56755.0,1131.0,95123.27,4.7
+CMP-0709,Brand Story - Search - APAC,Awareness,Search,Asia Pacific,Boomers (45-64),2023-03-13,2023-03-26,10850.0,8422.43,293729,6150.0,87.0,5941.83,6.1
+CMP-0006,Free Trial - Affiliate - NA,Lead Generation,Affiliates,North America,Gen Z (18-24),2023-02-02,2023-03-03,13100.0,11321.51,1761563,19871.0,574.0,51361.06,6.6
+CMP-0101,Discover - Affiliate - NA,Awareness,Affiliate,North America,Boomers (45-64),2023-01-25,2023-02-03,3350.0,2697.53,317014,2254.0,44.0,5035.8,4.9
+CMP-0754,Meet Us - Search - MEA,Awareness,Search,Middle East & Africa,Gen Z (18-24),2023-05-15,2023-05-28,20500.0,21332.3,690369,22976.0,346.0,14530.79,8.3
+CMP-0693,Come Back - Social Media - EU,Retargeting,Social Media,Europe,Gen Z (18-24),2023-02-24,2023-03-25,17250.0,12691.38,1271865,23431.0,428.0,31189.79,
+CMP-0723,Free Guide - Email - EU,Lead Generation,Email,Europe,Gen X (35-44),2023-12-07,2024-01-05,7550.0,6743.42,627708,20471.0,1467.0,146779.68,8.1
+CMP-0833,Just Dropped - Search - EU,Product Launch,Search,Europe,Boomers (45-64),2023-06-19,2023-08-02,83950.0,68603.22,2422872,94050.0,2022.0,235020.04,10.0
+CMP-0452,Just Dropped - Influencer - NA,Product Launch,Influencer,North America,Gen X (35-44),2024-03-02,2024-04-15,12000.0,12641.21,842556,17417.0,,76784.24,6.0
+CMP-0772,Black Friday - Display - MEA,Seasonal Promo,Display,Middle East & Africa,Gen Z (18-24),2024-08-29,2024-09-18,6300.0,4593.78,1285181,6258.0,130.0,6149.77,3.4
+CMP-0332,Free Guide - Social Media - NA,Lead Generation,Social Media,North America,Gen X (35-44),2023-01-07,2023-03-07,36600.0,28790.18,3921425,37368.0,745.0,62590.23,3.1
+CMP-0228,Free Trial - Search - NA,Lead Generation,SEARCH,North America,Millennials (25-34),2024-10-20,2024-12-03,20800.0,16671.31,530338,18077.0,923.0,78903.67,7.4
+CMP-0359,Black Friday - Search - APAC,Seasonal Promo,Search,Asia Pacific,Gen Z (18-24),2023-07-31,2023-08-13,13350.0,14008.32,611007,16054.0,450.0,23924.89,7.7
+CMP-0543,Last Chance - Influencer - NA,Retargeting,Influencer,North America,Gen Z (18-24),2023-10-17,2023-10-26,6000.0,4327.59,429762,570711.0,313.0,28420.51,5.9
+CMP-1044,Free Trial - Display - NA,Lead Generation,Display,North America,Gen Z (18-24),2024-03-19,2024-05-02,1545000.0,12741.94,3774917,24913.0,388.0,38697.71,2.1
+CMP-0598,Free Trial - Display - NA,Lead Generation,Display Ads,North America,Boomers (45-64),2024-08-02,2024-09-15,14450.0,14498.37,3057810,13573.0,192.0,26246.82,2.8
+CMP-0067,Last Chance - Search - NA,Retargeting,Search,North America,,2024-03-01,2024-04-14,28150.0,20404.03,822869,23853.0,1930.0,135199.23,6.5
+CMP-0068,New Arrivals - Social Media - MEA,Product Launch,Social Media,Middle East & Africa,Gen Z (18-24),2024-06-02,2024-06-11,4900.0,4486.96,601325,17577.0,258.0,11292.85,9.0
+CMP-0630,Free Guide - Influencer - EU,Lead Generation,Influencer,Europe,Millennials (25-34),2023-03-23,2023-04-01,14450.0,11024.01,836522,19498.0,553.0,46464.15,6.6
+CMP-0212,Last Chance - Display - MEA,Retargeting,Display ,Middle East & Africa,Gen Z (18-24),2024-02-05,2024-03-05,10200.0,10760.14,3364135,28060.0,227.0,10166.28,1.6
+CMP-0013,Webinar - Display - EU,Lead Generation,Display,Europe,Gen X (35-44),2023-02-25,2023-03-10,12850.0,10834.11,2968512,13113.0,116.0,10479.22,2.9
+CMP-0524,Spring Sale - Display - EU,Seasonal Promo,Display,Europe,Millennials (25-34),2023-04-23,2023-05-06,3650.0,3386.04,639540,2458.0,48.0,3069.24,2.2
+CMP-0668,Discover - Affiliate - NA,Awareness,Affiliate,North America,Gen X (35-44),2023-12-01,2023-12-14,"$9,800",8812.36,1278216,11060.0,362.0,50530.54,2.2
+CMP-0300,Come Back - Display - APAC,Retargeting,Display,Asia Pacific,Gen Z (18-24),2024-04-28,2024-05-04,3500.0,3533.6,1089953,5349.0,180.0,11912.56,2.6
+CMP-0835,Discover - Video - NA,Awareness,Video,North America,Gen X (35-44),2024-03-02,2024-03-15,15450.0,13496.64,1240114,8519.0,96.0,11047.36,3.4
+CMP-1121,First Look - Display - NA,product launch,Display,North America,Millennials (25-34),2023-10-18,2024-01-15,,19776.13,4478262,17703.0,516.0,52330.25,3.0
+CMP-1092,Meet Us - Display - APAC,Awareness,Display,Asia Pacific,Millennials (25-34),2023-02-18,2023-03-19,18250.0,17825.24,3390092,10956.0,101.0,4890.51,3.1
+CMP-0736,Summer Sale - Display - NA,seasonal promo,Display,north america,Gen Z (18-24),2024-06-06,2024-06-19,8050.0,8387.34,2650280,13757.0,208.0,14159.81,3.4
+CMP-0533,First Look - Search - APAC,Product Launch,Search,Asia Pacific,Millennials (25-34),2024-11-17,2024-11-30,16400.0,11935.2,310412,16138.0,1041.0,48417.29,10.0
+CMP-1183,Webinar - Email - NA,Lead Generation,Email,North America,Boomers (45-64),2023-11-03,2023-12-02,5150.0,4080.14,412878,13818.0,468.0,52004.79,7.7
+CMP-0599,Come Back - Affiliate - EU,Retargeting,Affiliate,Europe,Gen Z (18-24),2024-11-12,2024-12-26,7250.0,7292.13,619802,10651.0,597.0,35612.12,4.3
+CMP-0546,Free Trial - Search - APAC,Lead Generation,Paid Search,asia pacific,,2023-11-13,2023-11-26,17950.0,14123.35,452466,17372.0,,47949.38,8.9
+CMP-0479,First Look - Display - LATAM,Product Launch,Display,Latin America,Gen Z (18-24),2024-10-28,2024-11-26,9450.0,8059.69,2380314,10309.0,61.0,2086.15,2.4
+CMP-1137,Webinar - Search - LATAM,Lead Generation,Search,Latin America,Gen X (35-44),2023-01-31,2023-02-09,7850.0,8319.08,187333,6544.0,342.0,18053.99,9.2
+CMP-1001,Hello World - Email - NA,awareness,Email,North America,Gen X (35-44),2024-06-01,2024-06-10,3850.0,3671.33,312813,10017.0,172.0,18846.02,8.3
+CMP-0529,Free Guide - Video - NA,Lead Generation,Video,North America,Gen X (35-44),2023-05-28,2023-07-26,21500.0,15863.98,869146,8508.0,271.0,31777.26,4.1
+CMP-0274,First Look - Display - EU,Product Launch,Display,Europe,Gen Z (18-24),2023-10-11,2023-09-12,4500.0,4280.92,1191593,3778.0,26.0,1444.54,2.7
+CMP-0391,Last Chance - Display - NA,Retargeting,Display,North America,Boomers (45-64),2023-08-11,2023-09-24,7550.0,7181.01,1286798,4429.0,138.0,16955.17,4.2
+CMP-0238,Free Guide - Video - EU,Lead Generation,Video,Europe,Gen Z (18-24),2024-10-06,2024-11-04,12200.0,9087.81,812137,10234.0,151.0,9419.27,3.7
+CMP-0439,Webinar - Video - NA,Lead Generation,Video,North America,Millennials (25-34),2024-11-02,2024-11-22,58000.0,44603.53,2883357,23960.0,506.0,45712.85,2.9
+CMP-0003,Black Friday - Influencer - LATAM,Seasonal Promo,Influencer,Latin America,Millennials (25-34),2023-04-21,2023-05-11,11300.0,8184.16,485064,10433.0,315.0,15616.56,4.7
+CMP-0007,Launch - Video - APAC,Product Launch,Video,Asia Pacific,Gen Z (18-24),2023-08-10,2023-08-23,22750.0,20324.98,1194879,13378.0,216.0,,3.9
+CMP-0312,Free Trial - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2023-06-15,2023-07-14,33050.0,24735.01,859130,25687.0,1073.0,108270.68,6.3
+CMP-1046,Free Guide - Social Media - NA,Lead Generation,Social Media,North America,Boomers (45-64),2024-08-27,2024-09-05,"$9,700",10211.68,943912,7981.0,148.0,12594.7,3.4
+CMP-0819,Webinar - Display - APAC,Lead Generation,Display Ads,Asia Pacific,Gen Z (18-24),2024-06-04,2024-06-17,10500.0,8146.34,2497320,9459.0,139.0,6640.75,4.5
+CMP-0991,Hello World - Display - NA,Awareness,Display,North America,Millennials (25-34),2024-11-23,2024-12-02,7300.0,6296.45,1796529,5665.0,65.0,8087.83,2.1
+CMP-0631,Summer Sale - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Boomers (45-64),2023-01-18,2023-01-31,6800.0,6989.71,889717,15251.0,716.0,81041.86,4.7
+CMP-0216,First Look - Video - APAC,Product Launch,Video,APAC,Millennials (25-34),2023-03-27,2023-04-09,41800.0,34432.41,1953674,15442.0,327.0,24969.99,4.1
+CMP-0768,Discover - Email - LATAM,Awareness,Email,Latin America,Gen X (35-44),2024-04-16,2024-05-06,4050.0,4102.13,400115,9287.0,193.0,8845.8,5.8
+CMP-0028,Holiday Deals - Email - EU,Seasonal Promo,Email,Europe,Gen X (35-44),2024-10-20,2024-12-03,8100.0,8010.42,696948,21268.0,1312.0,159831.98,8.3
+CMP-1175,Free Trial - Search - EU,Lead Generation,SEARCH,Europe,,2023-05-19,2023-06-08,8700.0,7175.25,275569,8939.0,274.0,21041.01,7.9
+CMP-0967,Black Friday - Affiliate - LATAM,Seasonal Promo,Affiliate,Latin America,Gen X (35-44),2023-05-06,2023-05-26,9050.0,7549.6,806318,,256.0,17741.16,5.3
+CMP-0553,Brand Story - Social Media - LATAM,Awareness,Social Media,Latin America,Millennials (25-34),2023-10-06,2023-10-26,22800.0,22129.73,2695844,27759.0,268.0,13188.42,4.4
+CMP-0804,Summer Sale - Display - APAC,Seasonal Promo,Display,Asia Pacific,Millennials (25-34),2023-05-01,2023-05-14,11600.0,8594.46,2818389,13503.0,151.0,10083.42,3.8
+CMP-0886,Holiday Deals - Social Media - NA,Seasonal Promo,Social,North America,Millennials (25-34),2023-08-03,2023-09-01,17250.0,14698.16,1617523,48191.0,,138202.41,6.9
+CMP-0773,Holiday Deals - Display - APAC,Seasonal Promo,Display,APAC,Millennials (25-34),2023-08-19,2023-09-08,7000.0,5910.54,1684831,5792.0,121.0,9359.21,3.1
+CMP-0756,Webinar - Social Media - MEA,Lead Generation,SocialMedia,Middle East & Africa,Gen X (35-44),2023-01-03,2023-01-09,3550.0,3709.36,467287,6170.0,105.0,5768.29,3.4
+CMP-0554,Last Chance - Affiliate - LATAM,Retargeting,Affiliate,Latin America,Millennials (25-34),2023-12-08,2023-12-14,4150.0,3625.42,651905,11251.0,1259.0,74890.83,6.0
+CMP-0355,Last Chance - Search - NA,Retargeting,Search,North America,Gen Z (18-24),2023-12-25,2023-12-31,9300.0,9614.54,221815,7990.0,,46774.24,7.8
+CMP-1067,Back to School - Search - APAC,Seasonal Promo,Search,Asia Pacific,Gen X (35-44),2023-11-09,,19350.0,18541.12,517940,23441.0,2079.0,167859.13,10.0
+CMP-0431,Webinar - Affiliate - EU,Lead Generation,Affiliate,Europe,Millennials (25-34),2023-02-14,2023-03-15,"$9,650",8912.87,1026843,10593.0,366.0,37045.92,4.8
+CMP-0257,Newsletter Signup - Influencer - NA,Lead Generation,Influencer,North America,Gen X (35-44),2023-08-13,2023-10-11,23600.0,23353.03,1284429,19263.0,438.0,50072.98,3.3
+CMP-0292,Free Guide - Email - LATAM,Lead Generation,Email,Latin America,Gen X (35-44),2024-07-14,2024-07-23,"$3,550",2939.72,305901,6534.0,167.0,9275.19,4.0
+CMP-0026,Summer Sale - Social Media - LATAM,Seasonal Promo,Social Media,Latin America,Gen X (35-44),2023-12-22,2024-01-20,5800.0,6002.63,696067,15343.0,408.0,25139.9,6.5
+CMP-0337,Hello World - Email - APAC,Awareness,Email,Asia Pacific,Millennials (25-34),2024-02-11,2024-03-11,6800.0,5967.53,452379,9643.0,140.0,8313.79,5.5
+CMP-1160,First Look - Video - NA,Product Launch,Video,North America,Boomers (45-64),2024-08-03,2024-08-16,18600.0,19384.6,1603727,16318.0,454.0,62989.3,2.6
+CMP-0048,Newsletter Signup - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2024-05-07,2024-05-20,8900.0,7932.35,766809,17073.0,418.0,35109.9,5.3
+CMP-0319,Meet Us - Social Media - NA,Awareness,Social Media,North America,Gen X (35-44),2024-04-15,2024-04-21,10350.0,9901.26,1019468,12466.0,120.0,,4.6
+CMP-0107,Cart Reminder - Search - APAC,Retargeting,Paid Search,APAC,Millennials (25-34),2023-08-12,2023-08-21,16350.0,13428.77,353571,13209.0,988.0,64101.9,8.3
+CMP-0873,Black Friday - Affiliate - NA,Seasonal Promo,Affiliate,North America,Gen X (35-44),2024-05-24,2024-06-22,6200.0,4780.75,560015,5435.0,467.0,56997.17,3.5
+CMP-0056,First Look - Video - LATAM,Product Launch,Video,Latin America,Gen Z (18-24),2023-10-17,2023-11-15,37600.0,34060.81,2475802,25771.0,390.0,16237.19,3.4
+CMP-1090,Just Dropped - Search - NA,Product Launch,Search,North America,Gen X (35-44),2023-07-28,2023-10-25,21700.0,20619.87,627685,28764.0,2367.0,195794.23,8.7
+CMP-0214,Spring Sale - Influencer - MEA,Seasonal Promo,Influencer,Middle East & Africa,Gen Z (18-24),2024-09-07,2024-10-06,27450.0,22055.56,1899088,86785.0,1126.0,58525.53,10.0
+CMP-0121,Brand Story - Display - EU,Awareness,display,Europe,Gen X (35-44),2024-07-19,2024-08-08,13500.0,10438.78,2622352,9617.0,50.0,5412.46,2.2
+CMP-0583,Discover - Email - NA,Awareness,Email,North America,Gen X (35-44),2023-01-13,2023-02-26,5950.0,5988.97,614163,10028.0,197.0,27118.33,5.9
+CMP-0507,Come Back - Social Media - NA,Retargeting,Social Media,North America,Gen X (35-44),2024-06-23,2024-07-22,12150.0,10513.18,1338876,24758.0,1429.0,154680.0,5.4
+CMP-0539,Newsletter Signup - Social Media - EU,Lead Generation,Social Media,Europe,Gen X (35-44),2023-06-18,2023-07-17,12650.0,12329.14,1898205,32149.0,544.0,38906.1,4.9
+CMP-0073,Holiday Deals - Influencer - EU,Seasonal Promo,Influencer,Europe,Millennials (25-34),2024-09-11,2024-11-09,55050.0,42955.15,2175639,77151.0,2703.0,219519.49,8.2
+CMP-1000,Back to School - Social Media - APAC,Seasonal Promo,Social Media,Asia Pacific,Millennials (25-34),2023-03-06,2023-04-19,,9312.74,979502,13417.0,418.0,24372.84,3.6
+CMP-1140,Newsletter Signup - Display - NA,Lead Generation,Display,North America,Gen X (35-44),2023-08-09,2023-09-07,8700.0,8011.95,2172896,7598.0,126.0,11365.22,2.5
+CMP-0875,Black Friday - Video - EU,Seasonal Promo,YouTube/Video,Europe,Millennials (25-34),2023-10-04,2023-10-10,24450.0,20308.68,1934946,16351.0,463.0,41436.12,5.0
+CMP-0448,Discover - Display - APAC,Awareness,Display,Asia Pacific,Millennials (25-34),2024-03-16,2024-03-29,11600.0,9554.61,2234032,12021.0,101.0,6359.1,1.5
+CMP-0923,Holiday Deals - Display - NA,Seasonal Promo,Display,North America,Gen X (35-44),2023-08-20,2023-10-03,,30223.72,7293444,39929.0,1153.0,117169.93,4.1
+CMP-0809,Hello World - Search - NA,Awareness,Search,North America,Boomers (45-64),2023-09-17,2023-09-23,7900.0,-8013.6,275604,10480.0,175.0,15883.47,8.1
+CMP-0831,Just Dropped - Display - NA,Product Launch,Display,North America,Millennials (25-34),2024-02-09,2024-04-08,10000.0,9934.48,2417415,8859.0,81.0,6946.91,2.5
+CMP-0582,Newsletter Signup - Search - APAC,Lead Generation,Search,Asia Pacific,Gen Z (18-24),2023-10-16,,39700.0,37521.06,1244987,55492.0,2262.0,108878.02,10.0
+CMP-0975,New Arrivals - Social Media - EU,Product Launch,Social Media,Europe,Boomers (45-64),2024-03-01,2024-03-14,9550.0,7489.64,752865,10868.0,,25418.34,3.3
+CMP-0520,Holiday Deals - Influencer - LATAM,Seasonal Promo,influencer,Latin America,Millennials (25-34),2023-02-08,2023-02-21,12600.0,12088.07,807062,11964.0,322.0,16365.32,3.9
+CMP-0326,Back to School - Display - NA,Seasonal Promo,Display,North America,Gen X (35-44),2023-12-07,2024-02-04,34100.0,29518.62,8645756,23920.0,495.0,69709.65,1.0
+CMP-0616,Holiday Deals - Video - EU,Seasonal Promo,Video,Europe,Gen Z (18-24),2023-07-21,2023-07-27,9700.0,9679.59,508352,6557.0,82.0,4938.39,3.8
+CMP-0959,Summer Sale - Search - EU,Seasonal Promo,Search,Europe,Gen Z (18-24),2024-02-01,2024-02-21,16050.0,16636.58,536740,14472.0,493.0,31514.3,7.3
+CMP-0317,First Look - Social Media - NA,Product Launch,Social Media,North America,Millennials (25-34),2023-02-26,2023-04-11,36150.0,30915.76,2919411,62439.0,111786.0,149611.91,5.4
+CMP-0802,Last Chance - Social Media - EU,Retargeting,Social Media,Europe,Gen X (35-44),2023-06-30,2023-07-20,12900.0,12978.55,1305445,19590.0,882.0,95528.57,2.7
+CMP-0856,Come Back - Search - EU,Retargeting,Search,Europe,Millennials (25-34),2023-01-04,2023-03-04,17600.0,16968.38,488061,18080.0,1422.0,131337.85,7.2
+CMP-0555,New Arrivals - Email - EU,Product Launch,Email,Europe,Gen X (35-44),2023-11-29,2023-12-19,2400.0,2134.8,275773,10278.0,491.0,48482.73,8.3
+CMP-0707,Webinar - Video - EU,Lead Generation,Video,Europe,Millennials (25-34),2024-03-31,2024-06-28,28500.0,27545.3,2459370,16626.0,302.0,28640.49,3.1
+CMP-1041,Free Guide - Email - NA,Lead Generation,Email,North America,Gen Z (18-24),2023-12-13,2024-01-02,,4708.15,403361,9583.0,547.0,44508.27,7.8
+CMP-0960,Holiday Deals - Search - NA,Seasonal Promo,Search,North America,Gen X (35-44),2024-05-26,2024-06-15,19800.0,17520.13,600988,43196.0,3926.0,529001.66,10.0
+CMP-0848,Come Back - Display - EU,Retargeting,Display,Europe,,2023-03-14,2023-06-11,24850.0,20245.39,5421534,25115.0,415.0,21385.97,2.5
+CMP-0061,Cart Reminder - Display - NA,Retargeting,Display,North America,Gen Z (18-24),2023-05-10,2023-06-08,9600.0,9948.31,1802681,10503.0,199.0,,4.7
+CMP-0918,Brand Story - Email - NA,Awareness,Email,North America,Millennials (25-34),2023-10-26,2023-11-24,18250.0,17634.57,1270342,39597.0,848.0,69409.83,8.3
+CMP-0093,Meet Us - Search - EU,Awareness,Search,Europe,Gen Z (18-24),2024-02-19,2024-03-03,17050.0,17092.62,607049,17370.0,284.0,18785.97,6.0
+CMP-0887,Spring Sale - Search - EU,Seasonal Promo,SEARCH,Europe,Gen X (35-44),2024-09-23,,16750.0,15571.62,384826,30968.0,2042.0,161710.55,10.0
+CMP-0425,Last Chance - Display - EU,Retargeting,Display,Europe,Gen X (35-44),2023-02-24,2023-03-09,9300.0,8129.51,1755606,13811.0,209.0,18991.42,3.4
+CMP-0352,Back to School - Social Media - EU,Seasonal Promo,Social Media,Europe,Boomers (45-64),2023-10-16,2023-11-05,12750.0,11464.61,1394299,2011945.0,492.0,47770.12,
+CMP-0965,Newsletter Signup - Affiliate - LATAM,Lead Generation,Affiliate,Latin America,Gen Z (18-24),2024-11-09,2024-12-23,15100.0,14124.74,1642285,25149.0,1960.0,77777.81,5.2
+CMP-0281,Cart Reminder - Email - EU,Retargeting,Email,Europe,Gen X (35-44),2023-10-07,2023-11-20,3800.0,3894.4,522439,15289.0,749.0,56111.94,7.3
+CMP-0454,Webinar - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-11-01,2023-11-14,7100.0,7357.95,801097,22515.0,870.0,80560.46,6.8
+CMP-0430,Spring Sale - Influencer - EU,Seasonal Promo,Influencer,Europe,Boomers (45-64),2023-05-18,2023-07-01,18800.0,18848.33,1049485,13573.0,569.0,58270.26,5.3
+CMP-0360,Just Dropped - Display - LATAM,Product Launch,Display,Latin America,Millennials (25-34),2024-10-01,2024-10-07,4800.0,4114.53,1005133,6088.0,79.0,4279.49,3.4
+CMP-1049,Free Trial - Influencer - EU,Lead Generation,Influencer,Europe,Millennials (25-34),2023-08-31,2023-09-29,21900.0,16192.32,1127497,22961.0,631.0,71246.31,5.2
+CMP-0567,Free Trial - Video - MEA,Lead Generation,Video,Middle East & Africa,Gen Z (18-24),2023-09-09,2023-10-23,40950.0,34650.1,2751259,25017.0,251.0,11397.5,
+CMP-0860,Meet Us - Search - NA,Awareness,Search,North America,Boomers (45-64),2023-06-15,2023-06-28,20650.0,16711.36,891826,27403.0,422.0,48178.84,6.2
+CMP-0739,Spring Sale - Search - NA,Seasonal Promo,Search,North America,Millennials (25-34),2024-09-09,2024-09-22,19200.0,15928.77,502973,16016.0,1006.0,86158.9,6.9
+CMP-0762,Last Chance - Email - EU,Retargeting,Email,Europe,Millennials (25-34),2024-04-05,2024-05-04,11450.0,10303.97,838769,18737.0,1024.0,86707.05,6.7
+CMP-1196,Cart Reminder - Social Media - MEA,Retargeting,Social Media,Middle East & Africa,Gen Z (18-24),2023-08-16,2023-08-29,12300.0,11176.59,1099309,21208.0,422.0,21544.94,7.3
+CMP-0183,Discover - Search - EU,Awareness,Search,Europe,,2024-11-25,2024-12-08,11200.0,9527.0,339127,11183.0,295.0,25207.03,8.6
+CMP-0849,Come Back - Email - NA,Retargeting,Email,North America,Millennials (25-34),2023-10-28,2023-11-26,4500.0,4604.61,460302,20583.0,1949.0,195179.87,10.0
+CMP-0466,Meet Us - Display - LATAM,Awareness,Display,Latin America,Gen X (35-44),2023-02-02,2023-02-15,6350.0,6062.82,1243613,5169.0,48.0,2631.83,2.3
+CMP-0111,First Look - Search - EU,Product Launch,Search,Europe,Boomers (45-64),2023-04-01,2023-04-10,9850.0,7811.1,229900,6802.0,,31791.78,7.0
+CMP-0371,Discover - Video - EU,Awareness,Video,Europe,Boomers (45-64),2023-05-20,2023-07-03,24000.0,18171.2,1400752,10192.0,101.0,9792.27,3.3
+CMP-0240,Hello World - Email - MEA,Awareness,Email,Middle East & Africa,Millennials (25-34),2023-10-13,2023-11-11,5150.0,5314.22,858256,22500.0,376.0,24245.96,7.1
+CMP-0731,Just Dropped - Social Media - APAC,Product Launch,Social Media,Asia Pacific,Gen Z (18-24),2023-08-04,2023-08-17,13050.0,10735.06,1799361,45032.0,542.0,26351.34,6.6
+CMP-0651,Come Back - Search - NA,Retargeting,Search,North America,Millennials (25-34),2024-02-13,2024-03-04,8900.0,7638.79,235577,13620.0,624.0,61145.85,10.0
+CMP-0614,Spring Sale - Affiliate - NA,Seasonal Promo,Affiliate,North America,Gen Z (18-24),2023-04-26,2023-05-25,10850.0,8819.04,881729,8810.0,379.0,37258.79,4.8
+CMP-0205,Discover - Email - NA,Awareness,Email,North America,Gen Z (18-24),2024-09-15,2024-10-14,8000.0,7015.62,724386,10358.0,122.0,10675.26,4.5
+CMP-1184,Back to School - Social Media - NA,Seasonal Promo,Social Media,North America,Gen X (35-44),2023-09-29,2023-10-08,11250.0,8399.79,942675,14371.0,411.0,41235.4,2.8
+CMP-0262,Newsletter Signup - Influencer - EU,Lead Generation,Influencer,Europe,Gen Z (18-24),2024-06-14,2024-06-20,14200.0,11307.13,877235,31767.0,579.0,36784.97,9.0
+CMP-0515,First Look - Social Media - NA,Product Launch,Social Media,North America,Gen X (35-44),2024-05-07,2024-05-20,4450.0,4227.9,495130,6074.0,117.0,13059.45,3.6
+CMP-0671,Discover - Email - NA,Awareness,Email,North America,Boomers (45-64),2024-11-11,2025-01-09,7050.0,7159.11,613715,14114.0,742.0,86623.55,6.0
+CMP-0340,First Look - Affiliate - EU,Product Launch,Affiliate,Europe,Gen Z (18-24),2024-03-10,2024-03-30,12350.0,9032.15,1397402,23150.0,439.0,32720.83,4.6
+CMP-0742,Meet Us - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2024-05-16,2024-05-25,2800.0,2961.81,289423,4758.0,85.0,5799.74,6.2
+CMP-0571,Just Dropped - Social Media - EU,Product Launch,Social Media,Europe,Boomers (45-64),2023-02-26,2023-03-18,13950.0,12211.52,1419359,19538.0,318.0,32912.22,2.8
+CMP-0712,Free Trial - Display - NA,Lead Generation,Display,North America,Gen X (35-44),2023-01-03,2023-01-23,10500.0,7937.6,2324178,7882.0,46.0,5911.53,3.1
+CMP-0184,Brand Story - Social Media - MEA,Awareness,Social Media,Middle East & Africa,Millennials (25-34),2023-07-16,2023-08-14,9300.0,7929.53,665826,9554.0,105.0,6291.19,5.1
+CMP-0138,Free Guide - Search - APAC,Lead Generation,Paid Search,Asia Pacific,Gen X (35-44),2023-11-06,2023-12-05,52900.0,51148.31,1725243,94797.0,5083.0,312675.17,
+CMP-1178,Newsletter Signup - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Gen Z (18-24),2023-11-15,2023-12-29,"$25,800",26106.28,4402729,70109.0,1974.0,107348.63,6.3
+CMP-0729,Black Friday - Search - NA,Seasonal Promo,Search,North America,Boomers (45-64),2024-03-04,2024-04-02,10050.0,9513.63,332666,9482.0,442.0,52238.22,5.7
+CMP-0859,Launch - Social Media - NA,Product Launch,Social Media,North America,Gen Z (18-24),2023-03-06,2023-03-26,15100.0,14937.18,1614852,42827.0,976.0,89590.7,6.6
+CMP-0081,First Look - Display - EU,Product Launch,Display,Europe,Gen X (35-44),2023-01-11,2023-01-17,3950.0,4155.67,1073048,6563.0,89.0,7688.23,3.5
+CMP-0644,Just Dropped - Social Media - MEA,Product Launch,Social Media,Middle East & Africa,Millennials (25-34),2023-08-03,2023-10-31,34350.0,35393.95,2860662,51435.0,774.0,49697.04,5.9
+CMP-0817,Free Guide - Influencer - NA,Lead Generation,Influencer,North America,Millennials (25-34),2023-04-19,2023-05-18,9850.0,9176.44,526685,9391.0,226.0,24232.67,5.6
+CMP-1081,First Look - Social Media - EU,Product Launch,Social Media,Europe,Boomers (45-64),2024-09-04,2024-10-18,29250.0,21771.91,3102366,,1174.0,110719.21,4.3
+CMP-0030,Black Friday - Display - NA,Seasonal Promo,Display,North America,Gen Z (18-24),2023-11-25,2023-10-27,9400.0,9080.42,1828246,7233.0,162.0,9809.83,4.1
+CMP-0573,Hello World - Search - APAC,Awareness,Search,Asia Pacific,Boomers (45-64),2023-12-29,2024-01-27,17700.0,13762.18,452111,17643.0,828.0,48484.0,
+CMP-0166,Newsletter Signup - Social Media - EU,Lead Generation,Social Media,Europe,Gen X (35-44),2024-02-26,2024-03-10,7200.0,6962.69,678595,8747.0,239.0,21827.82,4.6
+CMP-0249,Holiday Deals - Social Media - APAC,Seasonal Promo,Social Media,Asia Pacific,Millennials (25-34),2024-04-07,2024-04-27,,8636.86,1212251,36585.0,742.0,41054.42,7.1
+CMP-0308,Free Trial - Display - EU,Lead Generation,Display,Europe,Boomers (45-64),2024-11-17,2024-12-31,16700.0,12135.02,2587975,8753.0,127.0,13287.03,3.5
+CMP-0812,Spring Sale - Email - NA,Seasonal Promo,Email,North America,Gen Z (18-24),2023-01-14,2023-02-12,5400.0,5166.85,669993,11014.0,593.0,64461.03,4.5
+CMP-0482,Brand Story - Social Media - LATAM,Awareness,Social Media,Latin America,Millennials (25-34),2023-06-18,2023-07-01,18050.0,15299.9,2017389,27084.0,319.0,17256.62,3.6
+CMP-0347,Webinar - Affiliate - NA,Lead Generation,Affiliate,North America,Gen Z (18-24),2024-04-26,2024-05-09,3550.0,3637.44,488964,6222.0,320.0,22182.42,2.7
+CMP-0335,Free Guide - Email - NA,Lead Generation,Email,North America,Millennials (25-34),2023-01-14,2023-01-23,2950.0,2956.88,269393,12820.0,567.0,56888.25,10.0
+CMP-0286,Spring Sale - Search - NA,Seasonal Promo,Search,North America,,2024-02-21,2024-02-27,11050.0,11601.92,377758,9702.0,317.0,19520.08,4.7
+CMP-0983,Cart Reminder - Video - LATAM,Retargeting,Video,Latin America,Boomers (45-64),2024-03-19,2024-04-17,20300.0,20909.85,1601280,24989.0,538.0,30413.52,5.6
+CMP-0098,Free Trial - Email - NA,Lead Generation,Email,North America,Gen Z (18-24),2023-04-06,2023-04-19,2950.0,2832.8,276649,4421.0,,14724.15,5.1
+CMP-1107,New Arrivals - Email - EU,Product Launch,Email,Europe,Gen Z (18-24),2024-03-14,2024-05-12,15950.0,15554.88,2102268,40442.0,1241.0,69925.77,4.8
+CMP-1054,Hello World - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2024-02-26,2024-03-10,2500.0,1801.69,184389,2282.0,32.0,2870.45,4.9
+CMP-0944,Brand Story - Search - APAC,Awareness,search,Asia Pacific,Millennials (25-34),2024-09-04,2024-09-24,11450.0,8803.57,281618,13769.0,526.0,26636.36,10.0
+CMP-0622,Summer Sale - Search - EU,Seasonal Promo,Search,Europe,Gen Z (18-24),2023-05-01,2023-06-29,97800.0,84176.41,3167465,85641.0,2985.0,198539.41,8.1
+CMP-1159,Holiday Deals - Search - MEA,Seasonal Promo,Search,Middle East & Africa,Gen Z (18-24),2024-02-15,2024-04-14,37950.0,32641.7,1380020,50232.0,1705.0,88544.91,8.9
+CMP-0888,First Look - Email - EU,Product Launch,Email,Europe,Gen Z (18-24),2023-07-02,2023-09-29,33000.0,29702.8,2476929,38788.0,1568.0,102236.3,4.2
+CMP-0869,Last Chance - Email - NA,Retargeting,Email,North America,Boomers (45-64),2024-06-16,2024-06-22,3050.0,2585.85,290245,18077.0,1337.0,189821.95,10.0
+CMP-0781,Cart Reminder - Social Media - LATAM,Retargeting,Social Media,Latin America,Millennials (25-34),2024-06-05,2024-06-11,4100.0,2972.4,318288,7945.0,264.0,10826.25,7.7
+CMP-0711,Free Guide - Affiliate - NA,Lead Generation,Affiliate,North America,Millennials (25-34),2023-09-06,2023-09-12,3750.0,3730.28,398902,4094.0,122.0,12460.18,4.1
+CMP-0066,Holiday Deals - Search - APAC,Seasonal Promo,Search,Asia Pacific,Millennials (25-34),2024-04-22,2024-06-05,36050.0,30323.21,996006,33496.0,2728.0,166906.63,7.0
+CMP-0814,Launch - Display - EU,Product Launch,Display,Europe,Gen Z (18-24),2023-02-06,2023-03-07,31300.0,29664.8,7955471,29431.0,538.0,32702.09,3.1
+CMP-1055,Come Back - Social Media - MEA,Retargeting,Social Media,Middle East & Africa,Millennials (25-34),2023-06-27,2023-07-26,11700.0,11468.09,1157413,29796.0,677.0,22541.21,
+CMP-0650,Free Trial - Email - APAC,Lead Generation,Email,Asia Pacific,Gen X (35-44),2024-01-22,2024-02-11,9450.0,8511.54,615375,15194.0,560.0,37917.75,5.3
+CMP-1101,Free Guide - Email - MEA,Lead Generation,Email,Middle East & Africa,Boomers (45-64),2023-11-30,2024-01-28,8500.0,6318.74,702536,16811.0,692.0,44954.65,7.1
+CMP-1116,Summer Sale - Email - NA,Seasonal Promo,Email,North America,Gen Z (18-24),2023-10-19,2023-11-08,4500.0,3988.79,486376,11388.0,518.0,39111.23,8.7
+CMP-0303,Free Guide - Search - EU,Lead Generation,Search,EU,Gen X (35-44),2023-07-19,2023-07-25,9450.0,7199.25,206588,8515.0,279.0,27503.2,8.1
+CMP-0255,First Look - Social Media - EU,Product Launch,Social Media,Europe,Gen X (35-44),2024-04-04,2024-04-17,15900.0,14053.8,2339216,31080.0,658.0,61872.65,4.4
+CMP-0992,Holiday Deals - Video - EU,Seasonal Promo,Video,Europe,Millennials (25-34),2024-02-13,2024-03-13,22750.0,21816.15,1352396,8424.0,133.0,10748.43,3.9
+CMP-0964,First Look - Email - EU,Product Launch,Email,Europe,Gen X (35-44),2023-07-31,2023-08-09,4550.0,4771.49,502657,,834.0,78167.37,8.7
+CMP-0313,Newsletter Signup - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Boomers (45-64),2023-10-30,2024-01-27,23800.0,20582.05,2907663,22693.0,1072.0,60845.66,2.7
+CMP-0909,New Arrivals - Social Media - EU,Product Launch,Social Media,europe,Gen X (35-44),2023-11-08,2023-11-21,15700.0,14220.93,1466706,11787.0,257.0,26084.67,3.4
+CMP-0222,We Miss You - Search - EU,Retargeting,Search,Europe,Gen X (35-44),2023-03-26,2023-04-08,12900.0,11793.97,358728,14409.0,1215.0,120493.43,9.1
+CMP-0478,Newsletter Signup - Display - EU,Lead Generation,Display,Europe ,Gen X (35-44),2024-09-11,2024-09-20,5200.0,4062.64,1107278,5542.0,94.0,8705.77,4.1
+CMP-0389,Cart Reminder - Email - NA,Retargeting,Email,North America,Boomers (45-64),2024-04-08,2024-05-22,11850.0,9051.09,1069369,34499.0,3248.0,388076.31,7.1
+CMP-0236,First Look - Influencer - MEA,Product Launch,Influencer,Middle East & Africa,Millennials (25-34),2024-04-12,2024-05-11,9500.0,10066.96,636642,12274.0,218.0,12306.49,4.6
+CMP-1059,Meet Us - Search - NA,Awareness,Search,North America,Gen X (35-44),2023-04-13,2023-05-03,12800.0,9507.98,255532,6895.0,130.0,14311.36,7.1
+CMP-0637,Black Friday - Display - NA,Seasonal Promo,Display,North America,Millennials (25-34),2024-10-26,2024-12-24,26550.0,22471.0,4203715,11784.0,321.0,37489.19,2.0
+CMP-0899,Just Dropped - Social Media - NA,Product Launch,Social Media,North America,Boomers (45-64),2024-05-03,2024-05-16,7250.0,7570.05,982787,10362.0,171.0,15946.2,5.4
+CMP-0306,Just Dropped - Search - EU,Product Launch,Search Ads,Europe,Gen X (35-44),2023-06-16,2023-07-06,21700.0,18275.49,755756,33138.0,1087.0,147141.87,10.0
+CMP-1128,Meet Us - Display - NA,Awareness,Display Ads,North America,Millennials (25-34),2024-09-22,2024-09-28,4300.0,3567.59,712940,3855.0,31.0,3896.6,3.0
+CMP-0574,Last Chance - Video - LATAM,Retargeting,Video,Latin America,Millennials (25-34),2024-07-02,2024-09-29,39300.0,38745.91,2563705,16727.0,457.0,20052.6,
+CMP-1103,Discover - Video - EU,Awareness,Video,Europe,Millennials (25-34),2023-10-18,2023-11-16,18450.0,13532.28,1006482,7479.0,72.0,7761.76,4.0
+CMP-0948,New Arrivals - Influencer - MEA,Product Launch,Influencer,Middle East & Africa,Millennials (25-34),2024-08-24,2024-09-22,11950.0,10027.21,614635,16184.0,267.0,16642.8,7.0
+CMP-1156,Summer Sale - Email - APAC,seasonal promo,E-mail,Asia Pacific,Millennials (25-34),2024-05-20,2024-06-09,4750.0,3942.01,259015,5577.0,461.0,36375.41,7.4
+CMP-0250,We Miss You - Search - NA,Retargeting,Search,North America,Millennials (25-34),2023-11-29,2023-12-12,7950.0,7939.83,230290,7900.0,922.0,78205.86,7.4
+CMP-0837,We Miss You - Video - MEA,Retargeting,Video,Middle East & Africa,Boomers (45-64),2023-08-24,2023-09-13,24750.0,25356.53,1391269,8893.0,208.0,11791.0,2.3
+CMP-0615,Webinar - Social Media - LATAM,Lead Generation,Social Media,Latin America,Gen X (35-44),2024-07-29,2024-08-07,5750.0,4857.48,654129,9017.0,300.0,15954.45,5.8
+CMP-0072,Last Chance - Search - EU,Retargeting,Search,Europe,Gen X (35-44),2024-08-01,2024-08-07,22600.0,21290.61,822919,56832.0,6768.0,709373.94,
+CMP-0095,Come Back - Social Media - EU,Retargeting,Social Media,Europe,Gen X (35-44),2023-03-24,2023-05-07,26550.0,23698.9,2302878,40106.0,1568.0,134183.24,4.8
+CMP-0850,First Look - Affiliate - EU,Product Launch,Affiliate,Europe,Gen Z (18-24),2023-12-03,2023-12-16,13450.0,11115.93,1330440,12586.0,489.0,22407.91,3.7
+CMP-0034,Newsletter Signup - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Millennials (25-34),2023-06-15,2023-07-05,,8241.21,740891,12178.0,173.0,,3.9
+CMP-0893,First Look - Social Media - EU,Product Launch,Social Media,Europe,Boomers (45-64),2023-01-31,2023-03-31,35100.0,26995.71,2448920,26423.0,371.0,33526.02,3.2
+CMP-0449,Holiday Deals - Email - LATAM,Seasonal Promo,E-mail,latin america,Millennials (25-34),2023-08-15,2023-08-24,3900.0,3262.53,345447,9807.0,355.0,18118.72,6.5
+CMP-0446,Just Dropped - Video - EU,Product Launch,Video,Europe,Millennials (25-34),2024-09-07,2024-11-05,33650.0,33001.85,2352876,24357.0,554.0,48849.54,6.4
+CMP-0851,We Miss You - Social Media - MEA,Retargeting,social media,Middle East & Africa,Boomers (45-64),2024-07-13,2024-08-26,16300.0,14973.63,1811475,27817.0,682.0,52417.27,4.0
+CMP-0606,Holiday Deals - Video - APAC,Seasonal Promo,Video,Asia Pacific,Gen X (35-44),2023-01-16,2023-02-05,2490000.0,20497.4,1277864,10013.0,363.0,22906.1,5.1
+CMP-0788,Cart Reminder - Social Media - APAC,Retargeting,social media,Asia Pacific,Gen Z (18-24),2024-04-17,,22400.0,23223.7,2369458,74926.0,2141.0,99790.45,8.7
+CMP-0078,Brand Story - Display - NA,Awareness,Display,North America,Gen X (35-44),2023-03-28,2023-04-17,7400.0,5442.58,1201796,6710.0,47.0,5304.87,2.7
+CMP-0085,Last Chance - Email - MEA,Retargeting,Email,Middle East & Africa,Gen Z (18-24),2024-03-28,2024-05-26,13250.0,10981.08,1700373,44589.0,2922.0,125036.68,7.7
+CMP-0558,Discover - Search - MEA,Awareness,Search,Middle East & Africa,Gen Z (18-24),2023-09-02,2023-09-08,6500.0,4959.76,140747,5225.0,92.0,4360.89,8.5
+CMP-0083,Brand Story - Influencer - EU,Awareness,Influencer,Europe,Millennials (25-34),2023-11-04,2023-11-17,5350.0,5327.55,579306,11889.0,176.0,13206.32,5.5
+CMP-0458,Just Dropped - Search - LATAM,Product Launch,Search Ads,Latin America,Boomers (45-64),2024-02-19,2024-03-10,16650.0,17229.89,510641,17970.0,370.0,33422.49,8.4
+CMP-0760,Newsletter Signup - Search - APAC,Lead Generation,Search,Asia Pacific,Gen X (35-44),2024-01-05,2024-03-04,38600.0,31232.76,1113377,52541.0,3379.0,229148.56,9.1
+CMP-0437,Black Friday - Email - EU,Seasonal Promo,Email,Europe,Millennials (25-34),2023-12-10,2024-02-07,7500.0,6154.4,581109,22594.0,1217.0,105663.41,8.8
+CMP-0941,Free Trial - Social Media - LATAM,Lead Generation,Social Media,Latin America,Gen Z (18-24),2023-11-28,2024-01-26,27900.0,27192.7,2865431,27940.0,371.0,12333.4,2.3
+CMP-0921,Hello World - Email - NA,Awareness,Email,North America,Gen Z (18-24),2024-11-24,2024-12-07,2600.0,2357.14,249772,4409.0,89.0,9107.07,5.1
+CMP-0405,Discover - Affiliate - NA,Awareness,Affiliate,N. America,Millennials (25-34),2023-07-02,2023-07-22,2450.0,2032.66,231524,2215.0,58.0,3810.83,2.3
+CMP-1062,Black Friday - Display - MEA,Seasonal Promo,Display Ads,Middle East & Africa,Boomers (45-64),2024-06-20,2024-07-19,10200.0,8166.87,1298193,6970.0,59.0,4326.99,3.4
+CMP-1002,We Miss You - Search - MEA,Retargeting,Search,Middle East & Africa,Boomers (45-64),2024-01-23,2024-02-05,19550.0,17043.38,612567,41716.0,1646.0,125390.89,10.0
+CMP-0935,Webinar - Video - EU,Lead Generation,Video,Europe,Millennials (25-34),2024-09-16,2024-10-15,52050.0,54676.15,3327941,26793.0,726.0,78091.76,2.5
+CMP-0105,Free Trial - Video - LATAM,Lead Generation,Video,Latin America,Gen Z (18-24),2023-02-21,2023-04-21,60900.0,44653.89,3172618,22869.0,243.0,9672.43,3.2
+CMP-0594,Just Dropped - Display - APAC,Product Launch,Display,Asia Pacific,Boomers (45-64),2024-04-27,2024-06-25,12300.0,12772.62,3577667,14141.0,125.0,7695.09,2.2
+CMP-0713,Spring Sale - Influencer - LATAM,seasonal promo,Influencer,Latin America,Millennials (25-34),2023-10-22,2023-11-04,22300.0,23080.46,1894753,43271.0,1417.0,58995.76,5.8
+CMP-0063,Hello World - Display - EU,Awareness,Display,Europe,Boomers (45-64),2023-03-11,2023-03-20,6100.0,5096.77,890625,3498.0,26.0,3226.46,3.1
+CMP-0282,Cart Reminder - Social Media - NA,Retargeting,Social Media,North America,Boomers (45-64),2024-08-23,2024-09-05,12100.0,11614.19,1293543,15399.0,402.0,45499.24,6.9
+CMP-1073,Launch - Search - APAC,Product Launch,search,Asia Pacific,Gen Z (18-24),2023-08-21,2023-11-18,37200.0,27493.17,928609,29858.0,1923.0,87512.85,9.2
+CMP-0239,Cart Reminder - Email - MEA,Retargeting,Email,Middle East & Africa,Gen X (35-44),2023-03-13,2023-03-19,3050.0,2228.96,229853,7198.0,344.0,25615.44,7.8
+CMP-0224,We Miss You - Affiliate - EU,Retargeting,Affiliate,Europe,Gen Z (18-24),2023-11-22,2023-12-21,3800.0,3279.59,373148,4036.0,273.0,17439.28,3.2
+CMP-0146,Webinar - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Gen X (35-44),2024-05-02,2024-05-15,5650.0,4878.53,621897,7276.0,213.0,20648.56,4.3
+CMP-1136,Back to School - Social Media - APAC,Seasonal Promo,Social Media,Asia Pacific,Gen X (35-44),2024-07-02,2024-07-11,11150.0,11622.8,1070911,14814.0,335.0,23780.74,4.1
+CMP-0374,Discover - Social Media - LATAM,Awareness,Social Media,Latin America,Gen Z (18-24),2024-03-19,2024-04-08,13550.0,11636.3,1116319,16563.0,64.0,2532.05,6.4
+CMP-0119,First Look - Search - APAC,Product Launch,Search,Asia Pacific,Boomers (45-64),2024-01-22,2024-01-31,16700.0,12991.17,400108,,653.0,51465.03,7.4
+CMP-0936,Free Trial - Social Media - EU,Lead Generation,Social Media,Europe,Gen Z (18-24),2024-08-31,2024-09-13,7650.0,7421.71,827234,21402.0,221.0,13766.41,7.1
+CMP-0251,We Miss You - Display - APAC,Retargeting,Display,asia pacific,Millennials (25-34),2023-05-14,2023-07-12,"$19,150",16405.93,2705034,17822.0,451.0,36860.35,3.5
+CMP-1174,Launch - Video - NA,Product Launch,Video,North America,Millennials (25-34),2023-03-02,2023-03-31,47300.0,36787.69,2126566,18574.0,33504.0,31919.63,4.4
+CMP-0010,Cart Reminder - Search - EU,Retargeting,Search,Europe,Millennials (25-34),2024-07-24,2024-09-06,23450.0,21122.29,961572,47033.0,3318.0,359020.08,8.3
+CMP-0450,Webinar - Display - APAC,Lead Generation,Display,Asia Pacific,Gen X (35-44),2024-03-20,2024-05-03,9900.0,10057.18,2399517,9097.0,156.0,8906.5,3.0
+CMP-0904,Cart Reminder - Search - MEA,Retargeting,Search,Middle East & Africa,Millennials (25-34),2023-02-13,2023-02-22,8300.0,6750.64,195969,9087.0,833.0,52890.48,9.8
+CMP-0390,Webinar - Influencer - NA,Lead Generation,Influencer,North America,Boomers (45-64),2024-02-21,2024-03-12,13150.0,10959.72,677732,8720.0,227.0,20767.27,3.9
+CMP-1193,Cart Reminder - Influencer - EU,Retargeting,Influencer,Europe,Millennials (25-34),2023-08-05,2023-08-25,20550.0,21422.29,1332592,33593.0,978.0,92819.92,6.5
+CMP-0932,Newsletter Signup - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Millennials (25-34),2023-02-04,2023-05-04,13350.0,11920.32,842191,,237.0,13361.19,4.2
+CMP-0461,Free Trial - Display - NA,Lead Generation,Display,North America,Boomers (45-64),2023-03-19,2023-04-17,"$9,400",7225.81,2339503,7706.0,79.0,8542.81,2.8
+CMP-1122,Last Chance - Email - NA,Retargeting,Email,North America,Millennials (25-34),2024-03-27,2024-04-16,,5661.85,762034,26051.0,1907.0,212038.62,
+CMP-0145,Just Dropped - Search - MEA,Product Launch,Paid Search,Middle East & Africa,Gen Z (18-24),2023-12-31,2024-01-29,18850.0,14312.38,473716,17546.0,420.0,21474.16,8.6
+CMP-0502,We Miss You - Influencer - MEA,Retargeting,Influencer,Middle East & Africa,Gen X (35-44),2023-06-07,2023-06-13,5150.0,4591.56,187301,3440.0,90.0,5689.31,3.8
+CMP-1125,Just Dropped - Search - NA,Product Launch,Search,North America,Gen Z (18-24),2024-08-16,2024-08-29,"$10,150",10403.05,281829,14549.0,345.0,24403.63,
+CMP-0540,Meet Us - Influencer - APAC,Awareness,Influencer,Asia Pacific,Gen X (35-44),2023-12-19,2024-02-01,"$30,450",31897.13,2720018,40989.0,579.0,50727.42,5.0
+CMP-0178,Come Back - Affiliate - LATAM,Retargeting,affiliate,Latin America,Gen Z (18-24),2023-10-03,2023-11-01,7450.0,-5852.95,557634,5901.0,257.0,11144.84,3.5
+CMP-1176,Newsletter Signup - Video - NA,Lead Generation,Video,North America,Gen Z (18-24),2023-05-14,2023-06-12,19200.0,14062.73,1141912,14886.0,294.0,24269.59,1.9
+CMP-0721,Meet Us - Search - EU,Awareness,Search,Europe,Boomers (45-64),2024-11-15,2024-11-21,5300.0,4566.76,181605,5642.0,210.0,26374.6,8.9
+CMP-1025,Brand Story - Display - LATAM,Awareness,Display,Latin America,Gen Z (18-24),2024-11-12,2024-11-18,,4381.5,1020432,5605.0,36.0,1591.71,2.4
+CMP-0402,Just Dropped - Affiliate - NA,Product Launch,Affiliate,North America,Millennials (25-34),2023-06-02,2023-07-01,4350.0,3489.69,372757,5786.0,333.0,33595.37,6.0
+CMP-0008,Newsletter Signup - Video - EU,Lead Generation,Video,Europe,Millennials (25-34),2023-11-20,2023-11-29,7200.0,5729.15,488265,4924.0,205.0,17770.21,4.8
+CMP-0576,Cart Reminder - Search - EU,Retargeting,Search,Europe,Millennials (25-34),2023-10-19,2023-11-01,13700.0,11333.75,370570,21978.0,2881.0,291178.52,10.0
+CMP-1104,Spring Sale - Influencer - EU,Seasonal Promo,influencer,Europe,Millennials (25-34),2024-06-11,2024-08-09,42950.0,34517.48,1638434,51381.0,1183.0,122022.15,6.9
+CMP-0358,Spring Sale - Video - EU,Seasonal Promo,Video,EU,Boomers (45-64),2024-07-22,2024-08-11,45800.0,41710.63,2891334,20977.0,473.0,52665.52,3.0
+CMP-0330,Last Chance - Social Media - NA,Retargeting,Social Media,North America,Boomers (45-64),2023-06-14,2023-06-27,12200.0,12836.79,1406817,20029.0,622.0,67738.86,5.7
+CMP-0995,Spring Sale - Affiliate - APAC,Seasonal Promo,Affiliate,Asia Pacific,Gen Z (18-24),2024-03-27,2024-04-25,3850.0,2981.5,447672,6548.0,239.0,10984.11,5.9
+CMP-0858,Newsletter Signup - Influencer - EU,Lead Generation,Influencer,Europe,Gen X (35-44),2023-05-16,2023-05-25,4150.0,3543.12,205632,3529.0,82.0,7626.92,5.7
+CMP-0259,Meet Us - Email - MEA,Awareness,Email,Middle East & Africa,Gen X (35-44),2023-09-11,2023-09-20,2900.0,2171.87,176889,3081.0,64.0,3980.8,4.7
+CMP-1171,Holiday Deals - Search - EU,Seasonal Promo,Search,Europe,Gen X (35-44),2023-02-08,2023-03-09,19550.0,15154.17,451649,19969.0,592.0,59543.73,8.3
+CMP-0922,New Arrivals - Influencer - NA,Product Launch,Influencer,North America,Millennials (25-34),2024-03-31,2024-04-13,9300.0,7592.85,465148,15526.0,255.0,21012.29,9.7
+CMP-0799,Brand Story - Video - LATAM,Awareness,YouTube/Video,Latin America,Gen Z (18-24),2023-05-27,2023-06-16,18400.0,13619.26,1140696,11612.0,118.0,4054.18,2.2
+CMP-0621,Free Trial - Video - MEA,Lead Generation,Video,MEA,Gen Z (18-24),2023-09-02,2023-11-30,"$23,050",21172.45,1462883,13181.0,270.0,12740.55,4.5
+CMP-1195,Meet Us - Influencer - APAC,Awareness,Influencer,asia pacific,Millennials (25-34),2023-07-29,2023-10-26,"$30,600",31347.92,1615554,19926.0,258.0,11451.52,3.3
+CMP-0526,Just Dropped - Social Media - NA,Product Launch,Social Media,North America,Gen Z (18-24),2023-07-31,2023-08-09,21150.0,15346.3,2499519,72630.0,1066.0,87782.34,7.3
+CMP-1180,Hello World - Social Media - APAC,Awareness,Social Media,Asia Pacific,Gen X (35-44),2024-10-13,2025-01-10,27000.0,26895.07,3151939,39930.0,445.0,,4.4
+CMP-0680,Newsletter Signup - Social Media - EU,Lead Generation,SocialMedia,Europe,Gen X (35-44),2024-08-12,2024-09-25,17250.0,16658.08,1604504,21384.0,301.0,31677.76,4.7
+CMP-0775,Holiday Deals - Email - NA,Seasonal Promo,Email,North America,Gen X (35-44),2024-05-25,2024-06-14,,3519.15,417196,13330.0,1126.0,116441.34,7.1
+CMP-1158,Last Chance - Email - EU,Retargeting,Email,Europe,Boomers (45-64),2023-06-01,2023-06-10,2400.0,1924.41,174630,7048.0,11563.0,45009.96,9.0
+CMP-0441,Back to School - Influencer - APAC,Seasonal Promo,Influencer,Asia Pacific,Millennials (25-34),2024-02-22,2024-03-06,19100.0,15166.68,901890,34429.0,1060.0,53817.02,7.4
+CMP-0532,Free Guide - Video - NA,Lead Generation,Video,North America,Gen X (35-44),2023-12-26,2024-01-08,17600.0,14157.92,829140,7117.0,260.0,33521.96,
+CMP-0993,Cart Reminder - Video - APAC,Retargeting,YouTube/Video,Asia Pacific,Gen X (35-44),2023-07-17,2023-07-30,31350.0,30880.74,2216962,22775.0,1006.0,58304.77,4.6
+CMP-0229,Newsletter Signup - Display - APAC,Lead Generation,Display,Asia Pacific,Boomers (45-64),2024-09-02,2024-09-08,5900.0,5576.38,1471026,8967.0,88.0,6463.77,1.8
+CMP-1058,Last Chance - Social Media - APAC,Retargeting,Social Media,Asia Pacific,Gen Z (18-24),2023-11-03,2023-12-02,11750.0,11363.34,1354715,40608.0,1606.0,65312.93,6.6
+CMP-0213,First Look - Social Media - LATAM,Product Launch,Social Media,Latin America,Gen X (35-44),2023-08-27,2023-09-09,10900.0,9943.35,854642,10958.0,142.0,7481.25,5.6
+CMP-0080,Cart Reminder - Video - EU,Retargeting,Video,Europe,Gen Z (18-24),2023-04-20,2023-07-18,26450.0,26726.19,1988904,18217.0,320.0,17898.96,3.7
+CMP-0149,Free Guide - Search - EU,Lead Generation,SEARCH,Europe,Millennials (25-34),2024-05-10,2024-06-08,13750.0,13105.89,436816,15340.0,484.0,34471.91,9.0
+CMP-0683,Back to School - Email - EU,Seasonal Promo,Email,Europe,Gen X (35-44),2023-01-27,2023-02-25,6150.0,5828.69,704400,34666.0,1666.0,140578.39,10.0
+CMP-1061,Launch - Affiliate - APAC,Product Launch,AFFILIATE,Asia Pacific,Gen X (35-44),2024-02-13,2024-02-26,4400.0,3697.96,475607,4153.0,187.0,,3.1
+CMP-0610,Summer Sale - Search - NA,Seasonal Promo,Search,North America,Gen Z (18-24),2024-07-31,2024-09-13,36700.0,37732.8,1139502,58197.0,3488.0,296087.14,10.0
+CMP-0134,Hello World - Social Media - MEA,Awareness,Social Media,Middle East & Africa,Gen X (35-44),2023-07-25,2023-08-07,6750.0,6658.4,612420,9051.0,72.0,4951.62,5.4
+CMP-0188,Discover - Email - NA,Awareness,Email,North America,Gen Z (18-24),2023-07-08,2023-07-21,4700.0,3441.62,299448,6519.0,102.0,6944.65,6.6
+CMP-0409,Brand Story - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2024-10-19,2024-10-25,4550.0,4042.64,354642,7235.0,65.0,3483.8,5.7
+CMP-0694,Last Chance - Social Media - NA,Retargeting,Social Media,North America,Gen X (35-44),2024-09-19,2024-10-18,31300.0,28916.38,3365701,61193.0,2597.0,260959.82,3.2
+CMP-0508,Brand Story - Influencer - EU,Awareness,Influencer,Europe,Gen X (35-44),2023-03-26,2023-04-24,13900.0,13719.99,722783,14827.0,136.0,13622.67,6.1
+CMP-0907,Discover - Search - APAC,Awareness,Search,Asia Pacific,Millennials (25-34),2023-01-28,2023-02-26,26900.0,26935.72,804566,14388.0,246.0,16650.15,4.0
+CMP-0505,Newsletter Signup - Search - EU,Lead Generation,Search,Europe,Boomers (45-64),2023-12-09,2023-12-29,10300.0,8443.57,297198,9811.0,602.0,61533.79,9.0
+CMP-0696,Hello World - Search - NA,awareness,Search,North America,Millennials (25-34),2023-12-05,2023-12-18,14750.0,10833.35,410620,8809.0,229.0,26078.73,5.4
+CMP-0348,Discover - Social Media - APAC,Awareness,Social Media,Asia Pacific,Gen Z (18-24),2024-09-02,2024-11-30,25600.0,18721.26,1815999,19553.0,154.0,8544.78,3.8
+CMP-0387,Spring Sale - Video - EU,Seasonal Promo,Video,Europe,Millennials (25-34),2023-12-09,2024-02-06,27800.0,29155.69,2281976,18016.0,379.0,32920.1,4.5
+CMP-0001,Launch - Video - EU,Product Launch,Video,Europe,Millennials (25-34),2024-02-01,2024-03-01,"$23,300",17682.24,1179840,13543.0,342.0,29459.6,5.1
+CMP-0361,Holiday Deals - Affiliate - MEA,Seasonal Promo,Affiliate,Middle East & Africa,Millennials (25-34),2023-03-16,2023-03-22,4950.0,4394.76,407331,5232.0,184.0,11504.11,5.6
+CMP-1151,We Miss You - Email - NA,Retargeting,Email,North America,Gen Z (18-24),2023-12-31,2024-02-13,"$6,100",5398.62,523458,8747.0,871.0,,6.2
+CMP-0476,Webinar - Social Media - MEA,Lead Generation,Social Media,Middle East & Africa,Millennials (25-34),2023-05-14,2023-06-03,12600.0,9411.08,1290719,21199.0,563.0,26174.96,5.5
+CMP-0974,Discover - Affiliate - NA,Awareness,Affiliate,North America,Millennials (25-34),2024-07-03,2024-08-01,9700.0,9889.78,1374878,16129.0,399.0,29484.52,3.8
+CMP-1173,Free Trial - Social Media - NA,Lead Generation,Social Media,North America,Gen Z (18-24),2024-04-08,2024-05-07,17150.0,18050.84,1967454,56718.0,699.0,56496.14,6.7
+CMP-0173,Holiday Deals - Social Media - EU,Seasonal Promo,Social Media,Europe,Gen X (35-44),2024-08-04,2024-08-24,10550.0,9567.09,872996,21955.0,593.0,46099.07,5.5
+CMP-0451,Free Guide - Email - NA,Lead Generation,Email,North America,Boomers (45-64),2023-08-17,2023-11-14,12950.0,9573.29,848088,21954.0,989.0,154194.26,7.5
+CMP-0126,Discover - Search - LATAM,Awareness,Search,Latin America,Gen X (35-44),2023-07-10,2023-09-07,13100.0,10302.2,382384,8113.0,203.0,12046.3,6.4
+CMP-0661,Just Dropped - Social Media - EU,Product Launch,Social Media,,Boomers (45-64),2023-05-07,2023-06-05,10200.0,8295.29,687188,7193.0,156.0,15582.32,5.8
+CMP-0531,New Arrivals - Display - MEA,Product Launch,Display,Middle East & Africa,Gen X (35-44),2023-07-18,2023-10-15,8850.0,6999.01,2032001,10323.0,99.0,6385.56,1.8
+CMP-0091,Come Back - Email - EU,Retargeting,Email,Europe,Gen Z (18-24),2023-01-05,2023-01-18,3250.0,2613.29,306739,5309.0,161.0,11714.79,
+CMP-1179,Spring Sale - Social Media - NA,Seasonal Promo,Social Media,NA,Millennials (25-34),2023-07-22,2023-10-19,26000.0,22475.47,2166618,34666.0,665.0,63320.97,4.5
+CMP-0182,Come Back - Influencer - NA,Retargeting,Influencer,North America,Boomers (45-64),2023-06-07,2023-06-27,16050.0,14556.46,839537,13097.0,428.0,45719.97,4.4
+CMP-0977,Discover - Search - EU,Awareness,Search,Europe,Boomers (45-64),2024-08-22,2024-09-04,11400.0,9292.6,323240,15674.0,241.0,24758.45,10.0
+CMP-0415,Brand Story - Email - LATAM,Awareness,email,Latin America,Gen X (35-44),2024-04-26,2024-05-16,3750.0,3633.41,402670,13055.0,217.0,14748.02,8.3
+CMP-0252,New Arrivals - Influencer - APAC,Product Launch,Influencer,Asia Pacific,Millennials (25-34),2023-08-27,2023-09-16,15900.0,16080.36,1338781,51615.0,838.0,45897.1,9.1
+CMP-0070,Newsletter Signup - Search - EU,Lead Generation,Search,Europe,Gen X (35-44),2023-08-21,2023-08-27,8500.0,6147.93,217864,13388.0,409.0,42939.8,
+CMP-0132,Spring Sale - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Boomers (45-64),2023-03-22,2023-05-05,9700.0,8461.33,1157492,15132.0,499.0,53448.58,2.8
+CMP-0301,Holiday Deals - Video - APAC,Seasonal Promo,Video,Asia Pacific,Gen Z (18-24),2024-02-11,2024-03-26,15800.0,13729.95,1416573,14294.0,280.0,15623.63,3.9
+CMP-0738,Discover - Social Media - APAC,Awareness,Social Media,Asia Pacific,Gen Z (18-24),2023-03-28,2023-04-10,23000.0,18921.54,3132906,48668.0,722.0,34787.76,4.0
+CMP-0327,Holiday Deals - Influencer - EU,Seasonal Promo,Influencer,Europe,Millennials (25-34),2024-02-04,2024-03-04,13050.0,13607.11,826016,14838.0,396.0,35322.54,4.6
+CMP-1192,Free Trial - Search - APAC,Lead Generation,Search,Asia Pacific,Gen Z (18-24),2023-10-16,2023-11-14,26050.0,22551.23,704199,18957.0,864.0,41784.98,7.1
+CMP-0500,Launch - Search - APAC,Product Launch,Search,Asia Pacific,Boomers (45-64),2024-11-17,2024-11-23,8500.0,7291.66,317973,16564.0,1428.0,114652.87,10.0
+CMP-1187,Free Trial - Search - MEA,Lead Generation,Search,Middle East & Africa,Millennials (25-34),2023-01-05,2023-01-11,9000.0,7625.88,188509,5068.0,129.0,8248.18,6.1
+CMP-0950,Webinar - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-09-25,2023-10-24,28350.0,27590.66,3851009,63928.0,1853.0,192212.91,5.4
+CMP-0496,Discover - Search - EU,Awareness,Search,,Millennials (25-34),2024-08-04,,25300.0,25343.12,1192279,34411.0,788.0,67125.53,6.6
+CMP-0339,Holiday Deals - Email - LATAM,Seasonal Promo,Email,Latin America,Millennials (25-34),2024-03-08,2024-05-06,13650.0,14143.22,1281154,38440.0,1055.0,43297.45,8.3
+CMP-0997,Meet Us - Display - NA,Awareness,Display,NA,Millennials (25-34),2023-08-11,2023-09-24,12050.0,9005.93,2703485,5746.0,52.0,5316.3,1.2
+CMP-0165,Black Friday - Search - EU,Seasonal Promo,Search,Europe,Gen Z (18-24),2024-06-16,2024-08-14,51550.0,50177.28,1624161,69698.0,2995.0,186219.58,10.0
+CMP-0029,Back to School - Email - MEA,Seasonal Promo,email,Middle East & Africa,Gen X (35-44),2024-04-06,2024-06-04,8150.0,7652.41,580404,16241.0,783.0,56447.45,8.8
+CMP-0517,Free Trial - Social Media - EU,Lead Generation,Social Media,Europe,Gen X (35-44),2024-11-16,2024-12-30,21100.0,20701.71,1689046,20427.0,465.0,39793.47,6.5
+CMP-0194,Discover - Influencer - NA,Awareness,Influencer,north america,Gen Z (18-24),2023-06-04,2023-06-10,6000.0,5072.06,348937,8786.0,41.0,3476.98,6.0
+CMP-0655,Holiday Deals - Influencer - LATAM,Seasonal Promo,Influencer,Latin America,Boomers (45-64),2023-03-28,2023-04-03,14200.0,10772.74,393296,4218.0,74.0,5362.45,
+CMP-0803,Cart Reminder - Influencer - MEA,retargeting,Influencer,Middle East & Africa,Gen Z (18-24),2024-04-30,2024-05-29,22000.0,17083.45,1179955,38815.0,1514.0,60404.19,8.7
+CMP-0170,Last Chance - Affiliate - EU,Retargeting,AFFILIATE,Europe,Gen X (35-44),2024-08-24,2024-10-22,7850.0,7404.33,1029735,14675.0,1230.0,99718.7,4.6
+CMP-0732,Last Chance - Email - APAC,Retargeting,Email,Asia Pacific,Boomers (45-64),2024-05-28,2024-06-26,7100.0,6851.06,536740,18794.0,1230.0,101505.89,8.1
+CMP-0174,Come Back - Affiliate - APAC,Retargeting,Affiliate,Asia Pacific,Gen X (35-44),2023-03-18,2023-05-01,9450.0,9103.46,1146458,14116.0,832.0,46029.71,2.4
+CMP-0519,Discover - Email - APAC,Awareness,Email,Asia Pacific,Millennials (25-34),2023-12-22,2024-02-04,8250.0,6551.96,899535,22547.0,462.0,25440.12,5.3
+CMP-0951,Hello World - Search - APAC,Awareness,Search,Asia Pacific,Gen Z (18-24),2024-11-20,2025-01-03,"$19,800",18076.44,711601,28054.0,394.0,24573.34,8.1
+CMP-0724,Just Dropped - Affiliate - EU,Product Launch,Affiliate,Europe,Gen Z (18-24),2024-10-19,2024-11-01,3650.0,3084.95,383835,5028.0,74.0,3657.58,3.5
+CMP-0492,Come Back - Display - LATAM,Retargeting,Display,Latin America,Gen X (35-44),2024-11-30,2024-12-29,13900.0,11273.2,2517645,10223.0,375.0,22894.58,2.2
+CMP-0074,Just Dropped - Social Media - EU,Product Launch,Social Media,Europe,Millennials (25-34),2023-02-21,2023-03-06,,10108.4,1266056,19869.0,272.0,20476.82,4.6
+CMP-1016,Free Guide - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-07-26,2023-08-04,6100.0,5851.97,584467,9500.0,167.0,19186.79,5.8
+CMP-0588,First Look - Social Media - APAC,Product Launch,Social Media,Asia Pacific,Gen Z (18-24),2023-09-13,2023-09-26,13650.0,13489.34,1646550,31579.0,234.0,12767.3,6.8
+CMP-0235,First Look - Affiliate - NA,Product Launch,Affiliate,North America,Millennials (25-34),2023-03-25,2023-04-03,6100.0,5782.34,930090,12572.0,394.0,46776.68,3.2
+CMP-0215,Free Trial - Video - NA,Lead Generation,Video,North America,,2023-12-25,2024-01-23,31600.0,24494.5,2904098,16399.0,495.0,43600.9,3.4
+CMP-0980,Come Back - Social Media - MEA,Retargeting,Social Media,Middle East & Africa,Gen Z (18-24),2024-03-01,2024-03-21,13550.0,13436.29,1031929,28442.0,1036.0,49877.48,7.8
+CMP-0133,Spring Sale - Display - EU,Seasonal Promo,Display,Europe,Gen X (35-44),2024-02-24,2024-03-15,9150.0,9577.47,2837852,19979.0,506.0,39233.63,3.9
+CMP-0853,Free Trial - Influencer - EU,Lead Generation,Influencer,Europe,Gen X (35-44),2024-10-16,2024-11-05,28900.0,23431.03,1758910,35813.0,746.0,76466.82,4.9
+CMP-0755,Discover - Display - LATAM,Awareness,Display,Latin America,Boomers (45-64),2024-02-27,2024-03-18,8500.0,8261.74,2678384,14070.0,94.0,,2.8
+CMP-1145,Webinar - Search - APAC,Lead Generation,Search,Asia Pacific,Gen Z (18-24),2024-07-30,2024-08-12,16350.0,12593.52,461580,12120.0,615.0,32378.56,7.1
+CMP-0186,First Look - Display - NA,Product Launch,Display,North America,Boomers (45-64),2023-11-06,2024-02-03,20100.0,15885.84,5044554,21772.0,368.0,46402.82,3.3
+CMP-0042,Brand Story - Influencer - EU,Awareness,Influencer,Europe,Gen Z (18-24),2024-05-15,2024-06-28,"$37,250",30063.71,2285555,40948.0,385.0,24679.06,5.4
+CMP-0109,First Look - Email - NA,Product Launch,Email,North America,Millennials (25-34),2024-08-27,2024-10-10,4750.0,3647.69,326816,5635.0,309.0,29096.85,4.2
+CMP-0984,Launch - Search - NA,Product Launch,Search,North America,Boomers (45-64),2023-11-10,2023-12-24,24800.0,19750.46,702977,27316.0,2109.0,238990.24,10.0
+CMP-0569,First Look - Social Media - NA,Product Launch,Social Media,North America,Millennials (25-34),2024-08-23,2024-09-21,9400.0,8861.26,1002335,22234.0,564.0,44992.48,5.7
+CMP-0672,Come Back - Display - EU,Retargeting,Display,Europe,Millennials (25-34),2023-12-17,2023-12-23,"$7,500",7393.35,1560686,9683.0,436.0,40742.39,4.9
+CMP-1031,New Arrivals - Display - EU,Product Launch,Display,Europe,Millennials (25-34),2023-04-04,2023-04-24,6000.0,5152.92,1479575,7773.0,109.0,8722.68,3.6
+CMP-1172,Brand Story - Video - EU,Awareness,Video,Europe,Millennials (25-34),2024-06-29,2024-07-28,23650.0,21081.22,1390317,10653.0,104.0,8714.71,3.3
+CMP-0484,Newsletter Signup - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-04-16,2023-07-14,20200.0,17355.7,2043051,20758.0,453.0,52636.41,3.0
+CMP-0469,Last Chance - Email - NA,Retargeting,Email,North America,Boomers (45-64),2023-08-05,2023-08-14,3050.0,2394.23,262758,10050.0,465.0,49940.56,9.2
+CMP-0025,Come Back - Video - NA,Retargeting,Video,North America ,Gen X (35-44),2024-08-28,2024-10-26,27150.0,28200.32,2533333,23355.0,1033.0,104459.53,2.4
+CMP-0839,Free Guide - Search - APAC,Lead Generation,Search,Asia-Pacific,Millennials (25-34),2023-02-19,2023-04-04,30900.0,27224.69,817816,30055.0,3179.0,211916.69,8.4
+CMP-0701,Last Chance - Social Media - EU,Retargeting,Social Media,Europe,Millennials (25-34),2023-02-05,2023-03-06,11150.0,9143.73,878024,12261.0,478.0,46966.69,4.0
+CMP-0862,Back to School - Video - NA,Seasonal Promo,Video,North America,Millennials (25-34),2024-07-14,2024-07-23,20150.0,15069.68,1147855,13770.0,746.0,97301.95,5.4
+CMP-1108,Come Back - Search - EU,Retargeting,Search,Europe,Millennials (25-34),2024-03-31,2024-04-06,7200.0,6879.66,203936,9646.0,959.0,86395.96,10.0
+CMP-0367,Just Dropped - Video - NA,Product Launch,Video,North America ,Millennials (25-34),2024-07-13,2024-07-26,31400.0,23616.02,1948033,16457.0,406.0,55841.29,3.5
+CMP-0868,Black Friday - Video - MEA,Seasonal Promo,Video,Middle East & Africa,Gen X (35-44),2023-10-11,2023-11-24,31400.0,32940.5,2447603,16178.0,340.0,22580.89,3.9
+CMP-1070,Last Chance - Search - LATAM,Retargeting,Search,Latin America,,2023-09-08,2023-10-22,13950.0,14428.12,567825,25528.0,1498.0,75094.52,10.0
+CMP-0384,Free Guide - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2024-08-21,2024-10-04,29350.0,26981.26,1006430,36548.0,3271.0,252465.53,8.9
+CMP-0455,Summer Sale - Email - MEA,Seasonal Promo,Email,Middle East & Africa,,2023-10-28,2023-11-03,1700.0,1445.13,218501,7425.0,264.0,16053.4,8.4
+CMP-0265,First Look - Affiliate - APAC,Product Launch,Affiliate,Asia Pacific,Boomers (45-64),2024-04-08,2024-04-21,10750.0,9914.24,839823,14779.0,611.0,47310.08,5.6
+CMP-0784,Hello World - Display - NA,Awareness,Display,North America,Millennials (25-34),2024-04-22,2024-05-21,12700.0,10479.04,3174733,21963.0,159.0,15623.98,3.4
+CMP-1014,Meet Us - Affiliate - EU,Awareness,Affiliate,Europe,Millennials (25-34),2024-11-30,2025-01-28,9300.0,6921.43,986436,9418.0,160.0,12936.45,3.7
+CMP-0445,Free Guide - Social Media - NA,Lead Generation,Social Media,N. America,Millennials (25-34),2024-01-10,2024-01-30,23900.0,22481.88,2969889,42663.0,791.0,75712.63,
+CMP-0396,New Arrivals - Search - APAC,Product Launch,Search,Asia Pacific,Gen Z (18-24),2023-11-26,2023-12-25,16050.0,11584.91,434995,15349.0,581.0,28142.81,8.6
+CMP-0765,Holiday Deals - Affiliate - APAC,Seasonal Promo,Affiliate,Asia Pacific,Gen X (35-44),2024-02-16,2024-04-15,,11764.84,1858173,25146.0,1903.0,152606.11,6.2
+CMP-0177,Holiday Deals - Search - APAC,Seasonal Promo,Search Ads,Asia-Pacific,Gen X (35-44),2024-08-12,2024-11-09,57350.0,57994.71,2036549,100336.0,5236.0,506592.62,10.0
+CMP-0019,Meet Us - Influencer - APAC,Awareness,Influencer,Asia Pacific,Millennials (25-34),2023-10-12,2023-10-21,9900.0,7775.15,476700,7133.0,91.0,6205.54,6.0
+CMP-0728,Hello World - Email - APAC,Awareness,Email,Asia Pacific,Gen X (35-44),2023-10-18,2023-10-24,3000.0,2262.87,207788,5383.0,271.0,18389.19,8.3
+CMP-0842,Launch - Video - APAC,Product Launch,Video,Asia Pacific,Millennials (25-34),2023-03-13,2023-03-22,13850.0,14425.26,1036150,8087.0,153.0,9563.23,2.5
+CMP-0596,Just Dropped - Social Media - NA,Product Launch,Social Media,North America,Millennials (25-34),2024-03-26,2024-04-08,,20722.27,1847484,41012.0,894.0,108544.12,6.2
+CMP-0062,Spring Sale - Search - EU,Seasonal Promo,Search,Europe,Boomers (45-64),2024-02-20,2024-02-29,11900.0,12216.41,396188,11879.0,485.0,54903.98,8.1
+CMP-0273,Webinar - Email - NA,Lead Generation,Email,North America,,2024-06-30,2024-07-13,3250.0,3337.98,467389,11004.0,492.0,35701.47,7.4
+CMP-1143,We Miss You - Influencer - APAC,Retargeting,Influencer Marketing,Asia Pacific,Gen X (35-44),2023-12-10,2024-02-07,25000.0,20250.87,1764411,27072.0,1779.0,152473.74,3.7
+CMP-0279,Spring Sale - Influencer - EU,Seasonal Promo,Influencer,Europe,Gen Z (18-24),2024-01-05,2024-02-18,11450.0,11066.87,708753,20336.0,671.0,43542.33,8.1
+CMP-0870,Brand Story - Social Media - EU,Awareness,Social Media,Europe,Millennials (25-34),2024-05-13,2024-05-19,7600.0,5475.08,626282,11038.0,117.0,10438.85,5.2
+CMP-0369,Come Back - Social Media - EU,Retargeting,Social Media,Europe,Millennials (25-34),2023-06-21,2023-07-04,6250.0,5169.82,1021408,22381.0,535.0,34012.61,5.7
+CMP-0917,Summer Sale - Email - NA,Seasonal Promo,Email,North America,Millennials (25-34),2024-07-31,2024-08-29,4900.0,3666.78,276979,11809.0,595.0,61564.31,9.5
+CMP-0847,Free Trial - Search - EU,Lead Generation,Search,Europe,Millennials (25-34),2023-11-01,2023-12-30,34850.0,30410.78,717318,23738.0,1711.0,124866.0,
+CMP-0889,Hello World - Social Media - APAC,Awareness,Social Media,asia pacific,Millennials (25-34),2024-11-21,2024-12-04,3450.0,3488.15,427378,8578.0,156.0,9482.35,6.7
+CMP-1097,Black Friday - Social Media - APAC,Seasonal Promo,Social Media,,Millennials (25-34),2023-03-31,2023-04-20,11900.0,10507.47,1277966,28258.0,1541.0,96779.66,6.8
+CMP-0797,New Arrivals - Email - NA,Product Launch,Email,North America,Gen Z (18-24),2024-06-07,2024-07-21,6250.0,5529.39,554440,9827.0,396.0,30027.42,
+CMP-0548,Summer Sale - Email - EU,Seasonal Promo,Email,EU,Gen X (35-44),2023-12-21,,5500.0,5545.52,459917,14978.0,815.0,69527.86,7.1
+CMP-0910,Discover - Social Media - NA,Awareness,Social Media,North America,Millennials (25-34),2024-06-10,2024-07-09,21350.0,15517.16,1313750,15165.0,144.0,10063.64,3.9
+CMP-0689,Launch - Video - LATAM,Product Launch,Video,Latin America,Boomers (45-64),2023-07-01,2023-07-14,47200.0,45406.49,2318396,19554.0,273.0,13644.76,3.9
+CMP-0931,We Miss You - Social Media - NA,Retargeting,Social Media,North America,Gen X (35-44),2023-06-29,2023-07-19,20650.0,19053.79,1610131,36571.0,1127.0,164141.43,4.8
+CMP-0457,Spring Sale - Affiliate - NA,Seasonal Promo,Affiliate,North America,Millennials (25-34),2024-05-26,2024-06-24,4150.0,3963.38,416023,6018.0,406.0,39346.52,
+CMP-0394,Come Back - Display - EU,Retargeting,Display,europe,Millennials (25-34),2023-04-28,2023-05-07,8950.0,9023.6,2113147,14062.0,376.0,30577.63,
+CMP-0676,Come Back - Search - APAC,Retargeting,Search,Asia Pacific,Gen Z (18-24),2023-01-28,2023-02-17,26450.0,19900.24,621850,22318.0,1013.0,56526.4,8.7
+CMP-0943,Brand Story - Social Media - APAC,Awareness,Social Media,Asia Pacific,Boomers (45-64),2024-04-05,2024-06-03,18300.0,15090.18,1428533,13703.0,199.0,16602.33,3.3
+CMP-0998,Hello World - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2023-07-03,2023-07-12,5150.0,4039.13,349654,6269.0,48.0,2622.17,5.2
+CMP-0376,Free Guide - Email - NA,Lead Generation,Email,North America,Gen Z (18-24),2023-05-13,2023-05-19,"$2,400",1802.71,178645,3157.0,50.0,4594.61,6.6
+CMP-0413,Back to School - Email - APAC,Seasonal Promo,Email,Asia Pacific,Boomers (45-64),2024-04-02,2024-05-01,5700.0,5609.17,569550,14342.0,786.0,55507.45,5.8
+CMP-0075,Webinar - Email - NA,Lead Generation,Email,North America,Gen X (35-44),2023-10-09,2023-11-07,4600.0,3831.63,381720,10907.0,375.0,39712.67,4.9
+CMP-1139,Meet Us - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2023-01-17,2023-02-06,8950.0,-9459.88,800114,9362.0,111.0,7162.36,4.3
+CMP-0919,Meet Us - Social Media - NA,Awareness,Social Media,North America,Gen X (35-44),2023-12-30,2024-01-19,19350.0,15441.12,1851961,16265.0,238.0,25860.47,4.0
+CMP-0501,Webinar - Video - LATAM,Lead Generation,Video,Latin America,Millennials (25-34),2024-07-18,2024-08-31,21250.0,17247.93,1041044,8332.0,203.0,9618.31,4.3
+CMP-0827,Back to School - Display - LATAM,Seasonal Promo,Display,Latin America,Gen Z (18-24),2024-06-17,2024-07-07,11850.0,12235.37,3208595,16653.0,171.0,,2.5
+CMP-0617,Last Chance - Video - APAC,Retargeting,Video,Asia Pacific,Gen X (35-44),2024-02-07,2024-02-16,18350.0,17816.24,1492479,12998.0,663.0,47998.84,4.4
+CMP-0115,Free Trial - Social Media - NA,Lead Generation,Social Media,North America,Boomers (45-64),2024-04-26,2024-05-05,5700.0,4286.05,566670,6923.0,97.0,9249.19,4.5
+CMP-0418,Launch - Video - EU,Product Launch,YouTube/Video,Europe,Millennials (25-34),2024-05-06,2024-05-19,8400.0,6385.46,570167,4642.0,76.0,6133.52,3.3
+CMP-0602,Just Dropped - Video - APAC,Product Launch,Video,Asia Pacific,Gen X (35-44),2024-01-30,2024-02-08,24600.0,23375.65,2029602,24867.0,536.0,44078.07,2.7
+CMP-0605,Hello World - Affiliate - APAC,Awareness,Affiliate,Asia Pacific,Gen X (35-44),2024-04-17,2024-04-23,3150.0,3173.3,459407,5799.0,90.0,8846.77,3.6
+CMP-0090,Back to School - Search - EU,Seasonal Promo,Search Ads,Europe,Millennials (25-34),2023-10-04,2023-11-02,12750.0,11138.06,391912,15252.0,1192.0,99311.08,9.2
+CMP-1166,Last Chance - Influencer - APAC,Retargeting,Influencer,Asia Pacific,Millennials (25-34),2024-07-02,2024-07-31,14150.0,13748.66,706531,20029.0,703.0,45686.06,7.8
+CMP-0499,Back to School - Social Media - MEA,Seasonal Promo,Social Media,Middle East & Africa,Gen X (35-44),2024-03-23,2024-04-12,30100.0,25183.5,3401973,39121.0,647.0,45113.42,6.5
+CMP-0906,Brand Story - Display - APAC,Awareness,Display,Asia Pacific,Millennials (25-34),2023-07-06,2023-06-30,6700.0,4928.6,976141,3865.0,19.0,1366.14,2.5
+CMP-0913,Just Dropped - Affiliate - NA,Product Launch,Affiliate,North America,Boomers (45-64),2024-11-28,2025-02-25,41600.0,36077.38,4793058,48830.0,1813.0,243642.19,3.9
+CMP-0911,Last Chance - Video - EU,Retargeting,Video,Europe,Gen X (35-44),2024-02-15,2024-02-24,25400.0,20239.98,1990627,24645.0,502.0,49940.03,3.8
+CMP-0012,Last Chance - Affiliate - LATAM,Retargeting,Affiliate,Latin America,Millennials (25-34),2024-05-25,2024-07-08,5150.0,5119.6,700356,13630.0,627.0,27639.14,6.7
+CMP-0397,Spring Sale - Influencer - NA,Seasonal Promo,Influencer,North America,Gen Z (18-24),2024-11-28,2024-12-18,,5975.76,320559,13290.0,846.0,79419.85,8.6
+CMP-0778,Newsletter Signup - Social Media - MEA,Lead Generation,Social Media,Middle East & Africa,Gen Z (18-24),2024-09-18,2024-10-01,6850.0,5682.89,619492,12730.0,117.0,5455.58,
+CMP-0556,Free Trial - Social Media - EU,Lead Generation,Social Media,Europe,Gen Z (18-24),2023-04-15,2023-05-14,15400.0,15721.1,1544542,33449.0,461.0,29598.82,6.3
+CMP-0043,Webinar - Video - EU,Lead Generation,Video,Europe,Gen X (35-44),2023-11-11,2023-12-25,61500.0,58480.26,4829752,35130.0,817.0,,3.4
+CMP-0168,Meet Us - Influencer - NA,Awareness,Influencer,North America,Millennials (25-34),2023-08-27,2023-09-05,14150.0,10464.15,816456,20208.0,342.0,36514.98,7.2
+CMP-0417,Free Trial - Email - NA,Lead Generation,Email,North America,Millennials (25-34),2024-08-11,2024-08-24,3100.0,2809.47,342983,12548.0,968.0,77345.89,9.6
+CMP-0577,Spring Sale - Affiliate - APAC,Seasonal Promo,Affiliate,APAC,Gen X (35-44),2024-06-08,2024-07-22,15100.0,15341.47,2187716,55804.0,3136.0,250581.63,6.0
+CMP-0268,Hello World - Email - NA,Awareness,Email,N. America,Millennials (25-34),2023-06-25,2023-08-23,12150.0,10208.09,738413,17521.0,181.0,16518.76,7.4
+CMP-0890,New Arrivals - Display - EU,Product Launch,Display,Europe,Millennials (25-34),2023-11-19,2024-01-17,20400.0,15671.52,4702394,19368.0,220.0,20021.29,2.7
+CMP-0427,New Arrivals - Social Media - EU,Product Launch,Social Media,Europe,Gen X (35-44),2024-11-08,2024-12-07,18850.0,16474.8,1098381,15994.0,405.0,34110.49,5.0
+CMP-0691,Come Back - Social Media - NA,Retargeting,Social Media,North America,,2023-08-14,2023-08-20,4050.0,3492.19,379120,11333.0,206.0,15615.53,6.7
+CMP-0545,Webinar - Email - APAC,Lead Generation,Email,Asia Pacific,Millennials (25-34),2023-06-10,2023-06-16,"$2,400",1851.56,192819,,319.0,23776.32,7.8
+CMP-1140,Newsletter Signup - Display - NA,Lead Generation,Display,North America,Gen X (35-44),2023-08-09,2023-09-07,8700.0,8011.95,2172896,7598.0,126.0,11365.22,2.5
+CMP-0675,Come Back - Display - LATAM,Retargeting,Display,Latin America,Gen Z (18-24),2023-06-13,2023-07-27,6150.0,6039.15,1531139,10130.0,131.0,5107.79,3.6
+CMP-0690,Cart Reminder - Search - EU,Retargeting,Paid Search,Europe,Gen X (35-44),2023-08-20,2023-09-18,45400.0,39855.7,842057,30047.0,2388.0,213483.7,7.6
+CMP-1118,Hello World - Video - APAC,Awareness,Video,Asia Pacific,,2023-09-12,2023-10-11,16450.0,15805.02,1303491,9286.0,102.0,8837.32,3.8
+CMP-1194,Discover - Affiliate - NA,Awareness,Affiliate,North America,Boomers (45-64),2023-08-07,2023-09-20,14100.0,12516.13,1720903,19089.0,565.0,73451.28,4.5
+CMP-1163,Come Back - Influencer - EU,Retargeting,Influencer,Europe,Boomers (45-64),2024-07-19,2024-07-28,5950.0,5169.76,297003,,214.0,23612.13,3.1
+CMP-0986,Holiday Deals - Affiliate - NA,Seasonal Promo,Affiliate,North America,Gen X (35-44),2024-08-26,2024-10-24,8300.0,6478.02,725001,6933.0,405.0,57898.92,2.9
+CMP-0258,Launch - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2024-05-16,2024-06-29,3600.0,2685.62,194640,,261.0,21926.16,6.4
+CMP-0336,New Arrivals - Display - EU,Product Launch,Display,Europe,Millennials (25-34),2023-08-11,2023-11-08,22700.0,16611.92,4433532,13359.0,213.0,15472.64,4.1
+CMP-0016,Meet Us - Social Media - EU,Awareness,Social Media,Europe,Gen X (35-44),2024-02-21,2024-03-12,9650.0,8112.47,1119091,13655.0,139.0,15846.12,3.7
+CMP-0933,Meet Us - Search - MEA,Awareness,Search,Middle East & Africa,Gen X (35-44),2024-05-27,2024-06-16,23050.0,19390.85,498527,20659.0,334.0,18399.77,9.9
+CMP-0325,Brand Story - Influencer - APAC,Awareness,Influencer,Asia Pacific,Gen Z (18-24),2023-02-14,2023-03-30,17200.0,14812.54,941189,15427.0,219.0,,4.1
+CMP-0608,Meet Us - Email - EU,Awareness,Email,Europe,Gen Z (18-24),2024-03-06,2024-04-19,7750.0,6515.99,713419,15412.0,256.0,16845.39,
+CMP-1071,New Arrivals - Influencer - APAC,Product Launch,Influencer,Asia Pacific,Gen Z (18-24),2023-07-16,2023-08-05,15600.0,12842.14,980672,30219.0,423.0,27446.66,7.9
+CMP-0815,Brand Story - Email - EU,Awareness,Email,Europe,Millennials (25-34),2023-08-22,2023-09-04,5550.0,5178.49,644755,12184.0,195.0,12685.01,4.9
+CMP-0223,Webinar - Display - EU,Lead Generation,Display,Europe,Millennials (25-34),2023-06-03,2023-07-02,13300.0,11700.47,2658718,10653.0,93.0,7730.24,2.0
+CMP-0180,We Miss You - Video - EU,Retargeting,Video,Europe,Boomers (45-64),2024-11-30,2025-01-13,39000.0,40786.75,2894910,46785.0,2541.0,251810.18,6.0
+CMP-0100,New Arrivals - Affiliate - EU,Product Launch,Affiliate,Europe,Millennials (25-34),2024-06-26,2024-07-09,4500.0,3781.87,541459,11274.0,543.0,44490.89,
+CMP-0758,Discover - Affiliate - NA,Awareness,Affiliate,north america,Millennials (25-34),2023-12-19,2023-12-25,3300.0,2515.78,315928,5428.0,240.0,,4.8
+CMP-0522,Discover - Social Media - NA,Awareness,Social Media,North America,Gen X (35-44),2023-04-29,2023-05-05,10950.0,8285.98,1014540,7497.0,94.0,13921.0,3.3
+CMP-0023,Black Friday - Affiliate - LATAM,Seasonal Promo,Affiliate,Latin America,Millennials (25-34),2023-05-25,2023-07-08,9600.0,9868.39,1578199,22572.0,843.0,47631.01,
+CMP-0357,We Miss You - Video - MEA,Retargeting,Video,Middle East & Africa,Boomers (45-64),2024-06-21,2024-06-30,16100.0,14757.29,1239791,12985.0,286.0,12466.93,3.8
+CMP-0734,Hello World - Search - LATAM,Awareness,Search,Latin America,Millennials (25-34),2023-09-14,2023-09-27,17100.0,16807.31,637567,,542.0,31828.08,
+CMP-0994,Brand Story - Social Media - NA,Awareness,Social Media,north america,Gen Z (18-24),2024-11-24,2024-12-03,10750.0,7937.69,1107919,17529.0,381.0,30933.57,4.1
+CMP-1129,Last Chance - Display - EU,retargeting,Display,Europe,Gen X (35-44),2023-12-03,2023-12-23,7650.0,5794.51,1079228,5117.0,100.0,9809.58,1.9
+CMP-0612,We Miss You - Display - EU,Retargeting,Display,Europe,Millennials (25-34),2023-11-12,2023-12-11,11800.0,12268.43,3743406,12933.0,504.0,49165.79,5.0
+CMP-1036,Launch - Display - LATAM,Product Launch,Display,Latin America,Gen Z (18-24),2024-10-04,2024-10-24,10550.0,10118.0,2391462,15425.0,151.0,6554.86,1.7
+CMP-0341,Hello World - Email - LATAM,Awareness,Email,LATAM,Gen Z (18-24),2024-02-06,2024-03-06,13550.0,12621.21,1228549,28983.0,293.0,8866.16,6.1
+CMP-0432,Launch - Video - LATAM,Product Launch,VIDEO,Latin America,Millennials (25-34),2023-07-23,2023-08-05,14300.0,11650.1,1048710,6739.0,60.0,3335.85,3.1
+CMP-0807,Hello World - Display - EU,Awareness,Display,Europe,Boomers (45-64),2023-07-28,2023-08-17,8850.0,6415.22,1622122,4814.0,21.0,1985.83,2.7
+CMP-0218,Cart Reminder - Email - EU,Retargeting,Email,Europe,Millennials (25-34),2024-04-22,2024-06-05,36400.0,27607.14,3198009,68831.0,6298.0,519638.96,6.5
+CMP-0204,Black Friday - Email - NA,Seasonal Promo,Email,North America,Gen Z (18-24),2023-07-21,2023-09-18,9100.0,6839.98,649112,7944.0,282.0,17435.06,5.6
+CMP-0937,New Arrivals - Affiliate - NA,Product Launch,Affiliate,North America,Gen X (35-44),2023-03-31,2023-04-20,"$7,400",5679.75,522941,8441.0,262.0,29420.0,4.7
+CMP-0954,Webinar - Social Media - APAC,Lead Generation,SocialMedia,Asia Pacific,Gen X (35-44),2024-02-09,2024-02-29,26450.0,26526.0,1966563,29090.0,486.0,27734.76,4.1
+CMP-0094,Cart Reminder - Search - EU,Retargeting,Search,Europe,Millennials (25-34),2023-04-07,2023-04-20,8650.0,6675.14,241161,8786.0,752.0,67792.93,8.8
+CMP-0824,Back to School - Display - NA,Seasonal Promo,display,North America,Millennials (25-34),2023-06-21,2023-06-30,4450.0,4690.69,1134703,7192.0,102.0,10341.71,3.7
+CMP-0069,Just Dropped - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2023-05-04,2023-05-24,4750.0,3590.58,433512,13579.0,614.0,44599.09,7.2
+CMP-0926,Last Chance - Social Media - EU,Retargeting,Social Media,Europe,Millennials (25-34),2023-04-19,2023-05-02,1485000.0,12062.96,1392656,32539.0,1564.0,124131.97,4.6
+CMP-0285,Webinar - Display - APAC,Lead Generation,Display Ads,Asia Pacific,Boomers (45-64),2023-06-21,2023-07-11,7500.0,7463.57,1667011,,131.0,10291.52,1.2
+CMP-0697,Hello World - Video - APAC,Awareness,Video,Asia Pacific,Millennials (25-34),2024-02-13,2024-02-19,5850.0,4652.15,353673,4475.0,36.0,1932.11,5.7
+CMP-0086,Free Trial - Email - MEA,Lead Generation,Email,Middle East & Africa,Gen Z (18-24),2023-07-12,2023-09-09,16450.0,12494.62,1247529,10876.0,294.0,11612.27,3.5
+CMP-0435,Black Friday - Email - MEA,Seasonal Promo,Email,Middle East & Africa,Gen Z (18-24),2024-07-03,2024-08-01,5500.0,4408.55,577370,10529.0,477.0,23446.39,6.9
+CMP-0821,Free Guide - Email - APAC,Lead Generation,Email,Asia Pacific,Millennials (25-34),2024-09-21,2024-10-11,5800.0,6037.26,638655,25076.0,1276.0,65517.87,7.8
+CMP-0154,Cart Reminder - Search - NA,Retargeting,Search,North America,Gen X (35-44),2023-06-05,2023-06-14,13350.0,10896.62,209410,11865.0,722.0,84724.45,10.0
+CMP-0076,Hello World - Social Media - EU,Awareness,Social Media,Europe,Boomers (45-64),2023-01-08,2023-01-17,15500.0,14435.4,1232015,15471.0,101.0,13686.88,4.1
+CMP-1089,Newsletter Signup - Search - NA,Lead Generation,Search,North America,Boomers (45-64),2024-08-17,2024-08-23,6750.0,5036.42,127747,6005.0,383.0,41338.15,10.0
+CMP-0581,Black Friday - Search - NA,Seasonal Promo,Search,North America,Gen X (35-44),2024-07-26,2024-08-15,13800.0,14114.59,334217,18498.0,1296.0,147671.01,10.0
+CMP-0447,Free Guide - Affiliate - NA,Lead Generation,Affiliate,North America,Millennials (25-34),2023-11-24,2024-01-22,13750.0,11710.59,1783247,27987.0,1437.0,168742.67,4.6
+CMP-0704,Black Friday - Influencer - NA,Seasonal Promo,influencer,North America,Millennials (25-34),2023-03-03,2023-04-16,"$36,700",38108.58,2692122,52527.0,2373.0,240307.38,6.6
+CMP-0189,First Look - Video - LATAM,Product Launch,Video,Latin America,Millennials (25-34),2024-04-20,2024-05-10,1370000.0,10743.02,792475,7688.0,213.0,8505.88,2.5
+CMP-0272,New Arrivals - Social Media - NA,Product Launch,SocialMedia,North America,Gen Z (18-24),2023-04-18,2023-06-01,29950.0,26742.49,2106989,37087.0,587.0,44581.94,5.0
+CMP-0237,Just Dropped - Search - NA,Product Launch,Search,North America,Gen X (35-44),2024-02-15,2024-02-28,"$6,400",4957.88,213018,7650.0,328.0,36195.42,7.8
+CMP-0488,Last Chance - Social Media - EU,Retargeting,Social Media ,Europe,Gen X (35-44),2023-10-06,2023-10-15,13950.0,-10789.07,1413226,22113.0,647.0,77407.33,4.8
+CMP-1177,We Miss You - Search - LATAM,Retargeting,Search,Latin America,Millennials (25-34),2023-10-10,2023-10-30,33300.0,28985.73,1095506,40276.0,2472.0,139807.5,8.8
+CMP-0560,We Miss You - Search - MEA,Retargeting,Search,Middle East & Africa,Gen Z (18-24),2024-05-17,2024-05-30,8550.0,6918.58,214557,9025.0,428.0,18592.53,9.1
+CMP-0118,Newsletter Signup - Video - NA,Lead Generation,Video,North America,Gen X (35-44),2023-01-17,2023-01-30,27550.0,25378.8,2356687,29195.0,637.0,62813.34,5.0
+CMP-0638,Discover - Video - EU,Awareness,Video,Europe,,2023-02-07,2023-02-20,10150.0,10047.87,846041,7281.0,95.0,8855.65,4.9
+CMP-1094,Black Friday - Social Media - NA,Seasonal Promo,Social Media,North America,Boomers (45-64),2024-05-21,2024-05-30,4950.0,4248.29,393819,4635.0,87.0,11759.65,4.7
+CMP-0751,Meet Us - Social Media - MEA,Awareness,Social Media,Middle East and Africa,Gen Z (18-24),2024-09-15,2024-10-29,37750.0,35712.86,4416196,68344.0,505.0,24376.53,5.7
+CMP-0513,Just Dropped - Email - MEA,Product Launch,Email,Middle East & Africa,Gen X (35-44),2023-02-09,2023-03-01,5200.0,5226.08,600639,20420.0,450.0,38823.25,8.2
+CMP-0634,Free Trial - Social Media - NA,Lead Generation,Social Media,,Gen X (35-44),2024-02-26,2024-03-03,13600.0,14089.82,1599489,27171.0,941.0,124182.78,5.3
+CMP-0810,Brand Story - Affiliate - APAC,Awareness,Affiliate,Asia Pacific,Gen Z (18-24),2023-04-30,2023-06-13,11100.0,9399.67,1316044,16980.0,219.0,7732.22,5.1
+CMP-1033,Cart Reminder - Search - NA,retargeting,Search,North America,Millennials (25-34),2024-01-14,2024-01-23,14100.0,14219.4,372579,25404.0,4824.0,465334.86,10.0
+CMP-0882,Hello World - Display - NA,Awareness,Display,North America,Gen X (35-44),2023-04-08,2023-04-21,5700.0,4312.42,863048,4300.0,47.0,4908.27,1.6
+CMP-0127,Last Chance - Social Media - EU,Retargeting,Social Media,Europe,Boomers (45-64),2024-10-17,2024-10-30,13900.0,11229.24,1122516,16891.0,419.0,39694.46,5.9
+CMP-0791,Meet Us - Social Media - NA,Awareness,Social Media,North America,Gen Z (18-24),2023-03-18,2023-05-01,22150.0,19103.14,2125115,36143.0,258.0,19480.52,5.5
+CMP-0117,Hello World - Video - EU,Awareness,YouTube/Video,Europe,Gen X (35-44),2024-03-05,2024-03-14,14350.0,13795.46,1218601,10637.0,171.0,22710.26,3.8
+CMP-0474,Newsletter Signup - Email - NA,Lead Generation,Email,North America,Gen Z (18-24),2024-09-19,2024-09-28,3500.0,2635.01,254269,4301.0,169.0,14726.08,4.9
+CMP-0741,Free Trial - Email - NA,Lead Generation,Email,North America,Gen Z (18-24),2024-03-24,2024-04-06,3700.0,3111.23,370809,8627.0,398.0,36424.26,6.7
+CMP-1028,Last Chance - Social Media - NA,Retargeting,Social Media,North America,Millennials (25-34),2024-03-22,2024-04-11,5000.0,3677.91,430917,,369.0,40131.54,5.4
+CMP-0058,Hello World - Display - LATAM,Awareness,Display,Latin America,Millennials (25-34),2024-07-04,2024-08-02,13500.0,10255.74,3120325,16844.0,61.0,2517.46,2.6
+CMP-0604,Black Friday - Video - APAC,Seasonal Promo,Video,asia pacific,Gen X (35-44),2023-07-26,2023-08-04,12800.0,12392.11,1246589,,244.0,21926.55,2.9
+CMP-0787,Summer Sale - Influencer - NA,Seasonal Promo,Influencer,North America,Millennials (25-34),2023-04-26,2023-05-25,12500.0,12417.89,845058,13637.0,310.0,28987.89,6.0
+CMP-1005,We Miss You - Display - EU,Retargeting,Display,Europe,Gen X (35-44),2024-06-11,2024-06-24,5500.0,5400.81,1457442,6201.0,174.0,13482.84,4.8
+CMP-0657,Back to School - Influencer - NA,Seasonal Promo,Influencer,North America,Gen Z (18-24),2024-06-30,2024-07-09,13450.0,12686.75,883140,28806.0,476.0,39865.34,8.5
+CMP-0934,Free Guide - Video - MEA,Lead Generation,Video,Middle East & Africa,Millennials (25-34),2023-08-18,2023-09-07,15150.0,12345.57,1000066,7002.0,142.0,7329.78,2.7
+CMP-0953,Meet Us - Social Media - APAC,Awareness,Social Media,Asia Pacific,Gen Z (18-24),2024-10-04,2024-11-17,18350.0,16584.59,2192876,30330.0,311.0,14424.66,3.8
+CMP-0106,Brand Story - Video - MEA,Awareness,video,Middle East & Africa,Gen Z (18-24),2024-07-17,2024-07-30,11800.0,8992.29,611707,7397.0,47.0,2285.18,5.0
+CMP-0636,Holiday Deals - Email - NA,Seasonal Promo,Email,North America,Gen Z (18-24),2024-06-20,2024-08-18,4950.0,3774.17,397617,9394.0,550.0,,5.9
+CMP-0370,Last Chance - Influencer - EU,Retargeting,Influencer,Europe,Gen Z (18-24),2023-08-04,2023-09-02,37150.0,38195.43,3020948,86392.0,1808.0,105073.35,5.6
+CMP-0269,Just Dropped - Email - APAC,Product Launch,Email,Asia Pacific,Gen X (35-44),2023-12-05,2024-01-03,6400.0,4631.03,489255,13556.0,583.0,50601.91,6.0
+CMP-0656,Launch - Social Media - MEA,Product Launch,Social Media,Middle East & Africa,Gen Z (18-24),2023-05-30,2023-06-05,8750.0,6970.44,875916,20217.0,198.0,7293.36,6.5
+CMP-0820,Free Guide - Social Media - EU,Lead Generation,Social Media,Europe,Millennials (25-34),2023-02-21,2023-03-13,,12040.39,1260075,21744.0,550.0,48752.77,8.0
+CMP-0823,Spring Sale - Social Media - NA,Seasonal Promo,Social Media,North America,Gen X (35-44),2024-08-31,2024-09-29,39350.0,40297.34,4525809,82711.0,4769.0,571891.37,5.6
+CMP-0047,Meet Us - Search - APAC,Awareness,Search,Asia Pacific,Millennials (25-34),2023-09-20,2023-11-03,53150.0,41757.21,1522078,32596.0,579.0,30891.32,5.4
+CMP-0350,Brand Story - Email - NA,Awareness,Email,North America ,Millennials (25-34),2024-02-12,2024-05-11,17500.0,15359.89,1461607,39206.0,883.0,77176.22,6.9
+CMP-0774,Come Back - Influencer - EU,Retargeting,Influencer,Europe,Gen Z (18-24),2023-01-16,2023-02-05,15100.0,13368.13,719680,18739.0,415.0,24830.08,6.0
+CMP-0196,We Miss You - Social Media - NA,Retargeting,Social Media,North America,Gen X (35-44),2023-12-21,2024-01-19,20300.0,21357.61,2234832,34736.0,1914.0,225218.47,6.3
+CMP-0103,Cart Reminder - Social Media - APAC,Retargeting,Social Media ,Asia Pacific,Gen X (35-44),2023-09-17,2023-09-26,3800.0,3693.84,557283,8707.0,285.0,21082.02,5.0
+CMP-0005,Last Chance - Email - NA,Retargeting,Email,North America,Boomers (45-64),2023-10-30,2023-11-28,5200.0,3789.44,395628,13009.0,1234.0,141554.34,7.2
+CMP-0620,Free Guide - Email - APAC,Lead Generation,Email,Asia Pacific,,2024-08-08,2024-10-06,8450.0,6663.49,587702,13813.0,479.0,42510.52,6.8
+CMP-0572,Summer Sale - Influencer - APAC,Seasonal Promo,Influencer,Asia Pacific,Gen X (35-44),2023-10-17,2023-10-23,7700.0,7478.83,499617,9051.0,365.0,29714.6,4.7
+CMP-0053,Holiday Deals - Video - NA,Seasonal Promo,Video,north america,Millennials (25-34),2024-08-09,2024-09-07,28800.0,23862.49,1536391,24552.0,975.0,85873.8,6.2
+CMP-0264,Free Guide - Email - EU,Lead Generation,Email,Europe,Millennials (25-34),2024-03-16,2024-03-25,5000.0,4443.5,326275,8935.0,562.0,52149.84,7.7
+CMP-1110,Free Guide - Social Media - LATAM,Lead Generation,Social Media,Latin America,Millennials (25-34),2024-09-25,2024-10-24,13450.0,10901.46,1824872,29976.0,597.0,22931.05,4.8
+CMP-0444,Free Guide - Social Media - NA,Lead Generation,Social Media ,North America,Boomers (45-64),2024-08-10,2024-09-08,11900.0,12301.99,1618890,12448.0,420.0,50821.61,1.8
+CMP-1006,Cart Reminder - Search - EU,Retargeting,Search,Europe,Millennials (25-34),2024-05-23,2024-06-21,15150.0,12055.03,306374,9591.0,626.0,42795.06,7.9
+CMP-0783,Launch - Search - LATAM,Product Launch,Search,Latin America,Millennials (25-34),2023-05-26,2023-07-09,19750.0,19709.22,462902,10193.0,365.0,15849.06,7.0
+CMP-0838,Free Guide - Affiliate - NA,Lead Generation,Affiliate,North America,Millennials (25-34),2023-07-24,2023-08-22,4650.0,4833.72,472119,5073.0,281.0,27044.32,4.3
+CMP-0876,Last Chance - Influencer - EU,Retargeting,Influencer,,Gen X (35-44),2023-03-17,2023-04-15,13250.0,11990.05,646251,13874.0,596.0,55136.11,7.3
+CMP-0692,Cart Reminder - Influencer - APAC,Retargeting,Influencer,Asia Pacific,Gen Z (18-24),2024-08-07,2024-08-16,7850.0,5808.26,329329,11968.0,260.0,11760.72,9.5
+CMP-0305,Holiday Deals - Influencer - LATAM,Seasonal Promo,Influencer,Latin America,Millennials (25-34),2024-03-08,2024-04-06,14850.0,13497.29,830389,26740.0,382.0,19177.47,6.6
+CMP-0342,Last Chance - Affiliate - NA,Retargeting,Affiliate,North America,Gen Z (18-24),2024-03-14,2024-04-12,7750.0,7053.36,717505,12829.0,465.0,37692.48,4.9
+CMP-1023,Spring Sale - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Gen X (35-44),2024-11-27,2024-12-26,5450.0,4117.32,378108,5004.0,215.0,18330.8,4.7
+CMP-0314,Hello World - Social Media - APAC,Awareness,Social Media,Asia Pacific,Millennials (25-34),2024-08-24,2024-09-22,22700.0,18690.3,2099544,24526.0,236.0,13391.84,3.9
+CMP-0150,Webinar - Email - NA,Lead Generation,E-mail,North America,Gen Z (18-24),2023-12-30,2024-01-19,3250.0,3064.68,367182,9830.0,528.0,37464.29,7.0
+CMP-0125,Last Chance - Email - EU,Retargeting,Email,Europe,Gen X (35-44),2023-07-18,2023-07-31,3300.0,2667.91,237406,14252.0,761.0,57846.82,10.0
+CMP-1080,Just Dropped - Social Media - APAC,Product Launch,Social Media,Asia Pacific,Boomers (45-64),2023-07-13,2023-07-26,14050.0,11726.22,1463369,19829.0,491.0,30552.35,2.2
+CMP-0575,Just Dropped - Influencer - APAC,Product Launch,Influencer,Asia Pacific,Gen X (35-44),2024-11-21,2025-02-18,16600.0,13819.63,1046806,17882.0,506.0,38154.68,5.2
+CMP-0698,Newsletter Signup - Display - NA,Lead Generation,Display,North America,Gen X (35-44),2024-09-18,2024-10-17,8150.0,6470.97,1756578,7436.0,136.0,14424.94,2.4
+CMP-0665,Webinar - Social Media - APAC,Lead Generation,SocialMedia,Asia Pacific,Gen X (35-44),2024-04-06,2024-04-19,17900.0,17007.42,2194445,25048.0,568.0,42658.59,3.4
+CMP-0051,Holiday Deals - Social Media - NA,Seasonal Promo,Social Media,North America,Millennials (25-34),2023-07-26,2023-08-01,12750.0,11809.2,1261446,,878.0,78672.78,3.8
+CMP-0727,New Arrivals - Social Media - EU,Product Launch,Social Media,Europe,Gen Z (18-24),2024-08-30,2024-09-12,10050.0,8973.54,920427,25026.0,558.0,26394.0,6.4
+CMP-0800,Last Chance - Video - EU,Retargeting,Video,Europe,Gen X (35-44),2024-01-16,2024-04-14,45300.0,44678.0,2406032,31815.0,921.0,103588.78,2.7
+CMP-0834,Brand Story - Display - EU,Awareness,Display,Europe,Millennials (25-34),2023-09-20,2023-10-03,16600.0,16289.34,3881444,10527.0,93.0,9649.54,3.5
+CMP-0354,Hello World - Display - EU,Awareness,Display,Europe,Gen X (35-44),2023-11-22,2024-01-05,7100.0,6209.45,1976707,6170.0,72.0,8073.24,3.1
+CMP-1170,Free Guide - Email - EU,Lead Generation,Email,Europe,Gen X (35-44),2023-06-16,2023-08-14,4750.0,4806.36,525782,10615.0,362.0,27762.54,6.2
+CMP-0143,Webinar - Affiliate - EU,Lead Generation,Affiliate,Europe,Boomers (45-64),2024-01-06,2024-02-04,7800.0,5828.9,883137,12929.0,520.0,57087.34,5.6
+CMP-0471,Spring Sale - Search - NA,Seasonal Promo,Search,North America,Millennials (25-34),2023-06-15,2023-07-14,51450.0,47400.0,1999383,83004.0,3894.0,416620.4,9.7
+CMP-0654,Summer Sale - Social Media - APAC,Seasonal Promo,Social Media,Asia Pacific,Millennials (25-34),2023-11-04,2023-11-17,19750.0,16450.95,1321036,22850.0,968.0,78969.96,5.0
+CMP-0400,Summer Sale - Search - NA,Seasonal Promo,Search,North America,Gen Z (18-24),2024-03-06,2024-03-26,14650.0,11899.33,610585,29549.0,1163.0,90686.79,10.0
+CMP-1037,Free Trial - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-01-26,2023-02-15,18000.0,16794.19,1538381,19317.0,392.0,32159.9,4.8
+CMP-0947,Holiday Deals - Video - NA,Seasonal Promo,Video,North America,Boomers (45-64),2024-08-19,2024-11-16,40850.0,37869.32,2906895,23494.0,793.0,101933.02,4.3
+CMP-0321,First Look - Affiliate - NA,Product Launch,Affiliate,North America,Gen Z (18-24),2023-06-06,2023-07-20,9250.0,8023.83,1128306,12859.0,510.0,34631.65,4.6
+CMP-0020,We Miss You - Display - NA,Retargeting,Display,North America,Boomers (45-64),2024-02-10,2024-02-23,6250.0,6330.14,2273037,21687.0,564.0,61020.57,4.4
+CMP-0685,Back to School - Display - EU,Seasonal Promo,Display,Europe,Boomers (45-64),2024-01-28,2024-02-03,5150.0,3871.93,1063045,5560.0,44.0,3936.17,4.1
+CMP-0036,Last Chance - Social Media - NA,Retargeting,Social Media,North America,Gen Z (18-24),2023-12-17,2023-12-23,2100.0,1752.81,152276,5478.0,178.0,16411.47,10.0
+CMP-0825,Discover - Influencer - EU,Awareness,Influencer,Europe,Gen X (35-44),2023-04-09,2023-04-29,7600.0,5544.18,304114,2722.0,28.0,3222.96,2.9
+CMP-0506,Holiday Deals - Video - MEA,Seasonal Promo,Video,Middle East & Africa,Gen Z (18-24),2024-01-26,2024-03-25,30100.0,23276.32,1503423,17545.0,426.0,15655.6,3.8
+CMP-0828,Brand Story - Social Media - EU,Awareness,Social Media,Europe,Gen Z (18-24),2024-09-29,2024-10-12,7050.0,6783.94,712067,12615.0,76.0,3967.64,7.1
+CMP-1088,Back to School - Video - APAC,Seasonal Promo,YouTube/Video,Asia Pacific,Millennials (25-34),2024-02-12,2024-03-12,14300.0,14955.25,758729,11416.0,319.0,18742.94,4.4
+CMP-0408,Summer Sale - Influencer - NA,Seasonal Promo,Influencer,North America,Gen Z (18-24),2023-04-27,2023-06-10,12900.0,11580.72,672081,20623.0,536.0,51344.88,6.7
+CMP-0818,Brand Story - Search - NA,Awareness,Search,North America,Gen Z (18-24),2023-02-21,2023-03-22,6700.0,5796.03,212782,5192.0,56.0,4886.37,6.7
+CMP-0867,Brand Story - Influencer - EU,Awareness,Influencer,Europe,Gen Z (18-24),2023-08-18,2023-08-24,8350.0,8599.27,711503,22853.0,255.0,15405.16,8.4
+CMP-0538,Discover - Social Media - NA,Awareness,Social Media,North America ,Boomers (45-64),2023-07-13,2023-08-02,4650.0,4268.84,375569,3167.0,11.0,,3.0
+CMP-0759,Come Back - Email - LATAM,Retargeting,Email,Latin America,Millennials (25-34),2024-11-11,2024-11-17,2450.0,2347.71,188031,5076.0,455.0,21932.49,7.8
+CMP-1086,Black Friday - Video - NA,Seasonal Promo,Video,North America,Millennials (25-34),2024-08-31,2024-10-29,22150.0,18952.63,1064773,12160.0,719.0,64798.89,3.4
+CMP-0924,Last Chance - Search - NA,Retargeting,Search Ads,North America,Boomers (45-64),2024-02-14,2024-02-23,9100.0,8565.02,265898,11444.0,799.0,112115.98,10.0
+CMP-0039,First Look - Social Media - NA,product launch,Social Media ,N. America,Gen X (35-44),2024-09-24,2024-11-22,21050.0,15244.29,1737022,19091.0,291.0,36998.8,3.9
+CMP-0176,Spring Sale - Email - NA,Seasonal Promo,Email,North America,Millennials (25-34),2024-05-01,2024-05-10,4500.0,4062.34,350951,11394.0,563.0,64810.97,8.0
+CMP-0246,Last Chance - Influencer - EU,Retargeting,Influencer,Europe,Millennials (25-34),2023-07-13,2023-07-26,11550.0,10389.6,380017,6810.0,206.0,22073.43,4.4
+CMP-0811,Webinar - Email - NA,Lead Generation,Email,North America,Millennials (25-34),2024-03-24,2024-03-30,2550.0,1858.37,248511,10136.0,435.0,41303.15,9.2
+CMP-1102,Just Dropped - Social Media - APAC,Product Launch,Social Media,Asia Pacific,Millennials (25-34),2024-10-01,2024-10-14,21600.0,20243.44,1888344,45099.0,1021.0,54553.23,7.7
+CMP-1154,New Arrivals - Email - EU,Product Launch,Email,Europe ,Millennials (25-34),2023-06-28,2023-07-04,3400.0,2521.98,202168,6638.0,360.0,28578.91,6.9
+CMP-0785,Discover - Affiliate - APAC,Awareness,Affiliate,Asia Pacific,Boomers (45-64),2024-06-04,2024-06-17,,4589.52,504419,5508.0,88.0,8198.38,4.7
+CMP-1060,Black Friday - Video - EU,Seasonal Promo,Video,Europe,Gen Z (18-24),2023-08-29,2023-09-27,16250.0,11727.97,677365,11528.0,211.0,14721.1,3.9
+CMP-0490,Meet Us - Display - EU,Awareness,Display,Europe,Gen Z (18-24),2023-06-22,2023-06-28,,2870.78,953485,2475.0,14.0,716.61,1.4
+CMP-0155,Free Guide - Email - LATAM,Lead Generation,EMAIL,Latin America,Millennials (25-34),2024-02-07,2024-03-07,5950.0,5979.63,619864,19063.0,845.0,38888.18,7.8
+CMP-0639,Brand Story - Video - APAC,Awareness,Video,Asia Pacific,Millennials (25-34),2023-10-12,2023-10-25,21150.0,19616.23,1574658,12911.0,162.0,11091.2,3.1
+CMP-0663,Free Guide - Social Media - MEA,Lead Generation,Social Media,Middle East & Africa,Millennials (25-34),2024-10-13,2024-10-22,8900.0,7159.39,963967,16100.0,228.0,13810.61,5.7
+CMP-0854,Just Dropped - Affiliate - LATAM,Product Launch,Affiliate,,Gen X (35-44),2023-04-07,2023-04-20,8250.0,8271.14,729338,13531.0,713.0,58302.73,5.4
+CMP-0288,Summer Sale - Social Media - EU,Seasonal Promo,Social Media,Europe,Boomers (45-64),2024-11-19,2024-12-02,10050.0,7794.74,981400,11805.0,408.0,37874.4,2.9
+CMP-0626,Meet Us - Search - NA,Awareness,Search,North America,Boomers (45-64),2024-06-11,2024-08-09,44050.0,38053.13,880443,31159.0,509.0,74566.69,8.7
+CMP-1144,Free Trial - Influencer - NA,Lead Generation,Influencers,North America,Millennials (25-34),2024-11-28,2024-12-18,16600.0,16637.58,1271059,30298.0,1583.0,185530.3,7.9
+CMP-0686,Free Trial - Social Media - EU,Lead Generation,Social Media,Europe,Gen Z (18-24),2023-08-12,2023-09-25,31100.0,25486.37,3646296,72594.0,1000.0,59994.85,5.7
+CMP-1034,Newsletter Signup - Affiliate - MEA,Lead Generation,Affiliate,Middle East & Africa,,2023-01-29,2023-03-29,"$9,050",8842.26,1275416,11760.0,374.0,20193.31,4.8
+CMP-0903,Free Guide - Email - APAC,Lead Generation,Email,Asia Pacific,Gen X (35-44),2024-04-03,2024-04-23,4550.0,3839.64,395575,7529.0,413.0,29770.36,4.4
+CMP-0570,Brand Story - Search - LATAM,Awareness,Search,Latin America,Millennials (25-34),2024-10-15,2024-11-28,59950.0,43345.08,1632825,31412.0,1625.0,89084.31,4.5
+CMP-1161,Back to School - Email - LATAM,Seasonal Promo,Email,Latin America,Millennials (25-34),2023-05-22,2023-06-11,4900.0,4989.52,441511,11066.0,755.0,28056.81,5.7
+CMP-0735,Black Friday - Email - APAC,Seasonal Promo,Email,Asia Pacific,Boomers (45-64),2023-07-28,2023-08-10,3700.0,3460.57,331871,10677.0,467.0,38523.36,8.4
+CMP-0793,First Look - Social Media - EU,Product Launch,Social Media,Europe,Millennials (25-34),2024-04-15,2024-04-28,13600.0,13976.47,2290445,,675.0,60272.01,4.1
+CMP-0018,Launch - Email - EU,Product Launch,Email,Europe,Gen Z (18-24),2023-11-02,2024-01-30,9950.0,8832.06,869597,13781.0,630.0,33937.21,4.3
+CMP-0128,We Miss You - Email - EU,Retargeting,Email,Europe,Millennials (25-34),2024-06-26,2024-07-09,8450.0,6818.66,639911,18669.0,1543.0,93285.47,5.9
+CMP-0323,Newsletter Signup - Social Media - LATAM,Lead Generation,Social Media,Latin America,Millennials (25-34),2024-05-06,2024-05-12,5650.0,5850.99,590199,9403.0,155.0,8397.66,5.3
+CMP-0256,Last Chance - Video - NA,Retargeting,Video,North America,Gen Z (18-24),2023-12-06,2023-12-19,18700.0,13953.36,720478,8962.0,443.0,30025.8,3.7
+CMP-1190,Webinar - Display - NA,Lead Generation,Display ,North America,Gen X (35-44),2023-10-31,2023-11-20,7050.0,6792.17,1841582,13311.0,189.0,23382.34,2.9
+CMP-1197,Cart Reminder - Social Media - NA,Retargeting,Social Media,,Gen Z (18-24),2023-09-19,2023-10-02,10250.0,8032.43,1075051,30453.0,1062.0,86368.5,7.6
+CMP-0191,Holiday Deals - Affiliate - MEA,Seasonal Promo,Affiliate,Middle East & Africa,Millennials (25-34),2023-05-21,2023-06-10,"$11,750",10336.85,972662,17960.0,1449.0,97002.41,5.9
+CMP-0116,Cart Reminder - Influencer - APAC,Retargeting,Influencer,Asia Pacific,Boomers (45-64),2024-03-17,2024-06-14,41750.0,41070.42,3093903,27419.0,830.0,63904.48,4.5
+CMP-1191,Come Back - Search - APAC,Retargeting,Paid Search,Asia Pacific,Millennials (25-34),2024-03-07,2024-03-20,8750.0,7267.8,212749,9477.0,1652.0,81292.53,9.9
+CMP-1003,Launch - Email - LATAM,Product Launch,Email,Latin America,Boomers (45-64),2023-02-21,2023-02-27,1900.0,1383.09,138311,6552.0,152.0,8267.72,10.0
+CMP-0607,New Arrivals - Influencer - NA,Product Launch,Influencer,North America,Gen Z (18-24),2024-09-06,2024-10-05,19800.0,15641.6,971772,33016.0,936.0,61395.42,8.7
+CMP-0181,Hello World - Influencer - EU,Awareness,Influencer,Europe,Gen Z (18-24),2023-08-14,2023-09-12,24100.0,23451.12,1272932,17521.0,145.0,8898.7,4.5
+CMP-0302,First Look - Email - MEA,Product Launch,Email,MEA,Gen X (35-44),2023-06-09,2023-06-15,1950.0,1444.6,133557,4781.0,184.0,10956.9,7.6
+CMP-0497,Cart Reminder - Search - NA,Retargeting,Search,North America,Gen X (35-44),2024-11-07,2024-11-16,11700.0,10499.43,432583,24522.0,2313.0,212450.22,10.0
+CMP-0349,New Arrivals - Display - NA,Product Launch,Display,north america,Boomers (45-64),2024-10-05,2025-01-02,11800.0,11934.29,2869841,17019.0,261.0,26900.35,
+CMP-1053,Discover - Social Media - EU,Awareness,Social Media,Europe,Gen Z (18-24),2024-10-07,2024-10-27,10350.0,9176.5,902790,23141.0,,13893.09,5.0
+CMP-1126,New Arrivals - Search - MEA,product launch,Search,Middle East & Africa,Millennials (25-34),2023-04-10,2023-07-08,54500.0,54819.33,2335686,92515.0,3538.0,217538.17,8.4
+CMP-0745,Cart Reminder - Search - LATAM,retargeting,Search,Latin America,Gen X (35-44),2024-05-10,2024-06-08,13300.0,9598.08,287226,20831.0,2304.0,116210.96,10.0
+CMP-1099,Webinar - Influencer - NA,Lead Generation,Influencer,North America,Millennials (25-34),2024-06-18,2024-07-01,9700.0,9160.22,659347,19333.0,693.0,65048.71,7.1
+CMP-0989,New Arrivals - Social Media - NA,Product Launch,Social Media,North America,Gen X (35-44),2024-10-21,2025-01-18,21000.0,19503.71,2507921,34846.0,976.0,126807.91,4.2
+CMP-0518,Come Back - Video - APAC,Retargeting,Video,Asia Pacific,Boomers (45-64),2024-02-26,2024-04-10,39800.0,37720.64,3024313,41766.0,972.0,70571.59,4.9
+CMP-0373,Cart Reminder - Social Media - EU,Retargeting,Social Media,EU,Millennials (25-34),2024-02-26,2024-03-10,6000.0,5356.41,466227,7602.0,213.0,18829.9,4.5
+CMP-0046,Just Dropped - Influencer - NA,Product Launch,Influencer,North America,Gen X (35-44),2024-04-10,2024-04-23,19100.0,18712.14,879473,14682.0,216.0,32041.03,3.6
+CMP-0477,Newsletter Signup - Search - APAC,Lead Generation,Search,Asia Pacific,Gen X (35-44),2024-01-29,2024-02-27,18100.0,16705.07,492258,22073.0,699.0,45459.23,10.0
+CMP-0158,Free Trial - Display - EU,Lead Generation,Display,Europe,Millennials (25-34),2023-09-29,2023-10-12,9150.0,7011.68,2540481,13576.0,173.0,12937.16,3.7
+CMP-1064,Newsletter Signup - Display - NA,Lead Generation,Display,north america,Gen Z (18-24),2024-06-03,2024-06-16,6150.0,5205.61,1143644,5488.0,9565.0,10978.05,1.0
+CMP-0172,New Arrivals - Search - MEA,Product Launch,Search,Middle East & Africa,Boomers (45-64),2024-08-14,2024-08-20,14450.0,12889.93,332803,13860.0,272.0,20278.21,-1.0
+CMP-0017,Webinar - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2023-11-17,2023-11-23,8350.0,8414.53,211185,8180.0,644.0,56044.76,9.3
+CMP-0512,Brand Story - Influencer - EU,Awareness,Influencer,Europe,Boomers (45-64),2023-07-12,2023-07-21,10600.0,10389.42,850034,6303.0,43.0,4112.95,4.1
+CMP-0049,Launch - Display - LATAM,Product Launch,Display,Latin America,Millennials (25-34),2024-11-17,2024-12-16,9600.0,8336.46,1809293,6444.0,118.0,5444.43,2.3
+CMP-0192,Last Chance - Social Media - LATAM,Retargeting,Social Media,Latin America,Millennials (25-34),2023-12-03,2024-01-16,14700.0,10673.01,1503307,30691.0,1500.0,91903.67,5.2
+CMP-0547,Free Trial - Search - APAC,Lead Generation,Search,Asia Pacific,Gen Z (18-24),2024-10-21,2024-10-27,9100.0,7947.65,236474,7433.0,212.0,9570.25,6.4
+CMP-0516,Meet Us - Social Media - APAC,Awareness,Social Media,Asia Pacific,Millennials (25-34),2024-01-20,2024-02-18,15150.0,12144.07,1429489,24096.0,315.0,19414.34,6.4
+CMP-1012,Hello World - Display - EU,Awareness,Display,Europe,Millennials (25-34),2024-03-18,2024-05-01,19700.0,14556.32,4470742,20670.0,85.0,6921.95,2.0
+CMP-0971,We Miss You - Social Media - EU,Retargeting,Social Media,Europe,Millennials (25-34),2024-07-02,2024-08-30,29600.0,24986.55,2403005,41576.0,3212.0,303358.69,4.3
+CMP-0829,Black Friday - Influencer - EU,Seasonal Promo,Influencer,Europe,Millennials (25-34),2023-08-12,2023-09-01,14550.0,12464.96,905636,28129.0,639.0,55085.56,7.6
+CMP-1019,Hello World - Email - MEA,Awareness,Email,Middle East & Africa,Millennials (25-34),2024-11-01,2024-12-30,"$5,250",4840.41,393428,10162.0,253.0,13066.35,6.2
+CMP-0481,Hello World - Search - APAC,awareness,Search,Asia Pacific,Millennials (25-34),2023-04-01,2023-04-14,9550.0,8177.33,223504,9180.0,169.0,10967.59,9.9
+CMP-1146,Just Dropped - Social Media - NA,Product Launch,Social Media,North America,Gen Z (18-24),2023-01-22,2023-03-07,9200.0,6900.39,1251119,22876.0,641.0,40170.84,7.0
+CMP-0284,Just Dropped - Social Media - NA,Product Launch,Social,North America,Millennials (25-34),2023-02-07,2023-03-08,16000.0,13213.36,1538677,25026.0,409.0,39165.77,5.2
+CMP-1047,Holiday Deals - Social Media - NA,Seasonal Promo,Social Media,North America,Boomers (45-64),2023-09-03,2023-10-02,14800.0,14735.62,1948895,,725.0,83439.71,3.8
+CMP-0798,Brand Story - Social Media - EU,Awareness,Social Media,Europe,Gen X (35-44),2024-06-11,2024-06-20,7450.0,7305.93,1228942,11631.0,53.0,5181.14,4.1
+CMP-0972,Hello World - Email - NA,Awareness,Email,North America,Boomers (45-64),2023-03-20,2023-03-26,2400.0,2287.79,244975,7096.0,112.0,13354.31,7.9
+CMP-0226,New Arrivals - Affiliate - EU,Product Launch,Affiliate,Europe,Millennials (25-34),2023-09-29,2023-10-28,7150.0,6234.59,766804,10609.0,264.0,26875.79,3.9
+CMP-0027,Discover - Search - EU,Awareness,Search,Europe,Boomers (45-64),2023-09-29,2023-12-27,86850.0,86404.7,3243405,64599.0,1046.0,110785.64,5.3
+CMP-0283,Discover - Social Media - APAC,Awareness,social media,Asia Pacific,Gen X (35-44),2023-09-25,2023-10-04,4750.0,4847.1,715984,7514.0,67.0,3996.52,3.3
+CMP-1167,We Miss You - Influencer - NA,Retargeting,Influencer,North America,Gen X (35-44),2024-10-29,2024-11-27,"$10,200",10296.08,535222,9121.0,425.0,49154.74,5.3
+CMP-0438,Free Guide - Search - MEA,Lead Generation,Search,Middle East & Africa,Boomers (45-64),2024-02-25,2024-03-16,34000.0,26745.69,777165,32887.0,934.0,64177.15,8.3
+CMP-1200,First Look - Video - EU,Product Launch,Video,Europe,Gen X (35-44),2023-01-29,2023-02-18,15200.0,15870.5,921220,12171.0,334.0,29473.12,3.1
+CMP-0365,Discover - Display - APAC,Awareness,Display,Asia Pacific,Millennials (25-34),2024-03-31,2024-04-20,,7576.01,1897969,9883.0,94.0,5508.57,2.5
+CMP-0230,Webinar - Email - EU,Lead Generation,Email,Europe,Gen X (35-44),2023-08-15,2023-08-28,10550.0,11046.39,1370978,30177.0,1266.0,117159.41,5.1
+CMP-0038,Holiday Deals - Search - EU,Seasonal Promo,Search,Europe,Gen Z (18-24),2024-01-14,2024-01-27,"$12,400",13058.26,373914,12595.0,500.0,35490.75,7.7
+CMP-0670,Launch - Search - LATAM,Product Launch,Search,Latin America,Gen X (35-44),2024-09-04,2024-09-13,5450.0,5199.01,142029,7987.0,280.0,14462.81,10.0
+CMP-0750,Discover - Influencer - MEA,Awareness,Influencer,Middle East & Africa,Boomers (45-64),2023-05-03,2023-06-01,10850.0,9189.08,565762,5754.0,59.0,5029.49,2.0
+CMP-1198,Cart Reminder - Display - NA,Retargeting,Display,North America,,2024-04-26,2024-05-09,9700.0,7244.22,2023337,11679.0,520.0,48298.11,2.7
+CMP-0375,Black Friday - Email - NA,Seasonal Promo,Email,North America,Gen Z (18-24),2024-01-23,2024-02-05,2100.0,1597.78,167402,3795.0,136.0,9451.03,7.1
+CMP-0470,Meet Us - Search - LATAM,Awareness,Search,Latin America,Gen Z (18-24),2024-03-06,2024-03-19,9400.0,7987.63,219817,6152.0,91.0,3349.26,8.3
+CMP-0883,Webinar - Affiliate - APAC,Lead Generation,AFFILIATE,Asia Pacific,Gen X (35-44),2024-11-12,2024-12-02,10050.0,7547.84,1080732,11472.0,1181.0,87511.72,3.5
+CMP-1042,Discover - Display - NA,Awareness,Display,North America,Gen Z (18-24),2023-03-02,2023-04-30,31350.0,26662.16,6259018,18702.0,157.0,18018.76,3.8
+CMP-1199,Cart Reminder - Social Media - NA,Retargeting,Social Media,North America,Boomers (45-64),2023-03-09,2023-03-15,7450.0,7816.73,910370,8702.0,267.0,36515.89,
+CMP-0688,First Look - Affiliate - NA,Product Launch,Affiliate,North America,Gen Z (18-24),2024-10-12,2024-10-25,7950.0,7963.93,957522,13322.0,702.0,53453.77,4.9
+CMP-0033,Launch - Social Media - NA,Product Launch,Social Media,North America,Gen X (35-44),2023-06-05,2023-07-04,13100.0,12845.77,1565473,22990.0,480.0,54067.95,
+CMP-0640,Spring Sale - Influencer - APAC,Seasonal Promo,Influencer,asia pacific,Gen X (35-44),2023-12-21,2024-01-10,19050.0,19150.17,1324687,22214.0,1043.0,86197.26,
+CMP-1056,Back to School - Display - EU,Seasonal Promo,Display,Europe,Boomers (45-64),2024-10-06,2024-11-04,8400.0,7273.9,1803455,10041.0,185.0,16480.63,3.5
+CMP-0195,Free Trial - Email - LATAM,Lead Generation,email,Latin America,Gen X (35-44),2024-11-22,2024-12-21,11800.0,8809.64,807593,24988.0,1260.0,56725.16,6.0
+CMP-1123,Hello World - Influencer - EU,Awareness,Influencer,Europe,Millennials (25-34),2023-01-22,2023-01-28,10600.0,7821.25,296146,4067.0,50.0,4732.09,5.9
+CMP-0128,We Miss You - Email - EU,Retargeting,Email,Europe,Millennials (25-34),2024-06-26,2024-07-09,8450.0,6818.66,639911,18669.0,1543.0,93285.47,5.9
+CMP-0985,Webinar - Email - EU,lead generation,Email,Europe,Gen X (35-44),2024-01-15,2024-01-24,8250.0,7273.64,623613,26877.0,897.0,84110.94,10.0
+CMP-0504,Come Back - Search - APAC,Retargeting,Search,Asia Pacific,Millennials (25-34),2023-10-23,2023-12-06,32850.0,33935.16,1508518,55651.0,5752.0,289698.87,10.0
+CMP-0916,Meet Us - Affiliate - MEA,Awareness,Affiliate,Middle East & Africa,Millennials (25-34),2023-10-24,2023-11-13,14050.0,14549.03,1499240,10392.0,137.0,8124.79,3.1
+CMP-1011,Back to School - Display - MEA,Seasonal Promo,Display,Middle East & Africa,Boomers (45-64),2023-09-09,2023-09-15,8400.0,7708.65,2566236,15884.0,269.0,20349.1,4.3
+CMP-0765,Holiday Deals - Affiliate - APAC,Seasonal Promo,Affiliate,Asia Pacific,Gen X (35-44),2024-02-16,2024-04-15,,11764.84,1858173,25146.0,1903.0,152606.11,6.2
+CMP-1164,Discover - Social Media - LATAM,Awareness,Social Media,Latin America,Millennials (25-34),2024-05-02,2024-06-30,37800.0,37412.16,3652619,36449.0,538.0,32140.17,3.8
+CMP-0801,Summer Sale - Video - LATAM,Seasonal Promo,video,Latin America,Gen X (35-44),2024-11-26,2024-12-16,36650.0,32653.34,2334121,14605.0,446.0,29475.11,3.3
+CMP-0580,Last Chance - Social Media - EU,Retargeting,Social Media,Europe ,,2023-07-23,2023-08-21,13900.0,11762.04,1520412,16699.0,549.0,,5.2
+CMP-0161,Spring Sale - Email - APAC,Seasonal Promo,Email,Asia Pacific,Boomers (45-64),2024-02-23,2024-04-22,3600.0,2890.45,201732,12093.0,514.0,40907.68,10.0
+CMP-0681,Newsletter Signup - Email - EU,Lead Generation,email,,Gen Z (18-24),2024-05-14,2024-05-27,2950.0,2428.66,212804,5722.0,149.0,9875.14,6.6
+CMP-0957,New Arrivals - Video - NA,Product Launch,Video,North America,Gen X (35-44),2024-06-03,2024-06-16,27200.0,24387.42,1773075,20689.0,633.0,55644.22,3.6
+CMP-1148,Last Chance - Influencer - LATAM,Retargeting,Influencer,Latin America,Gen X (35-44),2024-02-23,2024-03-23,11300.0,10515.15,696382,16167.0,539.0,29177.48,6.1
+CMP-0163,Black Friday - Social Media - APAC,Seasonal Promo,Social Media,Asia Pacific,Gen Z (18-24),2024-10-10,2024-10-19,8350.0,8420.67,1384660,30305.0,668.0,40552.58,6.3
+CMP-0822,Last Chance - Display - NA,Retargeting,Display,North America,Gen Z (18-24),2023-11-12,2023-11-25,7600.0,6907.79,2177361,10939.0,261.0,17784.36,3.2
+CMP-0706,Back to School - Display - EU,Seasonal Promo,Display,Europe,Gen Z (18-24),2023-11-28,2024-02-25,18200.0,14887.47,3075212,9820.0,130.0,8809.08,1.6
+CMP-1035,Brand Story - Search - APAC,Awareness,Search,Asia Pacific,Gen X (35-44),2023-02-25,2023-03-26,24900.0,24168.8,823135,27566.0,667.0,49725.88,6.1
+CMP-0878,New Arrivals - Social Media - NA,Product Launch,Social Media,North America,Millennials (25-34),2023-11-03,2023-12-02,36200.0,33713.08,3090142,42726.0,1553.0,164984.46,4.3
+CMP-0896,Cart Reminder - Influencer - EU,Retargeting,Influencer,Europe,Millennials (25-34),2023-05-22,2023-07-05,21200.0,20381.27,1697084,46602.0,1905.0,136088.57,7.5
+CMP-0914,Summer Sale - Affiliate - APAC,Seasonal Promo,Affiliate,Asia Pacific,Gen Z (18-24),2024-02-26,2024-03-06,4000.0,4189.76,629466,5986.0,190.0,9698.78,2.9
+CMP-0351,Free Trial - Display - NA,Lead Generation,display,North America,Millennials (25-34),2023-10-15,2023-10-21,2450.0,1968.36,416711,1641.0,53.0,5872.52,1.0
+CMP-0153,Back to School - Email - NA,Seasonal Promo,email,North America,Millennials (25-34),2024-07-22,2024-07-09,5400.0,5575.71,536382,17139.0,1008.0,81076.26,7.4
+CMP-1084,New Arrivals - Influencer - APAC,Product Launch,Influencer,Asia Pacific,Gen X (35-44),2023-01-30,2023-02-28,13500.0,10658.25,866920,15429.0,253.0,17550.39,3.6
+CMP-1032,New Arrivals - Video - APAC,Product Launch,Video,Asia Pacific,Millennials (25-34),2023-10-05,2023-10-25,29000.0,28873.52,1437829,16321.0,203.0,13450.94,3.3
+CMP-0510,Just Dropped - Email - NA,Product Launch,Email,North America,Millennials (25-34),2024-07-25,2024-08-03,"$4,300",4362.98,493430,26120.0,1033.0,,10.0
+CMP-0112,Webinar - Social Media - MEA,Lead Generation,Social Media,Middle East & Africa,Gen X (35-44),2024-10-26,2024-11-24,17100.0,16121.85,2638443,36454.0,898.0,65087.3,3.2
+CMP-0227,First Look - Email - NA,Product Launch,Email,N. America,Millennials (25-34),2024-09-28,2024-10-27,10400.0,11019.59,1168475,52642.0,2231.0,182745.06,10.0
+CMP-1095,Hello World - Display - NA,Awareness,Display Ads,north america,Millennials (25-34),2024-06-09,2024-07-23,21150.0,20665.49,3704670,20823.0,101.0,11870.18,2.9
+CMP-0852,Launch - Social Media - NA,Product Launch,Social Media,North America,Boomers (45-64),2023-11-06,2023-11-19,20100.0,21219.17,2138017,28295.0,734.0,79776.45,
+CMP-0104,Come Back - Affiliate - NA,Retargeting,Affiliate,North America,Gen X (35-44),2024-05-26,2024-06-24,1250000.0,11324.75,1684539,22081.0,1432.0,163144.22,5.5
+CMP-0422,Holiday Deals - Email - EU,Seasonal Promo,Email,Europe,Gen Z (18-24),2023-06-14,2023-07-28,14300.0,13695.88,1318868,23015.0,945.0,59445.53,4.7
+CMP-0420,Cart Reminder - Affiliate - NA,Retargeting,Affiliate,North America,Gen X (35-44),2023-10-09,2023-10-29,10600.0,9179.62,967268,14831.0,1472.0,159683.42,6.2
+CMP-0968,Summer Sale - Social Media - EU,Seasonal Promo,Social Media,Europe,Gen Z (18-24),2023-09-22,2023-10-05,16600.0,15343.57,1716102,36576.0,745.0,53348.06,6.3
+CMP-0625,Free Trial - Affiliate - APAC,Lead Generation,Affiliate,Asia Pacific,Gen Z (18-24),2024-06-09,2024-07-23,"$11,400",8736.92,862145,16990.0,676.0,28514.1,5.1
+CMP-0587,Hello World - Social Media - EU,Awareness,Social Media,Europe,Gen Z (18-24),2023-11-12,2023-11-18,5800.0,5844.62,589761,9130.0,89.0,5038.08,4.5
+CMP-1078,Come Back - Search - NA,Retargeting,Search,North America,Gen Z (18-24),2024-08-03,2024-08-23,,9619.93,247937,7658.0,858.0,61146.9,8.0
+CMP-0920,Newsletter Signup - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2023-05-16,2023-06-14,23900.0,17622.32,696679,18472.0,847.0,97165.95,8.1
+CMP-0673,Come Back - Affiliate - MEA,Retargeting,Affiliate,MEA,,2024-01-03,2024-01-09,,1944.29,278501,4989.0,169.0,11532.59,6.9
+CMP-0120,Free Trial - Display - LATAM,Lead Generation,Display,Latin America,Millennials (25-34),2023-07-15,2023-08-13,16400.0,17026.74,5242061,17443.0,191.0,10669.65,2.5
+CMP-0054,Spring Sale - Display - APAC,Seasonal Promo,Display,Asia Pacific,Gen Z (18-24),2023-05-06,2023-05-15,8850.0,8919.1,1967477,9165.0,189.0,9648.24,3.0
+CMP-0152,New Arrivals - Influencer - LATAM,Product Launch,Influencer Marketing,Latin America,Millennials (25-34),2024-01-24,2024-01-30,6750.0,6420.71,503739,18521.0,284.0,,8.8
+CMP-0404,Just Dropped - Email - LATAM,Product Launch,Email,Latin America,Millennials (25-34),2024-04-09,2024-05-08,4000.0,3619.66,278664,8743.0,213.0,12784.39,8.0
+CMP-0454,Webinar - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-11-01,2023-11-14,7100.0,7357.95,801097,22515.0,870.0,80560.46,6.8
+CMP-0208,Newsletter Signup - Display - NA,Lead Generation,Display,North America,Gen X (35-44),2024-09-06,2024-10-05,12000.0,11477.4,2499317,11719.0,159.0,22361.07,3.8
+CMP-1152,New Arrivals - Influencer - LATAM,Product Launch,Influencer,Latin America,Millennials (25-34),2024-04-22,2024-05-05,16400.0,16241.45,1122715,31224.0,576.0,26800.34,
+CMP-0659,Free Guide - Display - NA,Lead Generation,Display,North America,Boomers (45-64),2023-12-22,2024-02-04,33500.0,25984.4,7660030,35362.0,288.0,32168.03,1.8
+CMP-1114,Last Chance - Affiliate - NA,Retargeting,Affiliate,North America,Boomers (45-64),2024-02-21,,13300.0,13270.69,1601115,32267.0,2403.0,259523.48,6.3
+CMP-0233,Come Back - Affiliate - NA,Retargeting,Affiliate,,Millennials (25-34),2023-09-19,2023-10-09,8350.0,-7507.01,632247,5281.0,526.0,51820.81,2.8
+CMP-0009,Free Trial - Email - NA,Lead Generation,Email,North America,Gen Z (18-24),2023-11-27,2023-12-10,6250.0,5093.81,395037,3899.0,258.0,22955.22,2.7
+CMP-1015,Newsletter Signup - Social Media - MEA,Lead Generation,social media,Middle East & Africa,Millennials (25-34),2024-02-15,2024-03-15,9550.0,7324.61,777262,12020.0,145.0,11302.92,5.8
+CMP-0160,Discover - Video - NA,Awareness,Video,North America,Gen Z (18-24),2023-09-12,2023-09-21,7950.0,7213.57,741660,9543.0,57.0,,3.6
+CMP-0037,Launch - Email - NA,Product Launch,Email,North America,Boomers (45-64),2024-11-30,2025-01-13,10000.0,9328.1,1208572,69167.0,4038.0,457948.9,10.0
+CMP-0453,Come Back - Video - NA,Retargeting,Video,North America,Millennials (25-34),2024-07-06,2024-07-12,7650.0,6856.88,321446,3408.0,198.0,17629.51,4.0
+CMP-0652,Discover - Influencer - LATAM,Awareness,Influencer,LATAM,,2023-01-30,2023-02-28,13100.0,10377.99,568603,11238.0,58.0,2217.71,4.4
+CMP-0254,Back to School - Social Media - MEA,Seasonal Promo,Social Media,Middle East & Africa,Millennials (25-34),2023-06-01,2023-06-14,12550.0,11650.03,1567938,29335.0,593.0,33134.5,7.1
+CMP-0304,Cart Reminder - Search - EU,Retargeting,Search,Europe,Millennials (25-34),2024-06-03,2024-07-17,57650.0,51817.91,1933762,52278.0,2502.0,,7.0
+CMP-0897,Summer Sale - Social Media - NA,seasonal promo,Social Media,North America,Millennials (25-34),2024-01-20,2024-03-04,22200.0,17833.6,2328822,44385.0,1664.0,175877.93,6.7
+CMP-1066,Spring Sale - Affiliate - NA,Seasonal Promo,Affiliate,North America,Millennials (25-34),2023-06-22,2023-08-05,11450.0,8914.34,918686,10670.0,608.0,52385.75,3.4
+CMP-0881,Black Friday - Search - EU,Seasonal Promo,Search,Europe,Millennials (25-34),2023-07-11,2023-08-24,31000.0,28054.13,937089,29243.0,1954.0,169016.2,7.3
+CMP-1150,Last Chance - Influencer - NA,Retargeting,Influencer,North America,Gen Z (18-24),2024-03-31,2024-04-13,16400.0,12775.27,891149,27504.0,638.0,32865.12,8.4
+CMP-0624,New Arrivals - Search - APAC,Product Launch,Search,Asia Pacific,Gen Z (18-24),2024-03-04,2024-05-02,58750.0,56241.37,1746819,74414.0,1788.0,81638.51,8.3
+CMP-0346,Spring Sale - Video - EU,Seasonal Promo,Video,Europe,Boomers (45-64),2023-08-10,2023-08-16,,5167.76,285329,3370.0,94.0,10370.2,5.0
+CMP-1048,Holiday Deals - Video - APAC,Seasonal Promo,Video,Asia Pacific,Gen Z (18-24),2023-01-29,2023-02-18,11950.0,8940.77,468167,5228.0,138.0,6565.7,3.3
+CMP-0263,Webinar - Social Media - NA,Lead Generation,Social Media,North America,Gen X (35-44),2024-08-27,2024-09-16,9500.0,7403.57,748153,10168.0,439.0,37514.88,4.4
+CMP-0151,First Look - Influencer - APAC,Product Launch,Influencer,Asia Pacific,Gen Z (18-24),2023-07-24,2023-08-06,12300.0,12134.75,804699,23472.0,384.0,19568.49,8.5
+CMP-0473,Hello World - Email - APAC,Awareness,Email,Asia Pacific,Millennials (25-34),2023-09-15,,"$3,900",3448.63,355047,6451.0,120.0,8624.53,4.1
+CMP-0641,Free Guide - Video - NA,Lead Generation,Video,north america,Gen X (35-44),2024-05-02,2024-05-22,705000.0,7194.18,501130,4376.0,43.0,3557.79,3.4
+CMP-1053,Discover - Social Media - EU,Awareness,Social Media,Europe,Gen Z (18-24),2024-10-07,2024-10-27,10350.0,9176.5,902790,23141.0,,13893.09,5.0
+CMP-1147,New Arrivals - Video - LATAM,Product Launch,Video,Latin America,Millennials (25-34),2024-02-19,2024-02-25,14300.0,10675.56,757566,10840.0,169.0,7226.5,4.8
+CMP-0551,Meet Us - Search - APAC,Awareness,Search,asia pacific,Millennials (25-34),2024-03-05,2024-03-18,14900.0,12913.79,333185,9708.0,212.0,14292.14,7.0
+CMP-0929,First Look - Display - NA,Product Launch,Display,north america,Millennials (25-34),2024-08-07,2024-08-27,11250.0,10727.77,2417418,12218.0,209.0,19895.37,2.0
+CMP-0489,Discover - Display - EU,Awareness,Display,Europe,Gen Z (18-24),2023-10-22,2023-12-05,"$17,600",13620.23,4015320,16543.0,125.0,7425.83,3.9
+CMP-1098,Back to School - Influencer - NA,Seasonal Promo,Influencer,North America,Millennials (25-34),2024-04-11,2024-05-01,8750.0,6461.55,375681,9699.0,342.0,31967.58,5.9
+CMP-0147,Come Back - Social Media - EU,Retargeting,Social Media,Europe,Millennials (25-34),2023-06-20,2023-09-17,14550.0,12022.61,1197734,17603.0,658.0,60130.2,4.1
+CMP-0403,Hello World - Video - APAC,Awareness,Video,Asia Pacific,Boomers (45-64),2023-12-31,2024-02-13,28900.0,27221.85,1995245,11825.0,218.0,13112.32,4.8
+CMP-0955,New Arrivals - Affiliate - APAC,Product Launch,AFFILIATE,Asia Pacific,Millennials (25-34),2024-10-12,2024-10-25,12250.0,9041.14,760058,19093.0,1465.0,97026.83,6.8
+CMP-1142,Just Dropped - Video - NA,Product Launch,Video,North America,Millennials (25-34),2023-04-12,2023-04-25,19800.0,19905.29,1331469,9421.0,148.0,14664.55,5.5
+CMP-0660,Newsletter Signup - Search - NA,Lead Generation,Search,North America,Millennials (25-34),2024-11-14,2025-01-12,34950.0,34032.09,1155063,51427.0,3257.0,272071.98,10.0
+CMP-0464,Meet Us - Social Media - NA,Awareness,Social Media,North America,Gen X (35-44),2024-08-19,2024-09-17,21450.0,21528.08,2182204,32733.0,305.0,36225.92,5.3
+CMP-0187,Webinar - Social Media - APAC,Lead Generation,Social,Asia Pacific,Boomers (45-64),2024-01-02,2024-01-31,5150.0,5063.27,507229,4667.0,84.0,4206.86,3.3
+CMP-0609,Hello World - Video - EU,Awareness,Video,Europe,Millennials (25-34),2024-06-04,2024-07-18,59800.0,53160.97,2985820,9288.0,105.0,9763.91,2.3
+CMP-0144,Newsletter Signup - Display - EU,Lead Generation,Display,Europe,Millennials (25-34),2023-06-21,2023-07-20,16050.0,16096.13,4123215,17686.0,310.0,27442.52,1.9
+CMP-0752,Just Dropped - Social Media - NA,Product Launch,Social Media,North America,Gen Z (18-24),2023-02-03,2023-03-04,18700.0,14029.02,1309560,53127.0,572.0,44467.71,8.7
+CMP-0982,Last Chance - Influencer - MEA,Retargeting,Influencer,Middle East & Africa,,2023-08-21,2023-10-19,"$32,300",33399.08,2099759,57173.0,2317.0,180156.07,6.2
+CMP-0198,Newsletter Signup - Influencer - LATAM,Lead Generation,Influencer,Latin America,Gen X (35-44),2024-09-14,2024-10-04,12900.0,11256.18,597572,10754.0,436.0,25896.53,5.7
+CMP-0884,Meet Us - Search - NA,Awareness,Search,North America,Millennials (25-34),2023-07-25,2023-07-31,4350.0,3774.2,101202,3362.0,103.0,12459.06,8.1
+CMP-0280,Free Guide - Influencer - EU,Lead Generation,Influencer,Europe,Millennials (25-34),2023-05-12,2023-05-25,"$14,400",11894.68,1070820,14600.0,413.0,28370.52,4.8
+CMP-0294,Cart Reminder - Email - APAC,Retargeting,Email,Asia Pacific,Millennials (25-34),2024-02-21,2024-04-05,3950.0,2844.6,300566,10639.0,731.0,44457.96,9.3
+CMP-1106,Launch - Video - EU,Product Launch,Video,Europe,Millennials (25-34),2024-04-05,2024-04-11,25700.0,26656.8,2324267,18914.0,410.0,32789.31,2.5
+CMP-0401,Last Chance - Social Media - LATAM,Retargeting,Social Media,Latin America,Gen X (35-44),2023-08-26,2023-09-15,14550.0,10747.89,1705251,23933.0,825.0,49694.2,
+CMP-0123,Webinar - Email - NA,Lead Generation,Email,North America,Boomers (45-64),2023-03-28,2023-04-17,4200.0,3684.75,426867,10132.0,746.0,101085.8,5.8
+CMP-0203,First Look - Search - MEA,Product Launch,Search,Middle East & Africa,Millennials (25-34),2024-03-18,2024-05-16,26050.0,24751.08,547819,20836.0,680.0,49114.69,7.2
+CMP-0836,Brand Story - Display - APAC,Awareness,Display,asia pacific,Gen X (35-44),2023-01-27,2023-02-02,3000.0,2327.95,647002,2073.0,32.0,2263.22,2.5
+CMP-0247,Back to School - Display - LATAM,Seasonal Promo,Display,Latin America,Gen X (35-44),2024-02-05,2024-03-05,15400.0,11967.38,2625018,9706.0,93.0,4485.16,3.0
+CMP-1157,New Arrivals - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2023-04-24,2023-06-07,15300.0,13557.17,1752025,46132.0,1752.0,165907.87,7.0
+CMP-0385,Free Guide - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Millennials (25-34),2023-07-07,2023-07-20,6350.0,5677.04,344120,5753.0,110.0,8872.71,5.3
+CMP-0855,Discover - Social Media - EU,Awareness,Social Media,Europe,Millennials (25-34),2023-02-07,2023-04-07,40000.0,41283.29,3782740,25682.0,152.0,18152.87,3.8
+CMP-0220,Last Chance - Search - MEA,Retargeting,Search,Middle East & Africa,Boomers (45-64),2023-06-01,2023-06-07,6950.0,5959.85,246270,9068.0,452.0,33125.85,8.1
+CMP-0642,We Miss You - Influencer - EU,Retargeting,Influencer,EU,Boomers (45-64),2024-03-11,2024-03-17,7300.0,7174.55,379122,5165.0,194.0,18592.75,5.6
+CMP-0002,Black Friday - Search - EU,Seasonal Promo,Search,Europe,Gen Z (18-24),2023-11-02,2023-11-15,13350.0,10118.63,243849,9307.0,626.0,41449.85,8.9
+CMP-0113,Brand Story - Social Media - EU,Awareness,Social Media ,Europe,Boomers (45-64),2023-12-30,2024-01-19,14000.0,11314.93,983195,7295.0,96.0,8231.29,3.3
+CMP-0699,Webinar - Display - NA,Lead Generation,Display ,North America,Millennials (25-34),2024-06-22,2024-07-21,10500.0,9348.67,1989664,9911.0,186.0,18741.36,2.7
+CMP-0952,Brand Story - Social Media - NA,Awareness,Social Media,,Gen X (35-44),2024-06-13,2024-08-11,"$17,550",13506.1,1514160,25764.0,454.0,57377.22,5.8
+CMP-0580,Last Chance - Social Media - EU,Retargeting,Social Media,Europe ,,2023-07-23,2023-08-21,13900.0,11762.04,1520412,16699.0,549.0,,5.2
+CMP-0442,Just Dropped - Email - NA,Product Launch, Email,North America,Gen X (35-44),2024-10-05,2024-10-18,2800.0,2611.51,254020,9404.0,454.0,48798.66,9.7
+CMP-0664,Last Chance - Email - EU,Retargeting,Email,Europe,Gen X (35-44),2023-05-03,2023-05-23,"$9,650",8778.69,901991,30144.0,2350.0,267571.52,6.2
+CMP-1113,We Miss You - Display - EU,Retargeting,Display,Europe,Gen X (35-44),2024-03-15,2024-03-24,10900.0,11487.95,1745282,9052.0,143.0,12685.67,3.4
+CMP-0318,Cart Reminder - Display - MEA,Retargeting,Display,Middle East & Africa,Millennials (25-34),2023-09-10,2023-12-08,18850.0,14396.47,2849368,7036.0,125.0,6871.94,4.1
+CMP-0649,We Miss You - Display - EU,Retargeting,Display,Europe,Gen Z (18-24),2024-07-11,2024-07-24,6350.0,5984.99,1839939,11929.0,397.0,21135.45,3.4
+CMP-0710,We Miss You - Search - LATAM,Retargeting,Paid Search,Latin America,,2023-02-13,2023-03-14,3035000.0,25988.36,856687,52910.0,5016.0,277870.05,10.0
+CMP-0973,Come Back - Email - EU,Retargeting, Email,Europe,Gen Z (18-24),2023-05-05,2023-08-02,7450.0,5402.71,697683,11161.0,373.0,19348.06,5.5
+CMP-0628,We Miss You - Email - EU,Retargeting,Email,Europe,Gen Z (18-24),2024-10-17,2024-10-26,2250.0,1646.05,202557,3513.0,313.0,21186.8,5.6
+CMP-0633,Free Trial - Email - EU,Lead Generation,Email,Europe,Gen X (35-44),2023-05-07,2023-05-16,2950.0,2570.6,270598,6461.0,274.0,26519.12,6.8
+CMP-1189,Black Friday - Email - APAC,Seasonal Promo,Email,Asia Pacific,Gen Z (18-24),2023-03-25,2023-05-08,8250.0,7995.58,716884,12089.0,284.0,13917.24,5.9
+CMP-0904,Cart Reminder - Search - MEA,Retargeting,Search,Middle East & Africa,Millennials (25-34),2023-02-13,2023-02-22,8300.0,6750.64,195969,9087.0,833.0,52890.48,9.8
+CMP-0796,Free Guide - Social Media - APAC,Lead Generation,Social Media,Asia Pacific,Millennials (25-34),2023-08-30,2023-09-19,14800.0,11283.49,1256170,17678.0,538.0,26883.14,
+CMP-0646,Cart Reminder - Influencer - APAC,Retargeting,Influencer,Asia Pacific,Millennials (25-34),2023-10-30,2023-11-19,16250.0,16838.21,1379693,,1588.0,129171.9,5.8
+CMP-1013,Just Dropped - Search - LATAM,Product Launch,Search,Latin America,Gen X (35-44),2023-01-27,2023-02-16,6900.0,6502.46,240210,14511.0,329.0,25385.53,10.0
+CMP-0557,Hello World - Social Media - NA,Awareness,Social Media,North America,Boomers (45-64),2023-03-16,2023-04-14,9000.0,7954.71,766775,6146.0,48.0,7157.72,
+CMP-0682,Meet Us - Social Media - APAC,Awareness,Social Media,Asia Pacific,Millennials (25-34),2024-03-11,2024-03-17,9350.0,7218.61,723821,9030.0,164.0,12939.15,0.0
+CMP-0578,Black Friday - Display - EU,Seasonal Promo,Display,Europe,Boomers (45-64),2024-10-18,2024-10-31,10150.0,10689.48,2754881,16637.0,337.0,35210.21,1.3
+CMP-0525,Discover - Email - EU,Awareness,Email,Europe,Boomers (45-64),2024-09-26,2024-10-25,8750.0,7493.69,800086,19596.0,373.0,34773.7,6.8
+CMP-1060,Black Friday - Video - EU,Seasonal Promo,Video,Europe,Gen Z (18-24),2023-08-29,2023-09-27,16250.0,11727.97,677365,11528.0,211.0,14721.1,3.9
+CMP-0541,Last Chance - Affiliate - NA,Retargeting,Affiliate,North America,Millennials (25-34),2023-09-21,2023-10-20,4600.0,4401.68,601701,7548.0,459.0,42897.39,4.1
+CMP-0749,Come Back - Video - NA,Retargeting,Video,North America,Millennials (25-34),2024-06-04,2024-08-02,46650.0,49328.59,4486580,38881.0,1468.0,145630.58,2.7
+CMP-0543,Last Chance - Influencer - NA,Retargeting,Influencer,North America,Gen Z (18-24),2023-10-17,2023-10-26,6000.0,4327.59,429762,570711.0,313.0,28420.51,5.9
+CMP-0485,Just Dropped - Email - NA,Product Launch,Email,North America,Millennials (25-34),2023-05-03,2023-05-23,5850.0,5048.65,607219,23800.0,1188.0,83066.94,9.4
+CMP-0096,First Look - Display - EU,product launch,Display,Europe,Millennials (25-34),2024-04-04,2024-04-17,,3284.44,778533,5920.0,101.0,8466.03,3.2
+CMP-1021,Cart Reminder - Influencer - EU,Retargeting,Influencer,Europe,Gen Z (18-24),2023-09-23,2023-10-06,10850.0,10714.6,676259,25828.0,747.0,39185.29,8.4
+CMP-0564,New Arrivals - Display - NA,Product Launch,Display,North America,Millennials (25-34),2024-02-11,2024-02-24,5900.0,4441.77,1259647,4456.0,54.0,5887.53,3.2
+CMP-0743,Come Back - Influencer - EU,Retargeting,Influencer,Europe,Gen X (35-44),2024-08-09,2024-08-15,8050.0,7643.58,390778,11745.0,893.0,83532.31,7.1
+CMP-0864,Just Dropped - Display - NA,Product Launch,Display,North America,Boomers (45-64),2024-10-02,2024-10-31,9950.0,8755.01,1657071,9150.0,125.0,15391.45,3.7
+CMP-0892,Black Friday - Affiliate - LATAM,Seasonal Promo,Affiliate,Latin America,Boomers (45-64),2024-04-02,2024-05-31,5300.0,4163.25,417378,5924.0,195.0,12177.9,6.1
+CMP-1039,Hello World - Search - EU,Awareness,Search,Europe,Gen Z (18-24),2024-06-18,2024-08-01,65600.0,67475.87,1903755,64837.0,1666.0,101546.45,7.4
+CMP-0207,Summer Sale - Email - MEA,Seasonal Promo,Email,Middle East & Africa,Gen X (35-44),2024-09-10,2024-09-16,1750.0,1467.5,132412,5854.0,361.0,26207.91,10.0
+CMP-0393,Summer Sale - Display - MEA,Seasonal Promo,Display,Middle East & Africa,Gen Z (18-24),2024-10-03,2024-10-12,3500.0,3641.06,584931,4047.0,41.0,1853.67,3.3
+CMP-0795,Holiday Deals - Email - EU,Seasonal Promo,Email,Europe,Millennials (25-34),2023-07-07,2023-07-13,3350.0,3157.39,425268,15531.0,1535.0,118941.11,9.5
+CMP-0871,Come Back - Video - LATAM,Retargeting,Video,Latin America,Boomers (45-64),2024-02-20,2024-03-11,41400.0,37235.03,1579321,18586.0,802.0,45323.75,4.5
+CMP-0398,Webinar - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-09-05,2023-11-03,20150.0,21048.8,3025509,25848.0,716.0,54769.98,2.8
+CMP-0767,Brand Story - Social Media - APAC,Awareness,Social Media,Asia Pacific,Millennials (25-34),2023-06-21,2023-07-20,18300.0,15846.34,2252227,49477.0,471.0,35926.26,5.1
+CMP-1117,Summer Sale - Email - NA,Seasonal Promo,Email,North America,Millennials (25-34),2024-04-01,2024-04-30,10200.0,10800.53,1035122,33932.0,3697.0,266613.23,8.4
+CMP-1029,We Miss You - Video - NA,Retargeting,Video,North America,Gen Z (18-24),2024-04-30,2024-05-20,34250.0,25682.87,1560743,19505.0,855.0,78072.93,3.3
+CMP-0643,Spring Sale - Email - NA,seasonal promo,Email,North America,Millennials (25-34),2024-01-27,2024-03-11,5300.0,4382.22,398743,8554.0,433.0,35111.4,4.9
+CMP-0613,Spring Sale - Affiliate - APAC,Seasonal Promo,Affiliate,asia pacific,Millennials (25-34),2024-08-24,2024-08-30,14000.0,12922.94,2506757,35503.0,1476.0,107205.3,4.1
+CMP-0961,Free Trial - Search - EU,Lead Generation,Paid Search,Europe,Boomers (45-64),2024-06-16,2024-06-29,"$18,800",18135.71,1074584,39865.0,2679.0,218640.47,7.7
+CMP-0726,Hello World - Email - NA,Awareness,Email,North America,Millennials (25-34),2023-03-29,2023-04-11,1900.0,1961.51,150498,5146.0,69.0,8377.37,8.3
+CMP-0684,Black Friday - Search - APAC,Seasonal Promo,Search,Asia Pacific,Gen Z (18-24),2024-01-30,2024-02-05,17050.0,12326.56,574821,26214.0,751.0,37411.51,10.0
+CMP-0099,Last Chance - Email - APAC,Retargeting,Email,Asia Pacific,Gen Z (18-24),2024-06-07,2024-06-13,1800.0,1732.28,173474,3425.0,129.0,6116.87,5.2
+CMP-0805,Cart Reminder - Email - NA,Retargeting,Email,North America,Millennials (25-34),2024-08-06,2024-08-15,4400.0,3605.44,380291,14394.0,2228.0,177665.57,9.1
+CMP-0407,Webinar - Social Media - MEA,Lead Generation,Social Media,Middle East & Africa,Millennials (25-34),2024-03-23,2024-04-21,21300.0,15983.01,1486321,24061.0,329.0,19895.73,4.1
+CMP-0503,Brand Story - Affiliate - EU,Awareness,Affiliate,europe,Millennials (25-34),2024-09-17,2024-09-26,4600.0,3614.77,446686,6862.0,105.0,8473.64,4.9
+CMP-1072,Just Dropped - Display - APAC,Product Launch,Display,Asia Pacific,Millennials (25-34),2024-06-26,2024-07-25,22200.0,21405.0,5500057,48493.0,882.0,56461.57,3.2
+CMP-1057,Cart Reminder - Affiliate - LATAM,Retargeting,Affiliate,Latin America,Boomers (45-64),2024-06-22,2024-07-12,7250.0,6405.5,740570,9394.0,440.0,,2.9
+CMP-0930,Webinar - Video - NA,Lead Generation,video,North America,Millennials (25-34),2023-09-15,2023-09-28,19750.0,15068.31,1427545,11966.0,276.0,27626.9,4.8
+CMP-0780,New Arrivals - Influencer - NA,Product Launch,Influencer,North America,Gen Z (18-24),2024-02-05,2024-02-25,"$18,750",14379.54,1147020,55743.0,1672.0,132841.81,10.0
+CMP-0201,Webinar - Video - EU,Lead Generation,Video,Europe,Gen Z (18-24),2024-05-13,2024-06-11,48100.0,39662.33,3940795,47311.0,955.0,55191.45,4.9
+CMP-0135,Come Back - Display - MEA,retargeting,Display,Middle East & Africa,Gen Z (18-24),2023-10-06,2023-11-19,6650.0,6876.88,2267414,11920.0,184.0,7401.07,3.3
+CMP-1052,New Arrivals - Email - APAC,Product Launch,Email,Asia Pacific,Gen X (35-44),2023-04-13,2023-04-26,"$5,300",4686.26,493581,11761.0,810.0,62037.07,6.8
+CMP-0041,Last Chance - Search - LATAM,Retargeting,Search,Latin America,Millennials (25-34),2023-09-08,2023-09-17,30000.0,24369.97,914603,45617.0,2568.0,155328.32,9.7
+CMP-1018,Summer Sale - Influencer - MEA,Seasonal Promo,Influencer,Middle East & Africa,Millennials (25-34),2023-05-09,2023-05-22,7300.0,6478.62,374436,7337.0,157.0,9366.65,5.6
+CMP-0231,Hello World - Email - MEA,Awareness,Email,Middle East & Africa,Millennials (25-34),2023-02-15,2023-03-07,8600.0,7958.99,869598,18974.0,423.0,19817.61,7.1
+CMP-0379,Free Guide - Search - MEA,Lead Generation,Search,Middle East & Africa,Millennials (25-34),2023-06-25,2023-07-24,20500.0,18445.22,748098,29559.0,1282.0,95134.06,10.0
+CMP-0289,Free Trial - Search - LATAM,Lead Generation,Search,Latin America,Boomers (45-64),2024-10-15,2024-11-28,29050.0,22993.56,713058,24286.0,1563.0,86714.94,7.5
+CMP-0419,Launch - Social Media - MEA,Product Launch,Social,Middle East & Africa,Gen Z (18-24),2024-07-23,2024-08-05,12450.0,10187.37,1044871,26076.0,370.0,13095.0,5.5
+CMP-0392,Meet Us - Email - NA,Awareness,Email,North America,Millennials (25-34),2023-06-06,2023-07-05,4750.0,4021.47,393940,6009.0,170.0,12829.89,4.9
+CMP-0593,Newsletter Signup - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-01-11,2023-04-10,27950.0,24676.1,2581351,33024.0,732.0,56672.15,3.9
+CMP-1087,Summer Sale - Video - LATAM,Seasonal Promo,Video,Latin America,Millennials (25-34),2024-05-11,2024-05-24,"$13,950",10882.29,782607,8279.0,143.0,6767.57,5.2
+CMP-0648,Holiday Deals - Search - APAC,Seasonal Promo,Search,Asia Pacific,Gen Z (18-24),2024-01-24,2024-01-30,7400.0,7311.97,218899,7226.0,204.0,9496.57,7.7
+CMP-0521,Last Chance - Influencer - NA,Retargeting,Influencer,North America,Boomers (45-64),2024-01-27,2024-02-16,30700.0,32404.73,1959620,51278.0,1535.0,169529.38,6.0
+CMP-0065,Webinar - Display - EU,Lead Generation,Display,Europe,Millennials (25-34),2023-01-29,2023-02-04,3750.0,3865.13,1197352,6924.0,145.0,10464.52,3.8
+CMP-0015,First Look - Search - NA,Product Launch,Search,,Gen X (35-44),2024-05-25,2024-06-23,19250.0,19305.89,499586,29962.0,1604.0,173254.48,10.0
+CMP-1065,Holiday Deals - Social Media - EU,Seasonal Promo,Social Media,Europe,Gen X (35-44),2023-07-17,2023-08-15,15300.0,14660.57,1444119,21417.0,769.0,52503.83,5.5
+CMP-0493,Summer Sale - Display - NA,Seasonal Promo,Display,North America,Boomers (45-64),2024-02-24,2024-03-15,5800.0,5053.07,1045149,6517.0,92.0,11596.32,4.2
+CMP-0380,Meet Us - Video - LATAM,Awareness,Video,Latin America,Gen X (35-44),2023-03-14,2023-03-20,14650.0,14923.38,1209606,10472.0,72.0,3575.58,3.8
+CMP-0188,Discover - Email - NA,Awareness,Email,North America,Gen Z (18-24),2023-07-08,2023-07-21,4700.0,3441.62,299448,6519.0,102.0,6944.65,6.6
+CMP-0764,Black Friday - Email - NA,Seasonal Promo,Email,North America,Boomers (45-64),2023-09-27,2023-10-26,6250.0,6317.43,557153,24638.0,1026.0,111564.2,10.0
+CMP-0217,Discover - Email - EU,Awareness,Email,Europe,Millennials (25-34),2023-06-24,2023-07-14,11200.0,11219.37,852996,14758.0,392.0,33413.27,4.9
+CMP-0792,Brand Story - Search - APAC,Awareness,Search,Asia Pacific,Gen X (35-44),2024-11-12,2024-11-21,6900.0,7311.24,340397,20588.0,524.0,37230.09,10.0
+CMP-1077,Come Back - Search - EU,Retargeting,Search,Europe,Gen Z (18-24),2023-07-08,2023-08-21,12950.0,12048.55,325615,20037.0,800.0,65682.93,10.0
+CMP-0879,Webinar - Display - NA,Lead Generation,Display,North America,Boomers (45-64),2024-03-22,2024-04-20,8250.0,6109.97,1578242,5831.0,77.0,8867.23,2.3
+CMP-0338,Just Dropped - Video - APAC,Product Launch,Video,Asia Pacific,Gen X (35-44),2023-01-22,2023-02-20,65150.0,65415.76,4226512,39481.0,861.0,74656.34,4.8
+CMP-0720,Free Trial - Affiliate - MEA,Lead Generation,Affiliate,Middle East & Africa,Millennials (25-34),2023-07-31,2023-08-06,2150.0,1591.44,192300,2509.0,54.0,3452.27,5.6
+CMP-0296,Discover - Affiliate - APAC,Awareness,Affiliate,Asia Pacific,Gen X (35-44),2024-07-02,2024-07-15,3750.0,2700.02,278848,4111.0,90.0,8446.19,4.6
+CMP-1017,Spring Sale - Display - NA,Seasonal Promo,Display,North America,Gen Z (18-24),2024-11-04,2024-11-24,8250.0,7729.44,1352744,6625.0,86.0,6878.69,3.2
+CMP-0456,We Miss You - Social Media - EU,Retargeting,Social Media,Europe,Boomers (45-64),2023-08-14,2023-09-27,18250.0,15171.42,1733823,17281.0,710.0,66016.97,2.9
+CMP-0816,Holiday Deals - Influencer - EU,Seasonal Promo,Influencer,Europe,Gen X (35-44),2024-10-12,2024-10-21,11150.0,11647.63,711099,19622.0,579.0,53084.6,6.0
+CMP-0270,Just Dropped - Email - NA,Product Launch,Email,North America,,2024-03-17,2024-04-30,8150.0,7528.28,584405,14584.0,660.0,75227.27,5.8
+CMP-0996,Last Chance - Search - LATAM,Retargeting,Search,Latin America,Boomers (45-64),2023-06-18,2023-08-01,36350.0,33388.73,1303476,49957.0,2915.0,,8.8
+CMP-0202,Back to School - Affiliate - NA,Seasonal Promo,Affiliate,North America,Gen Z (18-24),2023-12-16,2023-12-22,6000.0,5618.55,1141215,16732.0,1127.0,102045.73,5.0
+CMP-0162,Back to School - Affiliate - EU,Seasonal Promo,Affiliate,Europe,Millennials (25-34),2023-04-15,2023-04-28,4500.0,3852.32,585441,,597.0,38327.73,4.2
+CMP-0730,We Miss You - Search - EU,Retargeting,Search,Europe,Boomers (45-64),2024-03-30,2024-04-08,9600.0,8236.18,266318,13076.0,703.0,73376.7,10.0
+CMP-0402,Just Dropped - Affiliate - NA,Product Launch,Affiliate,North America,Millennials (25-34),2023-06-02,2023-07-01,4350.0,3489.69,372757,5786.0,333.0,33595.37,6.0
+CMP-0703,Cart Reminder - Email - LATAM,Retargeting,Email,Latin America,Boomers (45-64),2023-04-13,2023-05-27,8200.0,6090.76,766734,37948.0,1945.0,118140.24,10.0
+CMP-1130,New Arrivals - Affiliate - EU,Product Launch,Affiliate,Europe,Millennials (25-34),2024-09-11,2024-09-17,4250.0,3124.07,260019,4238.0,108.0,7796.71,5.1
+CMP-0566,New Arrivals - Display - NA,Product Launch,Display,North America ,Millennials (25-34),2023-10-19,2023-11-01,645000.0,6554.21,1366207,5150.0,101.0,8483.15,3.9
+CMP-1022,Free Trial - Video - EU,Lead Generation,Video,Europe,Boomers (45-64),2023-10-25,2023-11-14,24850.0,26158.92,2169349,13171.0,195.0,17805.76,1.3
+CMP-1026,First Look - Social Media - NA,Product Launch,Social Media,North America,Gen X (35-44),2023-08-31,2023-09-06,9300.0,8531.78,1037184,21018.0,375.0,43119.93,5.4
+CMP-1105,Holiday Deals - Email - EU,Seasonal Promo,Email,Europe,Gen Z (18-24),2024-01-07,2024-02-20,5450.0,4919.56,426188,6807.0,343.0,28034.99,4.9
+CMP-0206,Hello World - Social Media - NA,Awareness,Social Media,North America,Gen Z (18-24),2023-05-06,2023-06-04,39250.0,34901.36,5158283,6683621.0,1033.0,56150.81,6.1
+CMP-0035,Holiday Deals - Search - NA,Seasonal Promo,Search,North America,Gen X (35-44),2024-05-19,2024-06-17,24450.0,17614.72,547734,22303.0,1888.0,229172.62,9.0
+CMP-0776,Hello World - Influencer - NA,Awareness,Influencer,North America,Gen Z (18-24),2024-01-07,2024-04-05,18350.0,16137.66,1152482,28184.0,177.0,9646.02,6.7
+CMP-0509,Cart Reminder - Search - LATAM,Retargeting,Search,Latin America,Boomers (45-64),2024-01-13,2024-01-26,14700.0,11173.59,391804,19714.0,1356.0,94721.61,10.0
+CMP-0568,Free Guide - Email - NA,Lead Generation,email,North America,Millennials (25-34),2023-02-06,2023-02-19,3350.0,3143.92,189225,6299.0,100.0,8847.98,6.7
+CMP-0092,Webinar - Display - APAC,Lead Generation,Display,Asia Pacific,Gen X (35-44),2023-07-31,2023-08-29,9750.0,7619.86,2572946,5820.0,108.0,7418.96,2.8
+CMP-0898,First Look - Social Media - EU,Product Launch,Social Media,Europe,Millennials (25-34),2023-03-14,2023-04-12,28050.0,24746.07,2862262,66597.0,935.0,101726.07,
+CMP-0565,Free Guide - Display - NA,Lead Generation,Display,North America,Gen X (35-44),2023-11-01,2023-11-30,13300.0,10111.58,2383424,7059.0,127.0,16646.15,
+CMP-0777,Cart Reminder - Display - EU,Retargeting,Display Ads,Europe,Gen X (35-44),2023-11-12,2023-12-11,20500.0,18771.69,3825598,19524.0,525.0,66924.17,1.6
+CMP-0242,Summer Sale - Video - NA,Seasonal Promo,Video,North America,Gen X (35-44),2023-09-30,2023-11-13,19800.0,18561.67,1383351,10878.0,268.0,26994.94,4.8
+CMP-0014,Launch - Influencer - EU,Product Launch,Influencer,Europe,Boomers (45-64),2023-10-14,2023-10-27,11200.0,11529.19,608583,8176.0,212.0,19753.72,4.2
+CMP-0316,Newsletter Signup - Social Media - NA,Lead Generation,Social Media,North America,Millennials (25-34),2023-06-20,2023-07-03,10700.0,10268.82,1139274,14120.0,371.0,27866.73,4.5
+CMP-0601,Cart Reminder - Search - APAC,Retargeting,Search,Asia Pacific,Gen Z (18-24),2023-06-11,2023-07-01,15600.0,15080.73,503865,27511.0,2142.0,77032.28,10.0
+CMP-0388,New Arrivals - Affiliate - EU,Product Launch,Affiliate,Europe,Millennials (25-34),2023-09-06,2023-10-20,"$20,650",18099.55,2330756,25360.0,1177.0,111253.9,5.1
+CMP-0167,Brand Story - Influencer - NA,Awareness,Influencer,North America,Millennials (25-34),2023-09-06,2023-10-05,31300.0,27949.15,1570765,29928.0,515.0,44499.56,5.2
+CMP-0841,Last Chance - Email - NA,Retargeting,Email,North America,Gen Z (18-24),2023-12-13,2024-01-11,4300.0,3946.84,281702,4700.0,496.0,32092.92,4.5
+CMP-0021,Discover - Video - NA,Awareness,Video,North America,,2023-05-06,2023-05-26,19700.0,20770.68,1535601,14170.0,318.0,50583.28,3.3
+CMP-0647,Launch - Email - EU,Product Launch,Email,Europe,Boomers (45-64),2023-07-01,2023-07-21,7700.0,6175.07,467288,10615.0,517.0,49375.96,5.4
+CMP-1155,Newsletter Signup - Search - EU,Lead Generation,Search,Europe,Boomers (45-64),2024-05-30,2024-06-08,6150.0,4869.74,208670,11832.0,616.0,71563.85,10.0
+CMP-0832,Hello World - Search - EU,Awareness,Search,europe,Boomers (45-64),2023-11-11,2023-12-01,21400.0,18787.96,529238,20978.0,626.0,74075.84,10.0
+CMP-0563,Meet Us - Influencer - NA,Awareness,Influencer,North America,Boomers (45-64),2023-10-17,2023-11-06,10400.0,10265.54,702584,8293.0,76.0,6984.99,5.5
+CMP-1188,First Look - Affiliate - NA,Product Launch,Affiliates,North America,Gen X (35-44),2023-11-21,2024-02-18,10200.0,8443.24,1075622,9756.0,481.0,62333.79,3.2
+CMP-0687,Webinar - Search - NA,Lead Generation,Search,North America,,2024-06-05,2024-06-25,13050.0,-12168.57,342062,12720.0,606.0,81464.28,9.2
+CMP-0958,New Arrivals - Search - NA,Product Launch,Search,North America,,2023-05-05,2023-07-03,,36005.99,1604923,55370.0,3612.0,439652.79,7.2
+CMP-0190,Webinar - Social Media - NA,Lead Generation,Social Media,North America,Gen X (35-44),2024-04-29,2024-05-28,15550.0,14477.35,1814461,21649.0,478.0,53495.87,3.5
+CMP-0976,Just Dropped - Display - EU,Product Launch,Display,Europe,Gen Z (18-24),2024-01-24,2024-02-06,5350.0,4032.21,1122538,5561.0,41.0,2690.19,3.7
+CMP-0700,Discover - Social Media - NA,Awareness,Social Media,,,2023-07-13,2023-07-22,7900.0,6386.75,717683,7320.0,77.0,8935.16,3.3
+CMP-0511,Spring Sale - Email - APAC,Seasonal Promo,Email,Asia Pacific,,2024-01-19,2024-04-17,4950.0,4615.58,378890,8715.0,1015.0,70607.22,6.9
+CMP-1083,Cart Reminder - Affiliate - EU,Retargeting,AFFILIATE,Europe,Gen X (35-44),2024-05-02,2024-06-15,7650.0,6855.74,1001407,13779.0,1120.0,114680.38,5.0
+CMP-0475,Hello World - Social Media - APAC,Awareness,Social Media,Asia Pacific,Gen Z (18-24),2024-06-21,2024-06-30,6100.0,5648.28,537933,7041.0,47.0,2225.44,5.2
+CMP-0857,Discover - Video - MEA,Awareness,Video,Middle East and Africa,Gen Z (18-24),2023-09-07,2023-10-06,46500.0,42194.07,3306554,40963.0,246.0,9923.67,4.8
+CMP-0748,Spring Sale - Search - MEA,Seasonal Promo,Search,Middle East & Africa,,2023-02-02,2023-02-15,12500.0,12728.39,327746,15744.0,642.0,55385.45,10.0
+CMP-0253,We Miss You - Search - LATAM,Retargeting,Search,Latin America,Millennials (25-34),2024-08-17,2024-09-15,33800.0,29217.31,1027557,,3028.0,147426.19,7.8
+CMP-0022,Brand Story - Social Media - NA,Awareness,Social Media,North America,Millennials (25-34),2023-12-29,2024-01-18,27400.0,29002.99,4366000,42788.0,362.0,,5.4
+CMP-0460,New Arrivals - Display - NA,Product Launch,Display,North America ,Gen X (35-44),2023-01-18,2023-01-31,8150.0,7818.78,1932763,8186.0,134.0,15018.21,2.4
+CMP-1185,Last Chance - Social Media - NA,Retargeting,Social Media,North America,,2024-08-01,2024-08-21,13450.0,11376.01,2107198,27629.0,1052.0,128318.89,5.3
+CMP-0277,Just Dropped - Social Media - EU,Product Launch,Social Media,Europe,Gen Z (18-24),2024-11-19,2024-11-28,17150.0,17095.85,1341921,52104.0,427.0,30902.59,7.9
+CMP-0956,Newsletter Signup - Influencer - LATAM,Lead Generation,Influencer,Latin America,Gen X (35-44),2024-05-18,2024-06-07,16050.0,15302.29,1049776,14366.0,273.0,18170.6,4.3
+CMP-0386,Black Friday - Affiliate - MEA,Seasonal Promo,Affiliate,MEA,Gen Z (18-24),2024-05-07,2024-06-05,24300.0,21690.47,2531362,45417.0,1292.0,69664.76,4.6
+CMP-0806,Free Trial - Email - LATAM,Lead Generation,Email,Latin America,Gen X (35-44),2023-04-30,2023-05-29,3650.0,3008.64,361961,12582.0,317.0,21672.78,8.6
+CMP-0344,Black Friday - Display - NA,Seasonal Promo,Display,North America,Gen X (35-44),2023-02-19,2023-04-19,33700.0,35232.29,7701922,44075.0,820.0,109626.16,3.5
+CMP-0770,Black Friday - Display - EU,Seasonal Promo,Display,Europe,Millennials (25-34),2023-02-08,2023-03-09,12800.0,12245.99,2372368,12162.0,168.0,13047.68,1.9
+CMP-0131,Spring Sale - Social Media - APAC,Seasonal Promo,social media,Asia Pacific,Boomers (45-64),2024-09-29,2024-10-12,9700.0,8664.55,1036195,12411.0,257.0,20486.88,4.5
+CMP-0872,New Arrivals - Email - EU,Product Launch,Email,Europe,Millennials (25-34),2024-03-14,2024-03-27,3150.0,2563.14,188309,6657.0,208.0,21105.59,7.7
+CMP-1124,Webinar - Social Media - NA,Lead Generation,Social Media,North America,Gen X (35-44),2023-02-24,2023-03-09,12550.0,13070.17,1761326,35669.0,908.0,114580.8,5.6
+CMP-0088,Last Chance - Search - EU,Retargeting,Search,Europe,Boomers (45-64),2023-10-28,2023-11-06,12750.0,11568.74,437474,24931.0,1980.0,230531.92,10.0
+CMP-0331,Brand Story - Video - NA,Awareness,Video,North America,Millennials (25-34),2023-08-28,2023-09-10,17350.0,14472.27,973207,6984.0,45.0,4724.66,2.7
+CMP-0467,Free Trial - Display - LATAM,Lead Generation,Display,Latin America,Millennials (25-34),2024-07-01,2024-08-14,11800.0,12194.28,3835757,23216.0,439.0,,5.0
+CMP-0122,Launch - Display - EU,product launch,Display,Europe,Millennials (25-34),2023-12-20,2024-01-02,7000.0,5617.22,1768895,6272.0,65.0,5080.94,2.3
+CMP-1045,Last Chance - Email - EU,Retargeting,Email,Europe,Millennials (25-34),2024-08-19,,4950.0,4709.27,275002,12271.0,680.0,46781.47,10.0
+CMP-1096,We Miss You - Search - NA,Retargeting,Search,North America,Gen X (35-44),2024-06-08,2024-06-14,27850.0,20109.34,818754,57069.0,4953.0,492997.19,10.0
+CMP-1131,Meet Us - Affiliate - EU,Awareness,Affiliate,Europe,Millennials (25-34),2023-10-27,2023-11-09,3400.0,3119.47,375160,3656.0,47.0,4314.98,
+CMP-0861,Hello World - Video - MEA,Awareness,Video,Middle East & Africa,Millennials (25-34),2024-11-13,2025-01-11,66650.0,59701.61,3428277,18836.0,226.0,16472.83,3.2
+CMP-1127,Meet Us - Search - NA,Awareness,Search,North America,Gen X (35-44),2024-07-11,2024-07-24,21550.0,20535.17,813165,30281.0,466.0,60921.14,7.6
