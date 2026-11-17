@@ -84,7 +84,6 @@ The project has two parts:
 │   │   └── marketing_campaigns_encoded.csv        # encoded + scaled, ready for machine learning
 │   ├── diagrams/                                  # 10 charts saved by the notebook
 │   ├── requirements.txt
-│   └── README.md
 │
 ├── marketing-campaign-pipeline/                   # Part 2
 │   ├── Notebooks/
@@ -98,9 +97,6 @@ The project has two parts:
 │   └── README.md
 │
 ├── screenshots/                                   # screenshots of the notebooks for this README
-├── docs/
-│   ├── Marketing Campaign Effectiveness Analysis Certificate.pdf   # the task brief
-│   └── mindrisers_logo.png
 └── README.md
 ```
 
